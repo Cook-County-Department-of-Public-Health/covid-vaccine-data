@@ -6,7 +6,7 @@ This repository was created to share data related to COVID-19 vaccination covera
 
 Vaccination data for our jurisdiction comes from the Illinois Comprehensive Automated Immunization Registry Exchange, or [I-CARE](https://dph.illinois.gov/topics-services/prevention-wellness/immunization/icare.html), a web-based immunization registry operated by the Illinois Department of Public Health. Reporting immunizations to I-CARE is typically voluntary. However, during the COVID-19 Public Health Emergency, vaccination providers received vaccines from the federal government at no cost. In exchange for these supplies, providers committed to reporting administered COVID-19 vaccinations to their state immunization registries. As a result, vaccination coverage could be estimated using these data.
 
-With the ending of the Public Health Emergency declaration on May 11, 2023, COVID-19 vaccines will [commercialize](https://aspr.hhs.gov/COVID-19/Pages/FAQ-Commercialization.aspx); when the federal government's current supply of vaccines is exhausted, procurement and payment will move to traditional pathways and **vaccinations will no longer be reportable** to I-CARE. This transition is currently expected in early fall of 2023. This repository will continue to be updated on a monthly basis until that point in time.
+With the ending of the Public Health Emergency declaration on May 11, 2023, COVID-19 vaccines will [commercialize](https://aspr.hhs.gov/COVID-19/Pages/FAQ-Commercialization.aspx); when the federal government's current supply of vaccines is exhausted, procurement and payment will move to traditional pathways and **vaccinations will no longer be reportable** to I-CARE. This transition is currently expected in early fall of 2023. This repository will continue to be updated on a monthly basis; however, we expect coverage estimates to be **less accurate** following the transition to commercial pathways and voluntary provider reporting to I-CARE. 
 
 ## How to Use This Repository
 
@@ -25,9 +25,9 @@ To download a single file, click on the file you would like to download. You wil
 
 ## Definitions
 
-Files contain the number of residents with at least one dose of any COVID-19 vaccine (n_onedose) and the number of residents "up to date" with COVID-19 vaccines (n_uptodate). The definition of "up to date" is updated as CDC's vaccine recommendations change. Current vaccine recommendations are available [here](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/stay-up-to-date.html). Coverage estimates for both measures (coverage_onedose and coverage_uptodate) are calculated by dividing the number of residents vaccinated by the corresponding population estimate from the 2020 Decennial Census, then multiplying by 100 to obtain a percent.
+Files contain the number of residents with at least one dose of any COVID-19 vaccine (n_onedose), the number of residents with at least one 2022 (bivalent) shot (n_bivalent), and the number of residents with an updated 2023-2024 shot (n_2023). Residents are considered "up to date" with COVID-19 shots if they have received an updated 2023-2024 vaccine. Current vaccine recommendations are available [here](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/stay-up-to-date.html). Coverage estimates for all measures are calculated by dividing the number of residents vaccinated by the corresponding population estimate from the 2020 Decennial Census, then multiplying by 100 to obtain a percent.
 
-For n_onedose and coverage_onedose, data is grouped by the earliest shot date on record. For n_uptodate and coverage_uptodate, data is grouped by the most recent date of bivalent booster receipt. 
+For n_onedose and coverage_onedose, data are grouped by the earliest shot date on record. For n_bivalent and coverage_bivalent as well as n_2023 and coverage_2023, data are grouped by the earliest date of 2022 (bivalent) or 2023-2024 booster receipt, respectively. 
 
 ## Caveats
 
