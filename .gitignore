@@ -1,0 +1,7 @@
+*
+!/.gitignore
+!/README.md
+!/vaccine-weekly-totals.csv
+!/vaccine-weekly-by-age.csv
+!/vaccine-weekly-by-race-ethnicity.csv
+!/vaccine-weekly-by-region.csv

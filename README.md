@@ -21,13 +21,13 @@ To download a single file, click on the file you would like to download. You wil
 * **vaccine-weekly-totals**: This file contains weekly cumulative counts and coverage estimates for CCDPH's jurisdiction.
 * **vaccine-weekly-by-age**: This file contains weekly cumulative counts and coverage estimates for CCDPH's jurisdiction, broken down by age group.
 * **vaccine-weekly-by-race-ethnicity**: This file contains weekly cumulative counts and coverage estimates for CCDPH's jurisdiction, broken down by race and ethnicity group.
-* **vaccine-weekly-by-district**: This file contains weekly cumulative counts and coverage estimates for CCDPH's jurisdiction, broken down by our four public health [districts](https://cookcountypublichealth.org/wp-content/uploads/2018/12/SCC-Map.pdf).
+* **vaccine-weekly-by-region**: This file contains weekly cumulative counts and coverage estimates for CCDPH's jurisdiction, broken down by our four public health [regions](https://cookcountypublichealth.org/wp-content/uploads/2018/12/SCC-Map.pdf).
 
 ## Definitions
 
-Files contain the number of residents with at least one dose of any COVID-19 vaccine (n_onedose), the number of residents with at least one 2024-2025 shot (n_2024), and the number of residents with an updated 2025-2026 shot (n_2025). Current vaccine recommendations for Illinois residents are available [here](https://dph.illinois.gov/content/dam/soi/en/web/idph/documents/topics-services/diseases-and-conditions/respiratory-disease/2025-26-respiratory-immunization-recommendations.pdf). Coverage estimates for all measures are calculated by dividing the number of residents vaccinated by the corresponding population estimate from the 2020 Decennial Census, then multiplying by 100 to obtain a percent.
+Files contain the number of residents with at least one dose of any COVID-19 vaccine (n_onedose), the number of residents with at least one 2025-2026 shot (n_2025), and the number of residents with an updated 2026-2027 shot (n_2026). Current vaccine recommendations for Illinois residents are available [here](https://dph.illinois.gov/content/dam/soi/en/web/idph/publications/idph/topics-and-services/diseases-and-conditions/respiratory-disease/guidance/respiratory-virus-season-guidance-2026-27.pdf). Coverage estimates for all measures are calculated by dividing the number of residents vaccinated by the corresponding population estimate from the 2020 Decennial Census, then multiplying by 100 to obtain a percent.
 
-For n_onedose and coverage_onedose, data are grouped by the earliest shot date on record. For n_2024 and coverage_2024 as well as n_2025 and coverage_2025, data are grouped by the earliest date of 2024-2025 shot receipt or 2025-2026 shot receipt, respectively. 
+For n_onedose and coverage_onedose, data are grouped by the earliest shot date on record. For n_2025 and coverage_2025 as well as n_2026 and coverage_2026, data are grouped by the earliest date of 2025-2026 shot receipt or 2026-2027 shot receipt, respectively. 
 
 ## Caveats
 

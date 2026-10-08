@@ -1,1466 +1,1516 @@
-week_end,race_eth,n_onedose,n_2024,n_2025,coverage_onedose,coverage_2024,coverage_2025
-2020-12-19,Hispanic/Latino,691,0,0,0.1,0.0,0.0
+week_end,race_eth,n_onedose,n_2025,n_2026,coverage_onedose,coverage_2025,coverage_2026
+2020-12-19,Hispanic/Latino,692,0,0,0.1,0.0,0.0
 2020-12-19,Non-Hispanic Asian,1554,0,0,0.8,0.0,0.0
-2020-12-19,Non-Hispanic Black,508,0,0,0.1,0.0,0.0
-2020-12-19,Non-Hispanic Other,1890,0,0,2.9,0.0,0.0
-2020-12-19,Non-Hispanic White,6578,0,0,0.6,0.0,0.0
-2020-12-26,Hispanic/Latino,1300,0,0,0.2,0.0,0.0
-2020-12-26,Non-Hispanic Asian,2743,0,0,1.5,0.0,0.0
-2020-12-26,Non-Hispanic Black,1247,0,0,0.3,0.0,0.0
-2020-12-26,Non-Hispanic Other,3405,0,0,5.2,0.0,0.0
-2020-12-26,Non-Hispanic White,11167,0,0,1.0,0.0,0.0
-2021-01-02,Hispanic/Latino,2826,0,0,0.5,0.0,0.0
-2021-01-02,Non-Hispanic Asian,4213,0,0,2.2,0.0,0.0
-2021-01-02,Non-Hispanic Black,2527,0,0,0.7,0.0,0.0
-2021-01-02,Non-Hispanic Other,5831,0,0,8.9,0.0,0.0
-2021-01-02,Non-Hispanic White,17544,0,0,1.5,0.0,0.0
-2021-01-09,Hispanic/Latino,4784,0,0,0.9,0.0,0.0
-2021-01-09,Non-Hispanic Asian,5990,0,0,3.2,0.0,0.0
-2021-01-09,Non-Hispanic Black,4031,0,0,1.1,0.0,0.0
-2021-01-09,Non-Hispanic Other,8603,0,0,13.2,0.0,0.0
-2021-01-09,Non-Hispanic White,24177,0,0,2.1,0.0,0.0
-2021-01-16,Hispanic/Latino,6516,0,0,1.2,0.0,0.0
-2021-01-16,Non-Hispanic Asian,7873,0,0,4.2,0.0,0.0
-2021-01-16,Non-Hispanic Black,5944,0,0,1.6,0.0,0.0
-2021-01-16,Non-Hispanic Other,12379,0,0,19.0,0.0,0.0
-2021-01-16,Non-Hispanic White,34269,0,0,3.0,0.0,0.0
-2021-01-23,Hispanic/Latino,9062,0,0,1.7,0.0,0.0
-2021-01-23,Non-Hispanic Asian,9957,0,0,5.3,0.0,0.0
-2021-01-23,Non-Hispanic Black,8502,0,0,2.3,0.0,0.0
-2021-01-23,Non-Hispanic Other,17795,0,0,27.3,0.0,0.0
-2021-01-23,Non-Hispanic White,48945,0,0,4.3,0.0,0.0
-2021-01-30,Hispanic/Latino,12585,0,0,2.4,0.0,0.0
-2021-01-30,Non-Hispanic Asian,12665,0,0,6.7,0.0,0.0
-2021-01-30,Non-Hispanic Black,12430,0,0,3.4,0.0,0.0
-2021-01-30,Non-Hispanic Other,27247,0,0,41.8,0.0,0.0
-2021-01-30,Non-Hispanic White,74797,0,0,6.6,0.0,0.0
-2021-02-06,Hispanic/Latino,17934,0,0,3.4,0.0,0.0
-2021-02-06,Non-Hispanic Asian,16449,0,0,8.7,0.0,0.0
-2021-02-06,Non-Hispanic Black,18173,0,0,4.9,0.0,0.0
-2021-02-06,Non-Hispanic Other,39958,0,0,61.3,0.0,0.0
-2021-02-06,Non-Hispanic White,109887,0,0,9.6,0.0,0.0
-2021-02-13,Hispanic/Latino,23766,0,0,4.5,0.0,0.0
-2021-02-13,Non-Hispanic Asian,20750,0,0,11.0,0.0,0.0
-2021-02-13,Non-Hispanic Black,23937,0,0,6.5,0.0,0.0
-2021-02-13,Non-Hispanic Other,52588,0,0,80.7,0.0,0.0
-2021-02-13,Non-Hispanic White,147229,0,0,12.9,0.0,0.0
-2021-02-20,Hispanic/Latino,28269,0,0,5.4,0.0,0.0
-2021-02-20,Non-Hispanic Asian,24341,0,0,12.9,0.0,0.0
-2021-02-20,Non-Hispanic Black,28113,0,0,7.6,0.0,0.0
-2021-02-20,Non-Hispanic Other,60620,0,0,>90,0.0,0.0
-2021-02-20,Non-Hispanic White,172289,0,0,15.1,0.0,0.0
-2021-02-27,Hispanic/Latino,33417,0,0,6.4,0.0,0.0
-2021-02-27,Non-Hispanic Asian,28046,0,0,14.9,0.0,0.0
-2021-02-27,Non-Hispanic Black,33485,0,0,9.1,0.0,0.0
-2021-02-27,Non-Hispanic Other,69031,0,0,>90,0.0,0.0
-2021-02-27,Non-Hispanic White,196137,0,0,17.2,0.0,0.0
-2021-03-06,Hispanic/Latino,39228,0,0,7.5,0.0,0.0
-2021-03-06,Non-Hispanic Asian,32226,0,0,17.1,0.0,0.0
-2021-03-06,Non-Hispanic Black,39514,0,0,10.7,0.0,0.0
-2021-03-06,Non-Hispanic Other,77972,0,0,>90,0.0,0.0
-2021-03-06,Non-Hispanic White,224410,0,0,19.7,0.0,0.0
-2021-03-13,Hispanic/Latino,48058,0,0,9.2,0.0,0.0
-2021-03-13,Non-Hispanic Asian,37389,0,0,19.8,0.0,0.0
-2021-03-13,Non-Hispanic Black,49682,0,0,13.4,0.0,0.0
-2021-03-13,Non-Hispanic Other,89467,0,0,>90,0.0,0.0
-2021-03-13,Non-Hispanic White,261480,0,0,22.9,0.0,0.0
-2021-03-20,Hispanic/Latino,60772,0,0,11.6,0.0,0.0
-2021-03-20,Non-Hispanic Asian,45208,0,0,24.0,0.0,0.0
-2021-03-20,Non-Hispanic Black,59684,0,0,16.2,0.0,0.0
-2021-03-20,Non-Hispanic Other,102325,0,0,>90,0.0,0.0
-2021-03-20,Non-Hispanic White,306812,0,0,26.9,0.0,0.0
-2021-03-27,Hispanic/Latino,74672,0,0,14.3,0.0,0.0
-2021-03-27,Non-Hispanic Asian,52121,0,0,27.7,0.0,0.0
-2021-03-27,Non-Hispanic Black,69230,0,0,18.7,0.0,0.0
-2021-03-27,Non-Hispanic Other,114766,0,0,>90,0.0,0.0
-2021-03-27,Non-Hispanic White,352087,0,0,30.9,0.0,0.0
-2021-04-03,Hispanic/Latino,92034,0,0,17.6,0.0,0.0
-2021-04-03,Non-Hispanic Asian,62403,0,0,33.1,0.0,0.0
-2021-04-03,Non-Hispanic Black,80114,0,0,21.7,0.0,0.0
-2021-04-03,Non-Hispanic Other,128093,0,0,>90,0.0,0.0
-2021-04-03,Non-Hispanic White,404809,0,0,35.5,0.0,0.0
-2021-04-10,Hispanic/Latino,108612,0,0,20.8,0.0,0.0
-2021-04-10,Non-Hispanic Asian,71679,0,0,38.1,0.0,0.0
-2021-04-10,Non-Hispanic Black,90947,0,0,24.6,0.0,0.0
-2021-04-10,Non-Hispanic Other,139239,0,0,>90,0.0,0.0
-2021-04-10,Non-Hispanic White,452507,0,0,39.7,0.0,0.0
-2021-04-17,Hispanic/Latino,125521,0,0,24.0,0.0,0.0
-2021-04-17,Non-Hispanic Asian,81150,0,0,43.1,0.0,0.0
-2021-04-17,Non-Hispanic Black,100576,0,0,27.2,0.0,0.0
-2021-04-17,Non-Hispanic Other,149149,0,0,>90,0.0,0.0
-2021-04-17,Non-Hispanic White,495400,0,0,43.4,0.0,0.0
-2021-04-24,Hispanic/Latino,140866,0,0,26.9,0.0,0.0
-2021-04-24,Non-Hispanic Asian,88583,0,0,47.0,0.0,0.0
-2021-04-24,Non-Hispanic Black,108785,0,0,29.4,0.0,0.0
-2021-04-24,Non-Hispanic Other,156163,0,0,>90,0.0,0.0
-2021-04-24,Non-Hispanic White,524464,0,0,46.0,0.0,0.0
-2021-05-01,Hispanic/Latino,153880,0,0,29.4,0.0,0.0
-2021-05-01,Non-Hispanic Asian,94192,0,0,50.0,0.0,0.0
-2021-05-01,Non-Hispanic Black,114446,0,0,31.0,0.0,0.0
-2021-05-01,Non-Hispanic Other,161386,0,0,>90,0.0,0.0
-2021-05-01,Non-Hispanic White,546790,0,0,47.9,0.0,0.0
-2021-05-08,Hispanic/Latino,163827,0,0,31.3,0.0,0.0
-2021-05-08,Non-Hispanic Asian,97553,0,0,51.8,0.0,0.0
-2021-05-08,Non-Hispanic Black,118924,0,0,32.2,0.0,0.0
-2021-05-08,Non-Hispanic Other,164908,0,0,>90,0.0,0.0
-2021-05-08,Non-Hispanic White,561354,0,0,49.2,0.0,0.0
-2021-05-15,Hispanic/Latino,173712,0,0,33.2,0.0,0.0
-2021-05-15,Non-Hispanic Asian,101328,0,0,53.8,0.0,0.0
-2021-05-15,Non-Hispanic Black,124470,0,0,33.7,0.0,0.0
-2021-05-15,Non-Hispanic Other,169259,0,0,>90,0.0,0.0
-2021-05-15,Non-Hispanic White,579416,0,0,50.8,0.0,0.0
-2021-05-22,Hispanic/Latino,185938,0,0,35.5,0.0,0.0
-2021-05-22,Non-Hispanic Asian,106164,0,0,56.4,0.0,0.0
-2021-05-22,Non-Hispanic Black,130463,0,0,35.3,0.0,0.0
-2021-05-22,Non-Hispanic Other,174332,0,0,>90,0.0,0.0
-2021-05-22,Non-Hispanic White,601470,0,0,52.7,0.0,0.0
-2021-05-29,Hispanic/Latino,193728,0,0,37.0,0.0,0.0
-2021-05-29,Non-Hispanic Asian,108808,0,0,57.8,0.0,0.0
-2021-05-29,Non-Hispanic Black,134667,0,0,36.4,0.0,0.0
-2021-05-29,Non-Hispanic Other,177210,0,0,>90,0.0,0.0
-2021-05-29,Non-Hispanic White,613557,0,0,53.8,0.0,0.0
-2021-06-05,Hispanic/Latino,199429,0,0,38.1,0.0,0.0
-2021-06-05,Non-Hispanic Asian,111001,0,0,58.9,0.0,0.0
-2021-06-05,Non-Hispanic Black,138177,0,0,37.4,0.0,0.0
-2021-06-05,Non-Hispanic Other,179496,0,0,>90,0.0,0.0
-2021-06-05,Non-Hispanic White,621983,0,0,54.5,0.0,0.0
-2021-06-12,Hispanic/Latino,204829,0,0,39.2,0.0,0.0
-2021-06-12,Non-Hispanic Asian,112486,0,0,59.7,0.0,0.0
-2021-06-12,Non-Hispanic Black,141425,0,0,38.3,0.0,0.0
-2021-06-12,Non-Hispanic Other,181211,0,0,>90,0.0,0.0
-2021-06-12,Non-Hispanic White,628640,0,0,55.1,0.0,0.0
-2021-06-19,Hispanic/Latino,209195,0,0,40.0,0.0,0.0
-2021-06-19,Non-Hispanic Asian,113620,0,0,60.3,0.0,0.0
-2021-06-19,Non-Hispanic Black,143888,0,0,38.9,0.0,0.0
-2021-06-19,Non-Hispanic Other,182697,0,0,>90,0.0,0.0
-2021-06-19,Non-Hispanic White,634025,0,0,55.6,0.0,0.0
-2021-06-26,Hispanic/Latino,212433,0,0,40.6,0.0,0.0
-2021-06-26,Non-Hispanic Asian,114442,0,0,60.8,0.0,0.0
-2021-06-26,Non-Hispanic Black,145973,0,0,39.5,0.0,0.0
-2021-06-26,Non-Hispanic Other,183891,0,0,>90,0.0,0.0
-2021-06-26,Non-Hispanic White,638059,0,0,55.9,0.0,0.0
-2021-07-03,Hispanic/Latino,215972,0,0,41.3,0.0,0.0
-2021-07-03,Non-Hispanic Asian,115407,0,0,61.3,0.0,0.0
-2021-07-03,Non-Hispanic Black,148353,0,0,40.2,0.0,0.0
-2021-07-03,Non-Hispanic Other,185312,0,0,>90,0.0,0.0
-2021-07-03,Non-Hispanic White,642914,0,0,56.4,0.0,0.0
-2021-07-10,Hispanic/Latino,218673,0,0,41.8,0.0,0.0
-2021-07-10,Non-Hispanic Asian,116093,0,0,61.6,0.0,0.0
-2021-07-10,Non-Hispanic Black,150178,0,0,40.6,0.0,0.0
-2021-07-10,Non-Hispanic Other,186497,0,0,>90,0.0,0.0
-2021-07-10,Non-Hispanic White,646289,0,0,56.6,0.0,0.0
-2021-07-17,Hispanic/Latino,222122,0,0,42.5,0.0,0.0
-2021-07-17,Non-Hispanic Asian,116875,0,0,62.0,0.0,0.0
-2021-07-17,Non-Hispanic Black,152537,0,0,41.3,0.0,0.0
-2021-07-17,Non-Hispanic Other,188261,0,0,>90,0.0,0.0
-2021-07-17,Non-Hispanic White,650965,0,0,57.1,0.0,0.0
-2021-07-24,Hispanic/Latino,225881,0,0,43.2,0.0,0.0
-2021-07-24,Non-Hispanic Asian,117600,0,0,62.4,0.0,0.0
-2021-07-24,Non-Hispanic Black,155228,0,0,42.0,0.0,0.0
-2021-07-24,Non-Hispanic Other,190365,0,0,>90,0.0,0.0
-2021-07-24,Non-Hispanic White,656054,0,0,57.5,0.0,0.0
-2021-07-31,Hispanic/Latino,229822,0,0,43.9,0.0,0.0
-2021-07-31,Non-Hispanic Asian,118352,0,0,62.8,0.0,0.0
-2021-07-31,Non-Hispanic Black,158014,0,0,42.8,0.0,0.0
-2021-07-31,Non-Hispanic Other,192491,0,0,>90,0.0,0.0
-2021-07-31,Non-Hispanic White,660960,0,0,57.9,0.0,0.0
-2021-08-07,Hispanic/Latino,234281,0,0,44.8,0.0,0.0
-2021-08-07,Non-Hispanic Asian,119057,0,0,63.2,0.0,0.0
-2021-08-07,Non-Hispanic Black,161136,0,0,43.6,0.0,0.0
-2021-08-07,Non-Hispanic Other,195018,0,0,>90,0.0,0.0
-2021-08-07,Non-Hispanic White,666607,0,0,58.4,0.0,0.0
-2021-08-14,Hispanic/Latino,238304,0,0,45.6,0.0,0.0
-2021-08-14,Non-Hispanic Asian,119718,0,0,63.6,0.0,0.0
-2021-08-14,Non-Hispanic Black,163928,0,0,44.4,0.0,0.0
-2021-08-14,Non-Hispanic Other,197486,0,0,>90,0.0,0.0
-2021-08-14,Non-Hispanic White,671448,0,0,58.9,0.0,0.0
-2021-08-21,Hispanic/Latino,241858,0,0,46.2,0.0,0.0
-2021-08-21,Non-Hispanic Asian,120304,0,0,63.9,0.0,0.0
-2021-08-21,Non-Hispanic Black,166492,0,0,45.1,0.0,0.0
-2021-08-21,Non-Hispanic Other,199855,0,0,>90,0.0,0.0
-2021-08-21,Non-Hispanic White,676156,0,0,59.3,0.0,0.0
-2021-08-28,Hispanic/Latino,245213,0,0,46.9,0.0,0.0
-2021-08-28,Non-Hispanic Asian,120844,0,0,64.1,0.0,0.0
-2021-08-28,Non-Hispanic Black,168980,0,0,45.7,0.0,0.0
-2021-08-28,Non-Hispanic Other,202066,0,0,>90,0.0,0.0
-2021-08-28,Non-Hispanic White,681157,0,0,59.7,0.0,0.0
-2021-09-04,Hispanic/Latino,248572,0,0,47.5,0.0,0.0
-2021-09-04,Non-Hispanic Asian,121382,0,0,64.4,0.0,0.0
-2021-09-04,Non-Hispanic Black,171677,0,0,46.5,0.0,0.0
-2021-09-04,Non-Hispanic Other,204468,0,0,>90,0.0,0.0
-2021-09-04,Non-Hispanic White,686344,0,0,60.2,0.0,0.0
-2021-09-11,Hispanic/Latino,250818,0,0,47.9,0.0,0.0
-2021-09-11,Non-Hispanic Asian,121757,0,0,64.6,0.0,0.0
-2021-09-11,Non-Hispanic Black,173721,0,0,47.0,0.0,0.0
-2021-09-11,Non-Hispanic Other,206206,0,0,>90,0.0,0.0
-2021-09-11,Non-Hispanic White,689781,0,0,60.5,0.0,0.0
-2021-09-18,Hispanic/Latino,252991,0,0,48.4,0.0,0.0
-2021-09-18,Non-Hispanic Asian,122123,0,0,64.8,0.0,0.0
-2021-09-18,Non-Hispanic Black,175934,0,0,47.6,0.0,0.0
-2021-09-18,Non-Hispanic Other,207913,0,0,>90,0.0,0.0
-2021-09-18,Non-Hispanic White,693048,0,0,60.7,0.0,0.0
-2021-09-25,Hispanic/Latino,254876,0,0,48.7,0.0,0.0
-2021-09-25,Non-Hispanic Asian,122497,0,0,65.0,0.0,0.0
-2021-09-25,Non-Hispanic Black,177776,0,0,48.1,0.0,0.0
-2021-09-25,Non-Hispanic Other,209452,0,0,>90,0.0,0.0
-2021-09-25,Non-Hispanic White,696119,0,0,61.0,0.0,0.0
-2021-10-02,Hispanic/Latino,256761,0,0,49.1,0.0,0.0
-2021-10-02,Non-Hispanic Asian,123124,0,0,65.4,0.0,0.0
-2021-10-02,Non-Hispanic Black,179749,0,0,48.6,0.0,0.0
-2021-10-02,Non-Hispanic Other,211305,0,0,>90,0.0,0.0
-2021-10-02,Non-Hispanic White,699786,0,0,61.3,0.0,0.0
-2021-10-09,Hispanic/Latino,258526,0,0,49.4,0.0,0.0
-2021-10-09,Non-Hispanic Asian,123749,0,0,65.7,0.0,0.0
-2021-10-09,Non-Hispanic Black,181723,0,0,49.2,0.0,0.0
-2021-10-09,Non-Hispanic Other,212774,0,0,>90,0.0,0.0
-2021-10-09,Non-Hispanic White,703310,0,0,61.6,0.0,0.0
-2021-10-16,Hispanic/Latino,260076,0,0,49.7,0.0,0.0
-2021-10-16,Non-Hispanic Asian,124371,0,0,66.0,0.0,0.0
-2021-10-16,Non-Hispanic Black,183508,0,0,49.7,0.0,0.0
-2021-10-16,Non-Hispanic Other,214153,0,0,>90,0.0,0.0
-2021-10-16,Non-Hispanic White,706449,0,0,61.9,0.0,0.0
-2021-10-23,Hispanic/Latino,261752,0,0,50.0,0.0,0.0
-2021-10-23,Non-Hispanic Asian,124955,0,0,66.3,0.0,0.0
-2021-10-23,Non-Hispanic Black,185045,0,0,50.1,0.0,0.0
-2021-10-23,Non-Hispanic Other,215847,0,0,>90,0.0,0.0
-2021-10-23,Non-Hispanic White,710003,0,0,62.2,0.0,0.0
-2021-10-30,Hispanic/Latino,263493,0,0,50.4,0.0,0.0
-2021-10-30,Non-Hispanic Asian,125808,0,0,66.8,0.0,0.0
-2021-10-30,Non-Hispanic Black,186827,0,0,50.6,0.0,0.0
-2021-10-30,Non-Hispanic Other,217417,0,0,>90,0.0,0.0
-2021-10-30,Non-Hispanic White,715502,0,0,62.7,0.0,0.0
-2021-11-06,Hispanic/Latino,265661,0,0,50.8,0.0,0.0
-2021-11-06,Non-Hispanic Asian,127059,0,0,67.4,0.0,0.0
-2021-11-06,Non-Hispanic Black,188606,0,0,51.0,0.0,0.0
-2021-11-06,Non-Hispanic Other,218979,0,0,>90,0.0,0.0
-2021-11-06,Non-Hispanic White,721994,0,0,63.3,0.0,0.0
-2021-11-13,Hispanic/Latino,269884,0,0,51.6,0.0,0.0
-2021-11-13,Non-Hispanic Asian,129799,0,0,68.9,0.0,0.0
-2021-11-13,Non-Hispanic Black,191208,0,0,51.7,0.0,0.0
-2021-11-13,Non-Hispanic Other,221424,0,0,>90,0.0,0.0
-2021-11-13,Non-Hispanic White,735991,0,0,64.5,0.0,0.0
-2021-11-20,Hispanic/Latino,273962,0,0,52.4,0.0,0.0
-2021-11-20,Non-Hispanic Asian,132682,0,0,70.4,0.0,0.0
-2021-11-20,Non-Hispanic Black,194005,0,0,52.5,0.0,0.0
-2021-11-20,Non-Hispanic Other,223719,0,0,>90,0.0,0.0
-2021-11-20,Non-Hispanic White,746970,0,0,65.5,0.0,0.0
-2021-11-27,Hispanic/Latino,277098,0,0,53.0,0.0,0.0
-2021-11-27,Non-Hispanic Asian,134821,0,0,71.6,0.0,0.0
-2021-11-27,Non-Hispanic Black,195993,0,0,53.0,0.0,0.0
-2021-11-27,Non-Hispanic Other,225360,0,0,>90,0.0,0.0
-2021-11-27,Non-Hispanic White,754827,0,0,66.2,0.0,0.0
-2021-12-04,Hispanic/Latino,280962,0,0,53.7,0.0,0.0
-2021-12-04,Non-Hispanic Asian,137046,0,0,72.8,0.0,0.0
-2021-12-04,Non-Hispanic Black,198786,0,0,53.8,0.0,0.0
-2021-12-04,Non-Hispanic Other,228047,0,0,>90,0.0,0.0
-2021-12-04,Non-Hispanic White,765095,0,0,67.1,0.0,0.0
-2021-12-11,Hispanic/Latino,285198,0,0,54.5,0.0,0.0
-2021-12-11,Non-Hispanic Asian,139476,0,0,74.0,0.0,0.0
-2021-12-11,Non-Hispanic Black,201575,0,0,54.6,0.0,0.0
-2021-12-11,Non-Hispanic Other,230226,0,0,>90,0.0,0.0
-2021-12-11,Non-Hispanic White,773979,0,0,67.8,0.0,0.0
-2021-12-18,Hispanic/Latino,289403,0,0,55.3,0.0,0.0
-2021-12-18,Non-Hispanic Asian,141800,0,0,75.3,0.0,0.0
-2021-12-18,Non-Hispanic Black,204336,0,0,55.3,0.0,0.0
-2021-12-18,Non-Hispanic Other,232071,0,0,>90,0.0,0.0
-2021-12-18,Non-Hispanic White,782215,0,0,68.6,0.0,0.0
-2021-12-25,Hispanic/Latino,292614,0,0,55.9,0.0,0.0
-2021-12-25,Non-Hispanic Asian,143686,0,0,76.3,0.0,0.0
-2021-12-25,Non-Hispanic Black,206874,0,0,56.0,0.0,0.0
-2021-12-25,Non-Hispanic Other,233830,0,0,>90,0.0,0.0
-2021-12-25,Non-Hispanic White,789298,0,0,69.2,0.0,0.0
-2022-01-01,Hispanic/Latino,296807,0,0,56.7,0.0,0.0
-2022-01-01,Non-Hispanic Asian,145458,0,0,77.2,0.0,0.0
-2022-01-01,Non-Hispanic Black,209557,0,0,56.7,0.0,0.0
-2022-01-01,Non-Hispanic Other,235413,0,0,>90,0.0,0.0
-2022-01-01,Non-Hispanic White,795807,0,0,69.8,0.0,0.0
-2022-01-08,Hispanic/Latino,303892,0,0,58.1,0.0,0.0
-2022-01-08,Non-Hispanic Asian,147517,0,0,78.3,0.0,0.0
-2022-01-08,Non-Hispanic Black,213438,0,0,57.8,0.0,0.0
-2022-01-08,Non-Hispanic Other,237462,0,0,>90,0.0,0.0
-2022-01-08,Non-Hispanic White,803647,0,0,70.4,0.0,0.0
-2022-01-15,Hispanic/Latino,310961,0,0,59.4,0.0,0.0
-2022-01-15,Non-Hispanic Asian,149295,0,0,79.3,0.0,0.0
-2022-01-15,Non-Hispanic Black,217089,0,0,58.8,0.0,0.0
-2022-01-15,Non-Hispanic Other,239284,0,0,>90,0.0,0.0
-2022-01-15,Non-Hispanic White,810569,0,0,71.0,0.0,0.0
-2022-01-22,Hispanic/Latino,317056,0,0,60.6,0.0,0.0
-2022-01-22,Non-Hispanic Asian,150710,0,0,80.0,0.0,0.0
-2022-01-22,Non-Hispanic Black,219990,0,0,59.5,0.0,0.0
-2022-01-22,Non-Hispanic Other,240710,0,0,>90,0.0,0.0
-2022-01-22,Non-Hispanic White,815603,0,0,71.5,0.0,0.0
-2022-01-29,Hispanic/Latino,321410,0,0,61.4,0.0,0.0
-2022-01-29,Non-Hispanic Asian,151685,0,0,80.5,0.0,0.0
-2022-01-29,Non-Hispanic Black,222360,0,0,60.2,0.0,0.0
-2022-01-29,Non-Hispanic Other,241690,0,0,>90,0.0,0.0
-2022-01-29,Non-Hispanic White,819042,0,0,71.8,0.0,0.0
-2022-02-05,Hispanic/Latino,324464,0,0,62.0,0.0,0.0
-2022-02-05,Non-Hispanic Asian,152338,0,0,80.9,0.0,0.0
-2022-02-05,Non-Hispanic Black,224114,0,0,60.7,0.0,0.0
-2022-02-05,Non-Hispanic Other,242345,0,0,>90,0.0,0.0
-2022-02-05,Non-Hispanic White,821440,0,0,72.0,0.0,0.0
-2022-02-12,Hispanic/Latino,327268,0,0,62.6,0.0,0.0
-2022-02-12,Non-Hispanic Asian,152858,0,0,81.1,0.0,0.0
-2022-02-12,Non-Hispanic Black,225833,0,0,61.1,0.0,0.0
-2022-02-12,Non-Hispanic Other,242898,0,0,>90,0.0,0.0
-2022-02-12,Non-Hispanic White,823474,0,0,72.2,0.0,0.0
-2022-02-19,Hispanic/Latino,328953,0,0,62.9,0.0,0.0
-2022-02-19,Non-Hispanic Asian,153252,0,0,81.4,0.0,0.0
-2022-02-19,Non-Hispanic Black,226875,0,0,61.4,0.0,0.0
-2022-02-19,Non-Hispanic Other,243275,0,0,>90,0.0,0.0
-2022-02-19,Non-Hispanic White,824580,0,0,72.3,0.0,0.0
-2022-02-26,Hispanic/Latino,330546,0,0,63.2,0.0,0.0
-2022-02-26,Non-Hispanic Asian,153579,0,0,81.5,0.0,0.0
-2022-02-26,Non-Hispanic Black,227848,0,0,61.7,0.0,0.0
-2022-02-26,Non-Hispanic Other,243667,0,0,>90,0.0,0.0
-2022-02-26,Non-Hispanic White,825646,0,0,72.4,0.0,0.0
-2022-03-05,Hispanic/Latino,331685,0,0,63.4,0.0,0.0
-2022-03-05,Non-Hispanic Asian,153850,0,0,81.7,0.0,0.0
-2022-03-05,Non-Hispanic Black,228572,0,0,61.9,0.0,0.0
-2022-03-05,Non-Hispanic Other,243929,0,0,>90,0.0,0.0
-2022-03-05,Non-Hispanic White,826412,0,0,72.4,0.0,0.0
-2022-03-12,Hispanic/Latino,332382,0,0,63.5,0.0,0.0
-2022-03-12,Non-Hispanic Asian,154036,0,0,81.8,0.0,0.0
-2022-03-12,Non-Hispanic Black,229112,0,0,62.0,0.0,0.0
-2022-03-12,Non-Hispanic Other,244097,0,0,>90,0.0,0.0
-2022-03-12,Non-Hispanic White,827013,0,0,72.5,0.0,0.0
-2022-03-19,Hispanic/Latino,333095,0,0,63.7,0.0,0.0
-2022-03-19,Non-Hispanic Asian,154229,0,0,81.9,0.0,0.0
-2022-03-19,Non-Hispanic Black,229601,0,0,62.1,0.0,0.0
-2022-03-19,Non-Hispanic Other,244275,0,0,>90,0.0,0.0
-2022-03-19,Non-Hispanic White,827572,0,0,72.5,0.0,0.0
-2022-03-26,Hispanic/Latino,333601,0,0,63.8,0.0,0.0
-2022-03-26,Non-Hispanic Asian,154422,0,0,82.0,0.0,0.0
-2022-03-26,Non-Hispanic Black,230019,0,0,62.3,0.0,0.0
-2022-03-26,Non-Hispanic Other,244435,0,0,>90,0.0,0.0
-2022-03-26,Non-Hispanic White,828058,0,0,72.6,0.0,0.0
-2022-04-02,Hispanic/Latino,334057,0,0,63.9,0.0,0.0
-2022-04-02,Non-Hispanic Asian,154598,0,0,82.1,0.0,0.0
-2022-04-02,Non-Hispanic Black,230428,0,0,62.4,0.0,0.0
-2022-04-02,Non-Hispanic Other,244627,0,0,>90,0.0,0.0
-2022-04-02,Non-Hispanic White,828721,0,0,72.6,0.0,0.0
-2022-04-09,Hispanic/Latino,334498,0,0,63.9,0.0,0.0
-2022-04-09,Non-Hispanic Asian,154777,0,0,82.2,0.0,0.0
-2022-04-09,Non-Hispanic Black,230785,0,0,62.5,0.0,0.0
-2022-04-09,Non-Hispanic Other,244872,0,0,>90,0.0,0.0
-2022-04-09,Non-Hispanic White,829527,0,0,72.7,0.0,0.0
-2022-04-16,Hispanic/Latino,334931,0,0,64.0,0.0,0.0
-2022-04-16,Non-Hispanic Asian,155008,0,0,82.3,0.0,0.0
-2022-04-16,Non-Hispanic Black,231136,0,0,62.6,0.0,0.0
-2022-04-16,Non-Hispanic Other,245121,0,0,>90,0.0,0.0
-2022-04-16,Non-Hispanic White,830323,0,0,72.8,0.0,0.0
-2022-04-23,Hispanic/Latino,335320,0,0,64.1,0.0,0.0
-2022-04-23,Non-Hispanic Asian,155181,0,0,82.4,0.0,0.0
-2022-04-23,Non-Hispanic Black,231497,0,0,62.7,0.0,0.0
-2022-04-23,Non-Hispanic Other,245347,0,0,>90,0.0,0.0
-2022-04-23,Non-Hispanic White,831074,0,0,72.8,0.0,0.0
-2022-04-30,Hispanic/Latino,335709,0,0,64.2,0.0,0.0
-2022-04-30,Non-Hispanic Asian,155367,0,0,82.5,0.0,0.0
-2022-04-30,Non-Hispanic Black,231829,0,0,62.7,0.0,0.0
-2022-04-30,Non-Hispanic Other,245556,0,0,>90,0.0,0.0
-2022-04-30,Non-Hispanic White,831705,0,0,72.9,0.0,0.0
-2022-05-07,Hispanic/Latino,336036,0,0,64.2,0.0,0.0
-2022-05-07,Non-Hispanic Asian,155504,0,0,82.5,0.0,0.0
-2022-05-07,Non-Hispanic Black,232128,0,0,62.8,0.0,0.0
-2022-05-07,Non-Hispanic Other,245714,0,0,>90,0.0,0.0
-2022-05-07,Non-Hispanic White,832278,0,0,72.9,0.0,0.0
-2022-05-14,Hispanic/Latino,336351,0,0,64.3,0.0,0.0
-2022-05-14,Non-Hispanic Asian,155697,0,0,82.7,0.0,0.0
-2022-05-14,Non-Hispanic Black,232461,0,0,62.9,0.0,0.0
-2022-05-14,Non-Hispanic Other,245928,0,0,>90,0.0,0.0
-2022-05-14,Non-Hispanic White,832956,0,0,73.0,0.0,0.0
-2022-05-21,Hispanic/Latino,336734,0,0,64.4,0.0,0.0
-2022-05-21,Non-Hispanic Asian,155879,0,0,82.7,0.0,0.0
-2022-05-21,Non-Hispanic Black,232851,0,0,63.0,0.0,0.0
-2022-05-21,Non-Hispanic Other,246170,0,0,>90,0.0,0.0
-2022-05-21,Non-Hispanic White,833719,0,0,73.1,0.0,0.0
-2022-05-28,Hispanic/Latino,337146,0,0,64.4,0.0,0.0
-2022-05-28,Non-Hispanic Asian,156044,0,0,82.8,0.0,0.0
-2022-05-28,Non-Hispanic Black,233206,0,0,63.1,0.0,0.0
-2022-05-28,Non-Hispanic Other,246420,0,0,>90,0.0,0.0
-2022-05-28,Non-Hispanic White,834639,0,0,73.2,0.0,0.0
-2022-06-04,Hispanic/Latino,337447,0,0,64.5,0.0,0.0
-2022-06-04,Non-Hispanic Asian,156239,0,0,82.9,0.0,0.0
-2022-06-04,Non-Hispanic Black,233525,0,0,63.2,0.0,0.0
-2022-06-04,Non-Hispanic Other,246592,0,0,>90,0.0,0.0
-2022-06-04,Non-Hispanic White,835283,0,0,73.2,0.0,0.0
-2022-06-11,Hispanic/Latino,337768,0,0,64.6,0.0,0.0
-2022-06-11,Non-Hispanic Asian,156404,0,0,83.0,0.0,0.0
-2022-06-11,Non-Hispanic Black,233838,0,0,63.3,0.0,0.0
-2022-06-11,Non-Hispanic Other,246775,0,0,>90,0.0,0.0
-2022-06-11,Non-Hispanic White,835902,0,0,73.3,0.0,0.0
-2022-06-18,Hispanic/Latino,338024,0,0,64.6,0.0,0.0
-2022-06-18,Non-Hispanic Asian,156567,0,0,83.1,0.0,0.0
-2022-06-18,Non-Hispanic Black,234149,0,0,63.4,0.0,0.0
-2022-06-18,Non-Hispanic Other,246944,0,0,>90,0.0,0.0
-2022-06-18,Non-Hispanic White,836436,0,0,73.3,0.0,0.0
-2022-06-25,Hispanic/Latino,338432,0,0,64.7,0.0,0.0
-2022-06-25,Non-Hispanic Asian,156807,0,0,83.2,0.0,0.0
-2022-06-25,Non-Hispanic Black,234447,0,0,63.5,0.0,0.0
-2022-06-25,Non-Hispanic Other,247184,0,0,>90,0.0,0.0
-2022-06-25,Non-Hispanic White,837593,0,0,73.4,0.0,0.0
-2022-07-02,Hispanic/Latino,338886,0,0,64.8,0.0,0.0
-2022-07-02,Non-Hispanic Asian,157126,0,0,83.4,0.0,0.0
-2022-07-02,Non-Hispanic Black,234786,0,0,63.5,0.0,0.0
-2022-07-02,Non-Hispanic Other,247447,0,0,>90,0.0,0.0
-2022-07-02,Non-Hispanic White,839228,0,0,73.6,0.0,0.0
-2022-07-09,Hispanic/Latino,339380,0,0,64.9,0.0,0.0
-2022-07-09,Non-Hispanic Asian,157423,0,0,83.6,0.0,0.0
-2022-07-09,Non-Hispanic Black,235166,0,0,63.6,0.0,0.0
-2022-07-09,Non-Hispanic Other,247678,0,0,>90,0.0,0.0
-2022-07-09,Non-Hispanic White,840370,0,0,73.7,0.0,0.0
-2022-07-16,Hispanic/Latino,339992,0,0,65.0,0.0,0.0
-2022-07-16,Non-Hispanic Asian,157711,0,0,83.7,0.0,0.0
-2022-07-16,Non-Hispanic Black,235626,0,0,63.8,0.0,0.0
-2022-07-16,Non-Hispanic Other,247941,0,0,>90,0.0,0.0
-2022-07-16,Non-Hispanic White,841573,0,0,73.8,0.0,0.0
-2022-07-23,Hispanic/Latino,340557,0,0,65.1,0.0,0.0
-2022-07-23,Non-Hispanic Asian,158022,0,0,83.9,0.0,0.0
-2022-07-23,Non-Hispanic Black,236005,0,0,63.9,0.0,0.0
-2022-07-23,Non-Hispanic Other,248209,0,0,>90,0.0,0.0
-2022-07-23,Non-Hispanic White,842931,0,0,73.9,0.0,0.0
-2022-07-30,Hispanic/Latino,341098,0,0,65.2,0.0,0.0
-2022-07-30,Non-Hispanic Asian,158315,0,0,84.0,0.0,0.0
-2022-07-30,Non-Hispanic Black,236368,0,0,64.0,0.0,0.0
-2022-07-30,Non-Hispanic Other,248488,0,0,>90,0.0,0.0
-2022-07-30,Non-Hispanic White,844185,0,0,74.0,0.0,0.0
-2022-08-06,Hispanic/Latino,341655,0,0,65.3,0.0,0.0
-2022-08-06,Non-Hispanic Asian,158596,0,0,84.2,0.0,0.0
-2022-08-06,Non-Hispanic Black,236725,0,0,64.1,0.0,0.0
-2022-08-06,Non-Hispanic Other,248763,0,0,>90,0.0,0.0
-2022-08-06,Non-Hispanic White,845299,0,0,74.1,0.0,0.0
-2022-08-13,Hispanic/Latino,342184,0,0,65.4,0.0,0.0
-2022-08-13,Non-Hispanic Asian,158848,0,0,84.3,0.0,0.0
-2022-08-13,Non-Hispanic Black,237102,0,0,64.2,0.0,0.0
-2022-08-13,Non-Hispanic Other,248984,0,0,>90,0.0,0.0
-2022-08-13,Non-Hispanic White,846306,0,0,74.2,0.0,0.0
-2022-08-20,Hispanic/Latino,342673,0,0,65.5,0.0,0.0
-2022-08-20,Non-Hispanic Asian,159058,0,0,84.4,0.0,0.0
-2022-08-20,Non-Hispanic Black,237434,0,0,64.3,0.0,0.0
-2022-08-20,Non-Hispanic Other,249165,0,0,>90,0.0,0.0
-2022-08-20,Non-Hispanic White,847187,0,0,74.3,0.0,0.0
-2022-08-27,Hispanic/Latino,343045,0,0,65.6,0.0,0.0
-2022-08-27,Non-Hispanic Asian,159251,0,0,84.5,0.0,0.0
-2022-08-27,Non-Hispanic Black,237710,0,0,64.3,0.0,0.0
-2022-08-27,Non-Hispanic Other,249318,0,0,>90,0.0,0.0
-2022-08-27,Non-Hispanic White,847887,0,0,74.3,0.0,0.0
-2022-09-03,Hispanic/Latino,343362,0,0,65.6,0.0,0.0
-2022-09-03,Non-Hispanic Asian,159399,0,0,84.6,0.0,0.0
-2022-09-03,Non-Hispanic Black,237935,0,0,64.4,0.0,0.0
-2022-09-03,Non-Hispanic Other,249445,0,0,>90,0.0,0.0
-2022-09-03,Non-Hispanic White,848418,0,0,74.4,0.0,0.0
-2022-09-10,Hispanic/Latino,343624,0,0,65.7,0.0,0.0
-2022-09-10,Non-Hispanic Asian,159599,0,0,84.7,0.0,0.0
-2022-09-10,Non-Hispanic Black,238168,0,0,64.5,0.0,0.0
-2022-09-10,Non-Hispanic Other,249687,0,0,>90,0.0,0.0
-2022-09-10,Non-Hispanic White,849357,0,0,74.4,0.0,0.0
-2022-09-17,Hispanic/Latino,344010,0,0,65.8,0.0,0.0
-2022-09-17,Non-Hispanic Asian,159838,0,0,84.8,0.0,0.0
-2022-09-17,Non-Hispanic Black,238468,0,0,64.5,0.0,0.0
-2022-09-17,Non-Hispanic Other,250053,0,0,>90,0.0,0.0
-2022-09-17,Non-Hispanic White,850508,0,0,74.5,0.0,0.0
-2022-09-24,Hispanic/Latino,344351,0,0,65.8,0.0,0.0
-2022-09-24,Non-Hispanic Asian,160132,0,0,85.0,0.0,0.0
-2022-09-24,Non-Hispanic Black,238796,0,0,64.6,0.0,0.0
-2022-09-24,Non-Hispanic Other,250418,0,0,>90,0.0,0.0
-2022-09-24,Non-Hispanic White,851707,0,0,74.7,0.0,0.0
-2022-10-01,Hispanic/Latino,344814,0,0,65.9,0.0,0.0
-2022-10-01,Non-Hispanic Asian,160434,0,0,85.2,0.0,0.0
-2022-10-01,Non-Hispanic Black,239179,0,0,64.7,0.0,0.0
-2022-10-01,Non-Hispanic Other,250789,0,0,>90,0.0,0.0
-2022-10-01,Non-Hispanic White,852945,0,0,74.8,0.0,0.0
-2022-10-08,Hispanic/Latino,345271,0,0,66.0,0.0,0.0
-2022-10-08,Non-Hispanic Asian,160730,0,0,85.3,0.0,0.0
-2022-10-08,Non-Hispanic Black,239563,0,0,64.8,0.0,0.0
-2022-10-08,Non-Hispanic Other,251186,0,0,>90,0.0,0.0
-2022-10-08,Non-Hispanic White,854214,0,0,74.9,0.0,0.0
-2022-10-15,Hispanic/Latino,345718,0,0,66.1,0.0,0.0
-2022-10-15,Non-Hispanic Asian,160998,0,0,85.5,0.0,0.0
-2022-10-15,Non-Hispanic Black,239969,0,0,64.9,0.0,0.0
-2022-10-15,Non-Hispanic Other,251573,0,0,>90,0.0,0.0
-2022-10-15,Non-Hispanic White,855421,0,0,75.0,0.0,0.0
-2022-10-22,Hispanic/Latino,346173,0,0,66.2,0.0,0.0
-2022-10-22,Non-Hispanic Asian,161287,0,0,85.6,0.0,0.0
-2022-10-22,Non-Hispanic Black,240356,0,0,65.1,0.0,0.0
-2022-10-22,Non-Hispanic Other,251934,0,0,>90,0.0,0.0
-2022-10-22,Non-Hispanic White,856740,0,0,75.1,0.0,0.0
-2022-10-29,Hispanic/Latino,346640,0,0,66.3,0.0,0.0
-2022-10-29,Non-Hispanic Asian,161593,0,0,85.8,0.0,0.0
-2022-10-29,Non-Hispanic Black,240769,0,0,65.2,0.0,0.0
-2022-10-29,Non-Hispanic Other,252253,0,0,>90,0.0,0.0
-2022-10-29,Non-Hispanic White,858015,0,0,75.2,0.0,0.0
-2022-11-05,Hispanic/Latino,347107,0,0,66.3,0.0,0.0
-2022-11-05,Non-Hispanic Asian,161871,0,0,85.9,0.0,0.0
-2022-11-05,Non-Hispanic Black,241147,0,0,65.3,0.0,0.0
-2022-11-05,Non-Hispanic Other,252560,0,0,>90,0.0,0.0
-2022-11-05,Non-Hispanic White,859066,0,0,75.3,0.0,0.0
-2022-11-12,Hispanic/Latino,347544,0,0,66.4,0.0,0.0
-2022-11-12,Non-Hispanic Asian,162150,0,0,86.1,0.0,0.0
-2022-11-12,Non-Hispanic Black,241505,0,0,65.4,0.0,0.0
-2022-11-12,Non-Hispanic Other,252819,0,0,>90,0.0,0.0
-2022-11-12,Non-Hispanic White,860166,0,0,75.4,0.0,0.0
-2022-11-19,Hispanic/Latino,347988,0,0,66.5,0.0,0.0
-2022-11-19,Non-Hispanic Asian,162393,0,0,86.2,0.0,0.0
-2022-11-19,Non-Hispanic Black,241812,0,0,65.4,0.0,0.0
-2022-11-19,Non-Hispanic Other,253050,0,0,>90,0.0,0.0
-2022-11-19,Non-Hispanic White,861101,0,0,75.5,0.0,0.0
-2022-11-26,Hispanic/Latino,348167,0,0,66.6,0.0,0.0
-2022-11-26,Non-Hispanic Asian,162504,0,0,86.3,0.0,0.0
-2022-11-26,Non-Hispanic Black,241921,0,0,65.5,0.0,0.0
-2022-11-26,Non-Hispanic Other,253146,0,0,>90,0.0,0.0
-2022-11-26,Non-Hispanic White,861497,0,0,75.5,0.0,0.0
-2022-12-03,Hispanic/Latino,348521,0,0,66.6,0.0,0.0
-2022-12-03,Non-Hispanic Asian,162693,0,0,86.4,0.0,0.0
-2022-12-03,Non-Hispanic Black,242182,0,0,65.5,0.0,0.0
-2022-12-03,Non-Hispanic Other,253334,0,0,>90,0.0,0.0
-2022-12-03,Non-Hispanic White,862132,0,0,75.6,0.0,0.0
-2022-12-10,Hispanic/Latino,348922,0,0,66.7,0.0,0.0
-2022-12-10,Non-Hispanic Asian,162872,0,0,86.5,0.0,0.0
-2022-12-10,Non-Hispanic Black,242448,0,0,65.6,0.0,0.0
-2022-12-10,Non-Hispanic Other,253535,0,0,>90,0.0,0.0
-2022-12-10,Non-Hispanic White,862733,0,0,75.6,0.0,0.0
-2022-12-17,Hispanic/Latino,349264,0,0,66.8,0.0,0.0
-2022-12-17,Non-Hispanic Asian,163066,0,0,86.6,0.0,0.0
-2022-12-17,Non-Hispanic Black,242715,0,0,65.7,0.0,0.0
-2022-12-17,Non-Hispanic Other,253694,0,0,>90,0.0,0.0
-2022-12-17,Non-Hispanic White,863372,0,0,75.7,0.0,0.0
-2022-12-24,Hispanic/Latino,349512,0,0,66.8,0.0,0.0
-2022-12-24,Non-Hispanic Asian,163279,0,0,86.7,0.0,0.0
-2022-12-24,Non-Hispanic Black,242880,0,0,65.7,0.0,0.0
-2022-12-24,Non-Hispanic Other,253810,0,0,>90,0.0,0.0
-2022-12-24,Non-Hispanic White,863832,0,0,75.7,0.0,0.0
-2022-12-31,Hispanic/Latino,349822,0,0,66.9,0.0,0.0
-2022-12-31,Non-Hispanic Asian,163559,0,0,86.8,0.0,0.0
-2022-12-31,Non-Hispanic Black,243023,0,0,65.8,0.0,0.0
-2022-12-31,Non-Hispanic Other,253921,0,0,>90,0.0,0.0
-2022-12-31,Non-Hispanic White,864148,0,0,75.7,0.0,0.0
-2023-01-07,Hispanic/Latino,350084,0,0,66.9,0.0,0.0
-2023-01-07,Non-Hispanic Asian,163754,0,0,86.9,0.0,0.0
-2023-01-07,Non-Hispanic Black,243199,0,0,65.8,0.0,0.0
-2023-01-07,Non-Hispanic Other,254058,0,0,>90,0.0,0.0
-2023-01-07,Non-Hispanic White,864493,0,0,75.8,0.0,0.0
-2023-01-14,Hispanic/Latino,350336,0,0,67.0,0.0,0.0
-2023-01-14,Non-Hispanic Asian,163908,0,0,87.0,0.0,0.0
-2023-01-14,Non-Hispanic Black,243401,0,0,65.9,0.0,0.0
-2023-01-14,Non-Hispanic Other,254162,0,0,>90,0.0,0.0
-2023-01-14,Non-Hispanic White,864828,0,0,75.8,0.0,0.0
-2023-01-21,Hispanic/Latino,350549,0,0,67.0,0.0,0.0
-2023-01-21,Non-Hispanic Asian,164005,0,0,87.1,0.0,0.0
-2023-01-21,Non-Hispanic Black,243570,0,0,65.9,0.0,0.0
-2023-01-21,Non-Hispanic Other,254221,0,0,>90,0.0,0.0
-2023-01-21,Non-Hispanic White,865060,0,0,75.8,0.0,0.0
-2023-01-28,Hispanic/Latino,350758,0,0,67.0,0.0,0.0
-2023-01-28,Non-Hispanic Asian,164086,0,0,87.1,0.0,0.0
-2023-01-28,Non-Hispanic Black,243705,0,0,66.0,0.0,0.0
-2023-01-28,Non-Hispanic Other,254290,0,0,>90,0.0,0.0
-2023-01-28,Non-Hispanic White,865269,0,0,75.8,0.0,0.0
-2023-02-04,Hispanic/Latino,350980,0,0,67.1,0.0,0.0
-2023-02-04,Non-Hispanic Asian,164151,0,0,87.1,0.0,0.0
-2023-02-04,Non-Hispanic Black,243833,0,0,66.0,0.0,0.0
-2023-02-04,Non-Hispanic Other,254361,0,0,>90,0.0,0.0
-2023-02-04,Non-Hispanic White,865467,0,0,75.9,0.0,0.0
-2023-02-11,Hispanic/Latino,351183,0,0,67.1,0.0,0.0
-2023-02-11,Non-Hispanic Asian,164216,0,0,87.2,0.0,0.0
-2023-02-11,Non-Hispanic Black,243976,0,0,66.0,0.0,0.0
-2023-02-11,Non-Hispanic Other,254431,0,0,>90,0.0,0.0
-2023-02-11,Non-Hispanic White,865658,0,0,75.9,0.0,0.0
-2023-02-18,Hispanic/Latino,351339,0,0,67.2,0.0,0.0
-2023-02-18,Non-Hispanic Asian,164269,0,0,87.2,0.0,0.0
-2023-02-18,Non-Hispanic Black,244086,0,0,66.1,0.0,0.0
-2023-02-18,Non-Hispanic Other,254473,0,0,>90,0.0,0.0
-2023-02-18,Non-Hispanic White,865793,0,0,75.9,0.0,0.0
-2023-02-25,Hispanic/Latino,351524,0,0,67.2,0.0,0.0
-2023-02-25,Non-Hispanic Asian,164320,0,0,87.2,0.0,0.0
-2023-02-25,Non-Hispanic Black,244171,0,0,66.1,0.0,0.0
-2023-02-25,Non-Hispanic Other,254520,0,0,>90,0.0,0.0
-2023-02-25,Non-Hispanic White,865940,0,0,75.9,0.0,0.0
-2023-03-04,Hispanic/Latino,351656,0,0,67.2,0.0,0.0
-2023-03-04,Non-Hispanic Asian,164366,0,0,87.3,0.0,0.0
-2023-03-04,Non-Hispanic Black,244264,0,0,66.1,0.0,0.0
-2023-03-04,Non-Hispanic Other,254551,0,0,>90,0.0,0.0
-2023-03-04,Non-Hispanic White,866068,0,0,75.9,0.0,0.0
-2023-03-11,Hispanic/Latino,351821,0,0,67.2,0.0,0.0
-2023-03-11,Non-Hispanic Asian,164417,0,0,87.3,0.0,0.0
-2023-03-11,Non-Hispanic Black,244381,0,0,66.1,0.0,0.0
-2023-03-11,Non-Hispanic Other,254603,0,0,>90,0.0,0.0
-2023-03-11,Non-Hispanic White,866221,0,0,75.9,0.0,0.0
-2023-03-18,Hispanic/Latino,351940,0,0,67.3,0.0,0.0
-2023-03-18,Non-Hispanic Asian,164465,0,0,87.3,0.0,0.0
-2023-03-18,Non-Hispanic Black,244493,0,0,66.2,0.0,0.0
-2023-03-18,Non-Hispanic Other,254650,0,0,>90,0.0,0.0
-2023-03-18,Non-Hispanic White,866355,0,0,75.9,0.0,0.0
-2023-03-25,Hispanic/Latino,352067,0,0,67.3,0.0,0.0
-2023-03-25,Non-Hispanic Asian,164503,0,0,87.3,0.0,0.0
-2023-03-25,Non-Hispanic Black,244582,0,0,66.2,0.0,0.0
-2023-03-25,Non-Hispanic Other,254701,0,0,>90,0.0,0.0
-2023-03-25,Non-Hispanic White,866462,0,0,75.9,0.0,0.0
-2023-04-01,Hispanic/Latino,352172,0,0,67.3,0.0,0.0
-2023-04-01,Non-Hispanic Asian,164545,0,0,87.3,0.0,0.0
-2023-04-01,Non-Hispanic Black,244689,0,0,66.2,0.0,0.0
-2023-04-01,Non-Hispanic Other,254736,0,0,>90,0.0,0.0
-2023-04-01,Non-Hispanic White,866560,0,0,76.0,0.0,0.0
-2023-04-08,Hispanic/Latino,352280,0,0,67.3,0.0,0.0
-2023-04-08,Non-Hispanic Asian,164584,0,0,87.4,0.0,0.0
-2023-04-08,Non-Hispanic Black,244775,0,0,66.2,0.0,0.0
-2023-04-08,Non-Hispanic Other,254767,0,0,>90,0.0,0.0
-2023-04-08,Non-Hispanic White,866657,0,0,76.0,0.0,0.0
-2023-04-15,Hispanic/Latino,352389,0,0,67.4,0.0,0.0
-2023-04-15,Non-Hispanic Asian,164617,0,0,87.4,0.0,0.0
-2023-04-15,Non-Hispanic Black,244841,0,0,66.3,0.0,0.0
-2023-04-15,Non-Hispanic Other,254814,0,0,>90,0.0,0.0
-2023-04-15,Non-Hispanic White,866750,0,0,76.0,0.0,0.0
-2023-04-22,Hispanic/Latino,352501,0,0,67.4,0.0,0.0
-2023-04-22,Non-Hispanic Asian,164650,0,0,87.4,0.0,0.0
-2023-04-22,Non-Hispanic Black,244935,0,0,66.3,0.0,0.0
-2023-04-22,Non-Hispanic Other,254843,0,0,>90,0.0,0.0
-2023-04-22,Non-Hispanic White,866836,0,0,76.0,0.0,0.0
-2023-04-29,Hispanic/Latino,352614,0,0,67.4,0.0,0.0
-2023-04-29,Non-Hispanic Asian,164682,0,0,87.4,0.0,0.0
-2023-04-29,Non-Hispanic Black,245008,0,0,66.3,0.0,0.0
-2023-04-29,Non-Hispanic Other,254873,0,0,>90,0.0,0.0
-2023-04-29,Non-Hispanic White,866903,0,0,76.0,0.0,0.0
-2023-05-06,Hispanic/Latino,352685,0,0,67.4,0.0,0.0
-2023-05-06,Non-Hispanic Asian,164715,0,0,87.4,0.0,0.0
-2023-05-06,Non-Hispanic Black,245098,0,0,66.3,0.0,0.0
-2023-05-06,Non-Hispanic Other,254915,0,0,>90,0.0,0.0
-2023-05-06,Non-Hispanic White,866995,0,0,76.0,0.0,0.0
-2023-05-13,Hispanic/Latino,352781,0,0,67.4,0.0,0.0
-2023-05-13,Non-Hispanic Asian,164741,0,0,87.5,0.0,0.0
-2023-05-13,Non-Hispanic Black,245155,0,0,66.3,0.0,0.0
-2023-05-13,Non-Hispanic Other,254952,0,0,>90,0.0,0.0
-2023-05-13,Non-Hispanic White,867084,0,0,76.0,0.0,0.0
-2023-05-20,Hispanic/Latino,352860,0,0,67.4,0.0,0.0
-2023-05-20,Non-Hispanic Asian,164770,0,0,87.5,0.0,0.0
-2023-05-20,Non-Hispanic Black,245254,0,0,66.4,0.0,0.0
-2023-05-20,Non-Hispanic Other,254976,0,0,>90,0.0,0.0
-2023-05-20,Non-Hispanic White,867183,0,0,76.0,0.0,0.0
-2023-05-27,Hispanic/Latino,352924,0,0,67.5,0.0,0.0
-2023-05-27,Non-Hispanic Asian,164796,0,0,87.5,0.0,0.0
-2023-05-27,Non-Hispanic Black,245325,0,0,66.4,0.0,0.0
-2023-05-27,Non-Hispanic Other,255009,0,0,>90,0.0,0.0
-2023-05-27,Non-Hispanic White,867281,0,0,76.0,0.0,0.0
-2023-06-03,Hispanic/Latino,352972,0,0,67.5,0.0,0.0
-2023-06-03,Non-Hispanic Asian,164814,0,0,87.5,0.0,0.0
-2023-06-03,Non-Hispanic Black,245379,0,0,66.4,0.0,0.0
-2023-06-03,Non-Hispanic Other,255043,0,0,>90,0.0,0.0
-2023-06-03,Non-Hispanic White,867346,0,0,76.0,0.0,0.0
-2023-06-10,Hispanic/Latino,353039,0,0,67.5,0.0,0.0
-2023-06-10,Non-Hispanic Asian,164832,0,0,87.5,0.0,0.0
-2023-06-10,Non-Hispanic Black,245428,0,0,66.4,0.0,0.0
-2023-06-10,Non-Hispanic Other,255064,0,0,>90,0.0,0.0
-2023-06-10,Non-Hispanic White,867433,0,0,76.0,0.0,0.0
-2023-06-17,Hispanic/Latino,353105,0,0,67.5,0.0,0.0
-2023-06-17,Non-Hispanic Asian,164853,0,0,87.5,0.0,0.0
-2023-06-17,Non-Hispanic Black,245489,0,0,66.4,0.0,0.0
-2023-06-17,Non-Hispanic Other,255087,0,0,>90,0.0,0.0
-2023-06-17,Non-Hispanic White,867512,0,0,76.0,0.0,0.0
-2023-06-24,Hispanic/Latino,353177,0,0,67.5,0.0,0.0
-2023-06-24,Non-Hispanic Asian,164877,0,0,87.5,0.0,0.0
-2023-06-24,Non-Hispanic Black,245541,0,0,66.5,0.0,0.0
-2023-06-24,Non-Hispanic Other,255121,0,0,>90,0.0,0.0
-2023-06-24,Non-Hispanic White,867579,0,0,76.0,0.0,0.0
-2023-07-01,Hispanic/Latino,353248,0,0,67.5,0.0,0.0
-2023-07-01,Non-Hispanic Asian,164891,0,0,87.5,0.0,0.0
-2023-07-01,Non-Hispanic Black,245613,0,0,66.5,0.0,0.0
-2023-07-01,Non-Hispanic Other,255145,0,0,>90,0.0,0.0
-2023-07-01,Non-Hispanic White,867653,0,0,76.1,0.0,0.0
-2023-07-08,Hispanic/Latino,353301,0,0,67.5,0.0,0.0
-2023-07-08,Non-Hispanic Asian,164913,0,0,87.5,0.0,0.0
-2023-07-08,Non-Hispanic Black,245659,0,0,66.5,0.0,0.0
-2023-07-08,Non-Hispanic Other,255166,0,0,>90,0.0,0.0
-2023-07-08,Non-Hispanic White,867712,0,0,76.1,0.0,0.0
-2023-07-15,Hispanic/Latino,353357,0,0,67.5,0.0,0.0
-2023-07-15,Non-Hispanic Asian,164932,0,0,87.6,0.0,0.0
-2023-07-15,Non-Hispanic Black,245705,0,0,66.5,0.0,0.0
-2023-07-15,Non-Hispanic Other,255197,0,0,>90,0.0,0.0
-2023-07-15,Non-Hispanic White,867765,0,0,76.1,0.0,0.0
-2023-07-22,Hispanic/Latino,353414,0,0,67.6,0.0,0.0
-2023-07-22,Non-Hispanic Asian,164954,0,0,87.6,0.0,0.0
-2023-07-22,Non-Hispanic Black,245767,0,0,66.5,0.0,0.0
-2023-07-22,Non-Hispanic Other,255231,0,0,>90,0.0,0.0
-2023-07-22,Non-Hispanic White,867818,0,0,76.1,0.0,0.0
-2023-07-29,Hispanic/Latino,353468,0,0,67.6,0.0,0.0
-2023-07-29,Non-Hispanic Asian,164975,0,0,87.6,0.0,0.0
-2023-07-29,Non-Hispanic Black,245815,0,0,66.5,0.0,0.0
-2023-07-29,Non-Hispanic Other,255259,0,0,>90,0.0,0.0
-2023-07-29,Non-Hispanic White,867899,0,0,76.1,0.0,0.0
-2023-08-05,Hispanic/Latino,353552,0,0,67.6,0.0,0.0
-2023-08-05,Non-Hispanic Asian,164986,0,0,87.6,0.0,0.0
-2023-08-05,Non-Hispanic Black,245884,0,0,66.5,0.0,0.0
-2023-08-05,Non-Hispanic Other,255285,0,0,>90,0.0,0.0
-2023-08-05,Non-Hispanic White,867959,0,0,76.1,0.0,0.0
-2023-08-12,Hispanic/Latino,353622,0,0,67.6,0.0,0.0
-2023-08-12,Non-Hispanic Asian,165001,0,0,87.6,0.0,0.0
-2023-08-12,Non-Hispanic Black,245932,0,0,66.6,0.0,0.0
-2023-08-12,Non-Hispanic Other,255317,0,0,>90,0.0,0.0
-2023-08-12,Non-Hispanic White,868026,0,0,76.1,0.0,0.0
-2023-08-19,Hispanic/Latino,353692,0,0,67.6,0.0,0.0
-2023-08-19,Non-Hispanic Asian,165020,0,0,87.6,0.0,0.0
-2023-08-19,Non-Hispanic Black,245994,0,0,66.6,0.0,0.0
-2023-08-19,Non-Hispanic Other,255349,0,0,>90,0.0,0.0
-2023-08-19,Non-Hispanic White,868089,0,0,76.1,0.0,0.0
-2023-08-26,Hispanic/Latino,353782,0,0,67.6,0.0,0.0
-2023-08-26,Non-Hispanic Asian,165035,0,0,87.6,0.0,0.0
-2023-08-26,Non-Hispanic Black,246035,0,0,66.6,0.0,0.0
-2023-08-26,Non-Hispanic Other,255365,0,0,>90,0.0,0.0
-2023-08-26,Non-Hispanic White,868167,0,0,76.1,0.0,0.0
-2023-09-02,Hispanic/Latino,353839,0,0,67.6,0.0,0.0
-2023-09-02,Non-Hispanic Asian,165059,0,0,87.6,0.0,0.0
-2023-09-02,Non-Hispanic Black,246081,0,0,66.6,0.0,0.0
-2023-09-02,Non-Hispanic Other,255392,0,0,>90,0.0,0.0
-2023-09-02,Non-Hispanic White,868224,0,0,76.1,0.0,0.0
-2023-09-09,Hispanic/Latino,353910,0,0,67.6,0.0,0.0
-2023-09-09,Non-Hispanic Asian,165076,0,0,87.6,0.0,0.0
-2023-09-09,Non-Hispanic Black,246130,0,0,66.6,0.0,0.0
-2023-09-09,Non-Hispanic Other,255418,0,0,>90,0.0,0.0
-2023-09-09,Non-Hispanic White,868265,0,0,76.1,0.0,0.0
-2023-09-16,Hispanic/Latino,353940,0,0,67.7,0.0,0.0
-2023-09-16,Non-Hispanic Asian,165088,0,0,87.6,0.0,0.0
-2023-09-16,Non-Hispanic Black,246150,0,0,66.6,0.0,0.0
-2023-09-16,Non-Hispanic Other,255438,0,0,>90,0.0,0.0
-2023-09-16,Non-Hispanic White,868313,0,0,76.1,0.0,0.0
-2023-09-23,Hispanic/Latino,353996,0,0,67.7,0.0,0.0
-2023-09-23,Non-Hispanic Asian,165154,0,0,87.7,0.0,0.0
-2023-09-23,Non-Hispanic Black,246215,0,0,66.6,0.0,0.0
-2023-09-23,Non-Hispanic Other,255681,0,0,>90,0.0,0.0
-2023-09-23,Non-Hispanic White,868700,0,0,76.1,0.0,0.0
-2023-09-30,Hispanic/Latino,354090,0,0,67.7,0.0,0.0
-2023-09-30,Non-Hispanic Asian,165250,0,0,87.7,0.0,0.0
-2023-09-30,Non-Hispanic Black,246317,0,0,66.7,0.0,0.0
-2023-09-30,Non-Hispanic Other,255936,0,0,>90,0.0,0.0
-2023-09-30,Non-Hispanic White,869230,0,0,76.2,0.0,0.0
-2023-10-07,Hispanic/Latino,354246,0,0,67.7,0.0,0.0
-2023-10-07,Non-Hispanic Asian,165360,0,0,87.8,0.0,0.0
-2023-10-07,Non-Hispanic Black,246449,0,0,66.7,0.0,0.0
-2023-10-07,Non-Hispanic Other,256264,0,0,>90,0.0,0.0
-2023-10-07,Non-Hispanic White,869922,0,0,76.2,0.0,0.0
-2023-10-14,Hispanic/Latino,354445,0,0,67.8,0.0,0.0
-2023-10-14,Non-Hispanic Asian,165491,0,0,87.9,0.0,0.0
-2023-10-14,Non-Hispanic Black,246604,0,0,66.7,0.0,0.0
-2023-10-14,Non-Hispanic Other,256600,0,0,>90,0.0,0.0
-2023-10-14,Non-Hispanic White,870591,0,0,76.3,0.0,0.0
-2023-10-21,Hispanic/Latino,354674,0,0,67.8,0.0,0.0
-2023-10-21,Non-Hispanic Asian,165641,0,0,87.9,0.0,0.0
-2023-10-21,Non-Hispanic Black,246772,0,0,66.8,0.0,0.0
-2023-10-21,Non-Hispanic Other,256867,0,0,>90,0.0,0.0
-2023-10-21,Non-Hispanic White,871264,0,0,76.4,0.0,0.0
-2023-10-28,Hispanic/Latino,354879,0,0,67.8,0.0,0.0
-2023-10-28,Non-Hispanic Asian,165756,0,0,88.0,0.0,0.0
-2023-10-28,Non-Hispanic Black,246905,0,0,66.8,0.0,0.0
-2023-10-28,Non-Hispanic Other,257105,0,0,>90,0.0,0.0
-2023-10-28,Non-Hispanic White,871893,0,0,76.4,0.0,0.0
-2023-11-04,Hispanic/Latino,355117,0,0,67.9,0.0,0.0
-2023-11-04,Non-Hispanic Asian,165900,0,0,88.1,0.0,0.0
-2023-11-04,Non-Hispanic Black,247076,0,0,66.9,0.0,0.0
-2023-11-04,Non-Hispanic Other,257346,0,0,>90,0.0,0.0
-2023-11-04,Non-Hispanic White,872520,0,0,76.5,0.0,0.0
-2023-11-11,Hispanic/Latino,355331,0,0,67.9,0.0,0.0
-2023-11-11,Non-Hispanic Asian,166020,0,0,88.1,0.0,0.0
-2023-11-11,Non-Hispanic Black,247235,0,0,66.9,0.0,0.0
-2023-11-11,Non-Hispanic Other,257547,0,0,>90,0.0,0.0
-2023-11-11,Non-Hispanic White,873048,0,0,76.5,0.0,0.0
-2023-11-18,Hispanic/Latino,355557,0,0,68.0,0.0,0.0
-2023-11-18,Non-Hispanic Asian,166122,0,0,88.2,0.0,0.0
-2023-11-18,Non-Hispanic Black,247398,0,0,67.0,0.0,0.0
-2023-11-18,Non-Hispanic Other,257797,0,0,>90,0.0,0.0
-2023-11-18,Non-Hispanic White,873533,0,0,76.6,0.0,0.0
-2023-11-25,Hispanic/Latino,355698,0,0,68.0,0.0,0.0
-2023-11-25,Non-Hispanic Asian,166188,0,0,88.2,0.0,0.0
-2023-11-25,Non-Hispanic Black,247483,0,0,67.0,0.0,0.0
-2023-11-25,Non-Hispanic Other,257902,0,0,>90,0.0,0.0
-2023-11-25,Non-Hispanic White,873850,0,0,76.6,0.0,0.0
-2023-12-02,Hispanic/Latino,355907,0,0,68.0,0.0,0.0
-2023-12-02,Non-Hispanic Asian,166263,0,0,88.3,0.0,0.0
-2023-12-02,Non-Hispanic Black,247613,0,0,67.0,0.0,0.0
-2023-12-02,Non-Hispanic Other,258074,0,0,>90,0.0,0.0
-2023-12-02,Non-Hispanic White,874233,0,0,76.6,0.0,0.0
-2023-12-09,Hispanic/Latino,356094,0,0,68.1,0.0,0.0
-2023-12-09,Non-Hispanic Asian,166349,0,0,88.3,0.0,0.0
-2023-12-09,Non-Hispanic Black,247786,0,0,67.1,0.0,0.0
-2023-12-09,Non-Hispanic Other,258196,0,0,>90,0.0,0.0
-2023-12-09,Non-Hispanic White,874612,0,0,76.7,0.0,0.0
-2023-12-16,Hispanic/Latino,356304,0,0,68.1,0.0,0.0
-2023-12-16,Non-Hispanic Asian,166409,0,0,88.3,0.0,0.0
-2023-12-16,Non-Hispanic Black,247931,0,0,67.1,0.0,0.0
-2023-12-16,Non-Hispanic Other,258321,0,0,>90,0.0,0.0
-2023-12-16,Non-Hispanic White,874952,0,0,76.7,0.0,0.0
-2023-12-23,Hispanic/Latino,356491,0,0,68.1,0.0,0.0
-2023-12-23,Non-Hispanic Asian,166501,0,0,88.4,0.0,0.0
-2023-12-23,Non-Hispanic Black,248076,0,0,67.1,0.0,0.0
-2023-12-23,Non-Hispanic Other,258434,0,0,>90,0.0,0.0
-2023-12-23,Non-Hispanic White,875323,0,0,76.7,0.0,0.0
-2023-12-30,Hispanic/Latino,356622,0,0,68.2,0.0,0.0
-2023-12-30,Non-Hispanic Asian,166563,0,0,88.4,0.0,0.0
-2023-12-30,Non-Hispanic Black,248159,0,0,67.2,0.0,0.0
-2023-12-30,Non-Hispanic Other,258514,0,0,>90,0.0,0.0
-2023-12-30,Non-Hispanic White,875534,0,0,76.7,0.0,0.0
-2024-01-06,Hispanic/Latino,356750,0,0,68.2,0.0,0.0
-2024-01-06,Non-Hispanic Asian,166638,0,0,88.5,0.0,0.0
-2024-01-06,Non-Hispanic Black,248272,0,0,67.2,0.0,0.0
-2024-01-06,Non-Hispanic Other,258580,0,0,>90,0.0,0.0
-2024-01-06,Non-Hispanic White,875752,0,0,76.8,0.0,0.0
-2024-01-13,Hispanic/Latino,356884,0,0,68.2,0.0,0.0
-2024-01-13,Non-Hispanic Asian,166694,0,0,88.5,0.0,0.0
-2024-01-13,Non-Hispanic Black,248375,0,0,67.2,0.0,0.0
-2024-01-13,Non-Hispanic Other,258655,0,0,>90,0.0,0.0
-2024-01-13,Non-Hispanic White,875943,0,0,76.8,0.0,0.0
-2024-01-20,Hispanic/Latino,357012,0,0,68.2,0.0,0.0
-2024-01-20,Non-Hispanic Asian,166732,0,0,88.5,0.0,0.0
-2024-01-20,Non-Hispanic Black,248458,0,0,67.2,0.0,0.0
-2024-01-20,Non-Hispanic Other,258733,0,0,>90,0.0,0.0
-2024-01-20,Non-Hispanic White,876150,0,0,76.8,0.0,0.0
-2024-01-27,Hispanic/Latino,357152,0,0,68.3,0.0,0.0
-2024-01-27,Non-Hispanic Asian,166766,0,0,88.5,0.0,0.0
-2024-01-27,Non-Hispanic Black,248566,0,0,67.3,0.0,0.0
-2024-01-27,Non-Hispanic Other,258797,0,0,>90,0.0,0.0
-2024-01-27,Non-Hispanic White,876307,0,0,76.8,0.0,0.0
-2024-02-03,Hispanic/Latino,357303,0,0,68.3,0.0,0.0
-2024-02-03,Non-Hispanic Asian,166802,0,0,88.5,0.0,0.0
-2024-02-03,Non-Hispanic Black,248657,0,0,67.3,0.0,0.0
-2024-02-03,Non-Hispanic Other,258857,0,0,>90,0.0,0.0
-2024-02-03,Non-Hispanic White,876485,0,0,76.8,0.0,0.0
-2024-02-10,Hispanic/Latino,357419,0,0,68.3,0.0,0.0
-2024-02-10,Non-Hispanic Asian,166834,0,0,88.6,0.0,0.0
-2024-02-10,Non-Hispanic Black,248729,0,0,67.3,0.0,0.0
-2024-02-10,Non-Hispanic Other,258903,0,0,>90,0.0,0.0
-2024-02-10,Non-Hispanic White,876587,0,0,76.8,0.0,0.0
-2024-02-17,Hispanic/Latino,357506,0,0,68.3,0.0,0.0
-2024-02-17,Non-Hispanic Asian,166856,0,0,88.6,0.0,0.0
-2024-02-17,Non-Hispanic Black,248789,0,0,67.3,0.0,0.0
-2024-02-17,Non-Hispanic Other,258940,0,0,>90,0.0,0.0
-2024-02-17,Non-Hispanic White,876694,0,0,76.8,0.0,0.0
-2024-02-24,Hispanic/Latino,357601,0,0,68.4,0.0,0.0
-2024-02-24,Non-Hispanic Asian,166895,0,0,88.6,0.0,0.0
-2024-02-24,Non-Hispanic Black,248853,0,0,67.3,0.0,0.0
-2024-02-24,Non-Hispanic Other,258957,0,0,>90,0.0,0.0
-2024-02-24,Non-Hispanic White,876784,0,0,76.9,0.0,0.0
-2024-03-02,Hispanic/Latino,357678,0,0,68.4,0.0,0.0
-2024-03-02,Non-Hispanic Asian,166930,0,0,88.6,0.0,0.0
-2024-03-02,Non-Hispanic Black,248905,0,0,67.4,0.0,0.0
-2024-03-02,Non-Hispanic Other,258989,0,0,>90,0.0,0.0
-2024-03-02,Non-Hispanic White,876881,0,0,76.9,0.0,0.0
-2024-03-09,Hispanic/Latino,357768,0,0,68.4,0.0,0.0
-2024-03-09,Non-Hispanic Asian,166949,0,0,88.6,0.0,0.0
-2024-03-09,Non-Hispanic Black,248961,0,0,67.4,0.0,0.0
-2024-03-09,Non-Hispanic Other,259026,0,0,>90,0.0,0.0
-2024-03-09,Non-Hispanic White,876991,0,0,76.9,0.0,0.0
-2024-03-16,Hispanic/Latino,357840,0,0,68.4,0.0,0.0
-2024-03-16,Non-Hispanic Asian,166972,0,0,88.6,0.0,0.0
-2024-03-16,Non-Hispanic Black,249026,0,0,67.4,0.0,0.0
-2024-03-16,Non-Hispanic Other,259048,0,0,>90,0.0,0.0
-2024-03-16,Non-Hispanic White,877064,0,0,76.9,0.0,0.0
-2024-03-23,Hispanic/Latino,357916,0,0,68.4,0.0,0.0
-2024-03-23,Non-Hispanic Asian,166991,0,0,88.6,0.0,0.0
-2024-03-23,Non-Hispanic Black,249087,0,0,67.4,0.0,0.0
-2024-03-23,Non-Hispanic Other,259086,0,0,>90,0.0,0.0
-2024-03-23,Non-Hispanic White,877152,0,0,76.9,0.0,0.0
-2024-03-30,Hispanic/Latino,357993,0,0,68.4,0.0,0.0
-2024-03-30,Non-Hispanic Asian,167007,0,0,88.7,0.0,0.0
-2024-03-30,Non-Hispanic Black,249136,0,0,67.4,0.0,0.0
-2024-03-30,Non-Hispanic Other,259113,0,0,>90,0.0,0.0
-2024-03-30,Non-Hispanic White,877221,0,0,76.9,0.0,0.0
-2024-04-06,Hispanic/Latino,358083,0,0,68.4,0.0,0.0
-2024-04-06,Non-Hispanic Asian,167024,0,0,88.7,0.0,0.0
-2024-04-06,Non-Hispanic Black,249179,0,0,67.4,0.0,0.0
-2024-04-06,Non-Hispanic Other,259144,0,0,>90,0.0,0.0
-2024-04-06,Non-Hispanic White,877298,0,0,76.9,0.0,0.0
-2024-04-13,Hispanic/Latino,358133,0,0,68.5,0.0,0.0
-2024-04-13,Non-Hispanic Asian,167042,0,0,88.7,0.0,0.0
-2024-04-13,Non-Hispanic Black,249220,0,0,67.4,0.0,0.0
-2024-04-13,Non-Hispanic Other,259177,0,0,>90,0.0,0.0
-2024-04-13,Non-Hispanic White,877358,0,0,76.9,0.0,0.0
-2024-04-20,Hispanic/Latino,358196,0,0,68.5,0.0,0.0
-2024-04-20,Non-Hispanic Asian,167067,0,0,88.7,0.0,0.0
-2024-04-20,Non-Hispanic Black,249267,0,0,67.5,0.0,0.0
-2024-04-20,Non-Hispanic Other,259215,0,0,>90,0.0,0.0
-2024-04-20,Non-Hispanic White,877443,0,0,76.9,0.0,0.0
-2024-04-27,Hispanic/Latino,358268,0,0,68.5,0.0,0.0
-2024-04-27,Non-Hispanic Asian,167086,0,0,88.7,0.0,0.0
-2024-04-27,Non-Hispanic Black,249304,0,0,67.5,0.0,0.0
-2024-04-27,Non-Hispanic Other,259255,0,0,>90,0.0,0.0
-2024-04-27,Non-Hispanic White,877505,0,0,76.9,0.0,0.0
-2024-05-04,Hispanic/Latino,358322,0,0,68.5,0.0,0.0
-2024-05-04,Non-Hispanic Asian,167098,0,0,88.7,0.0,0.0
-2024-05-04,Non-Hispanic Black,249342,0,0,67.5,0.0,0.0
-2024-05-04,Non-Hispanic Other,259282,0,0,>90,0.0,0.0
-2024-05-04,Non-Hispanic White,877590,0,0,76.9,0.0,0.0
-2024-05-11,Hispanic/Latino,358380,0,0,68.5,0.0,0.0
-2024-05-11,Non-Hispanic Asian,167116,0,0,88.7,0.0,0.0
-2024-05-11,Non-Hispanic Black,249367,0,0,67.5,0.0,0.0
-2024-05-11,Non-Hispanic Other,259299,0,0,>90,0.0,0.0
-2024-05-11,Non-Hispanic White,877649,0,0,76.9,0.0,0.0
-2024-05-18,Hispanic/Latino,358420,0,0,68.5,0.0,0.0
-2024-05-18,Non-Hispanic Asian,167124,0,0,88.7,0.0,0.0
-2024-05-18,Non-Hispanic Black,249396,0,0,67.5,0.0,0.0
-2024-05-18,Non-Hispanic Other,259318,0,0,>90,0.0,0.0
-2024-05-18,Non-Hispanic White,877726,0,0,76.9,0.0,0.0
-2024-05-25,Hispanic/Latino,358456,0,0,68.5,0.0,0.0
-2024-05-25,Non-Hispanic Asian,167139,0,0,88.7,0.0,0.0
-2024-05-25,Non-Hispanic Black,249426,0,0,67.5,0.0,0.0
-2024-05-25,Non-Hispanic Other,259351,0,0,>90,0.0,0.0
-2024-05-25,Non-Hispanic White,877783,0,0,76.9,0.0,0.0
-2024-06-01,Hispanic/Latino,358483,0,0,68.5,0.0,0.0
-2024-06-01,Non-Hispanic Asian,167157,0,0,88.7,0.0,0.0
-2024-06-01,Non-Hispanic Black,249448,0,0,67.5,0.0,0.0
-2024-06-01,Non-Hispanic Other,259365,0,0,>90,0.0,0.0
-2024-06-01,Non-Hispanic White,877814,0,0,76.9,0.0,0.0
-2024-06-08,Hispanic/Latino,358524,0,0,68.5,0.0,0.0
-2024-06-08,Non-Hispanic Asian,167162,0,0,88.7,0.0,0.0
-2024-06-08,Non-Hispanic Black,249492,0,0,67.5,0.0,0.0
-2024-06-08,Non-Hispanic Other,259387,0,0,>90,0.0,0.0
-2024-06-08,Non-Hispanic White,877865,0,0,76.9,0.0,0.0
-2024-06-15,Hispanic/Latino,358564,0,0,68.5,0.0,0.0
-2024-06-15,Non-Hispanic Asian,167176,0,0,88.7,0.0,0.0
-2024-06-15,Non-Hispanic Black,249530,0,0,67.5,0.0,0.0
-2024-06-15,Non-Hispanic Other,259405,0,0,>90,0.0,0.0
-2024-06-15,Non-Hispanic White,877932,0,0,77.0,0.0,0.0
-2024-06-22,Hispanic/Latino,358591,0,0,68.5,0.0,0.0
-2024-06-22,Non-Hispanic Asian,167187,0,0,88.8,0.0,0.0
-2024-06-22,Non-Hispanic Black,249562,0,0,67.5,0.0,0.0
-2024-06-22,Non-Hispanic Other,259416,0,0,>90,0.0,0.0
-2024-06-22,Non-Hispanic White,877982,0,0,77.0,0.0,0.0
-2024-06-29,Hispanic/Latino,358629,0,0,68.6,0.0,0.0
-2024-06-29,Non-Hispanic Asian,167204,0,0,88.8,0.0,0.0
-2024-06-29,Non-Hispanic Black,249579,0,0,67.5,0.0,0.0
-2024-06-29,Non-Hispanic Other,259430,0,0,>90,0.0,0.0
-2024-06-29,Non-Hispanic White,878017,0,0,77.0,0.0,0.0
-2024-07-06,Hispanic/Latino,358664,0,0,68.6,0.0,0.0
-2024-07-06,Non-Hispanic Asian,167213,0,0,88.8,0.0,0.0
-2024-07-06,Non-Hispanic Black,249601,0,0,67.6,0.0,0.0
-2024-07-06,Non-Hispanic Other,259447,0,0,>90,0.0,0.0
-2024-07-06,Non-Hispanic White,878047,0,0,77.0,0.0,0.0
-2024-07-13,Hispanic/Latino,358691,0,0,68.6,0.0,0.0
-2024-07-13,Non-Hispanic Asian,167218,0,0,88.8,0.0,0.0
-2024-07-13,Non-Hispanic Black,249623,0,0,67.6,0.0,0.0
-2024-07-13,Non-Hispanic Other,259464,0,0,>90,0.0,0.0
-2024-07-13,Non-Hispanic White,878086,0,0,77.0,0.0,0.0
-2024-07-20,Hispanic/Latino,358713,0,0,68.6,0.0,0.0
-2024-07-20,Non-Hispanic Asian,167229,0,0,88.8,0.0,0.0
-2024-07-20,Non-Hispanic Black,249643,0,0,67.6,0.0,0.0
-2024-07-20,Non-Hispanic Other,259473,0,0,>90,0.0,0.0
-2024-07-20,Non-Hispanic White,878113,0,0,77.0,0.0,0.0
-2024-07-27,Hispanic/Latino,358736,0,0,68.6,0.0,0.0
-2024-07-27,Non-Hispanic Asian,167234,0,0,88.8,0.0,0.0
-2024-07-27,Non-Hispanic Black,249660,0,0,67.6,0.0,0.0
-2024-07-27,Non-Hispanic Other,259492,0,0,>90,0.0,0.0
-2024-07-27,Non-Hispanic White,878135,0,0,77.0,0.0,0.0
-2024-08-03,Hispanic/Latino,358753,0,0,68.6,0.0,0.0
-2024-08-03,Non-Hispanic Asian,167240,0,0,88.8,0.0,0.0
-2024-08-03,Non-Hispanic Black,249667,0,0,67.6,0.0,0.0
-2024-08-03,Non-Hispanic Other,259512,0,0,>90,0.0,0.0
-2024-08-03,Non-Hispanic White,878152,0,0,77.0,0.0,0.0
-2024-08-10,Hispanic/Latino,358772,0,0,68.6,0.0,0.0
-2024-08-10,Non-Hispanic Asian,167249,0,0,88.8,0.0,0.0
-2024-08-10,Non-Hispanic Black,249683,0,0,67.6,0.0,0.0
-2024-08-10,Non-Hispanic Other,259534,0,0,>90,0.0,0.0
-2024-08-10,Non-Hispanic White,878170,0,0,77.0,0.0,0.0
-2024-08-17,Hispanic/Latino,358794,0,0,68.6,0.0,0.0
-2024-08-17,Non-Hispanic Asian,167256,0,0,88.8,0.0,0.0
-2024-08-17,Non-Hispanic Black,249701,0,0,67.6,0.0,0.0
-2024-08-17,Non-Hispanic Other,259549,0,0,>90,0.0,0.0
-2024-08-17,Non-Hispanic White,878192,0,0,77.0,0.0,0.0
-2024-08-24,Hispanic/Latino,358812,1,0,68.6,0.0,0.0
-2024-08-24,Non-Hispanic Asian,167257,2,0,88.8,0.0,0.0
-2024-08-24,Non-Hispanic Black,249708,0,0,67.6,0.0,0.0
-2024-08-24,Non-Hispanic Other,259579,7,0,>90,0.0,0.0
-2024-08-24,Non-Hispanic White,878218,4,0,77.0,0.0,0.0
-2024-08-31,Hispanic/Latino,358845,375,0,68.6,0.1,0.0
-2024-08-31,Non-Hispanic Asian,167273,293,0,88.8,0.2,0.0
-2024-08-31,Non-Hispanic Black,249736,418,0,67.6,0.1,0.0
-2024-08-31,Non-Hispanic Other,259667,2050,0,>90,3.1,0.0
-2024-08-31,Non-Hispanic White,878330,2628,0,77.0,0.2,0.0
-2024-09-07,Hispanic/Latino,358902,1322,0,68.6,0.3,0.0
-2024-09-07,Non-Hispanic Asian,167307,893,0,88.8,0.5,0.0
-2024-09-07,Non-Hispanic Black,249792,1192,0,67.6,0.3,0.0
-2024-09-07,Non-Hispanic Other,259956,8903,0,>90,13.7,0.0
-2024-09-07,Non-Hispanic White,878554,7621,0,77.0,0.7,0.0
-2024-09-14,Hispanic/Latino,359003,2528,0,68.6,0.5,0.0
-2024-09-14,Non-Hispanic Asian,167361,1582,0,88.8,0.8,0.0
-2024-09-14,Non-Hispanic Black,249850,2360,0,67.6,0.6,0.0
-2024-09-14,Non-Hispanic Other,260305,17610,0,>90,27.0,0.0
-2024-09-14,Non-Hispanic White,878794,14033,0,77.0,1.2,0.0
-2024-09-21,Hispanic/Latino,359124,3920,0,68.6,0.7,0.0
-2024-09-21,Non-Hispanic Asian,167445,2378,0,88.9,1.3,0.0
-2024-09-21,Non-Hispanic Black,249931,3764,0,67.6,1.0,0.0
-2024-09-21,Non-Hispanic Other,260705,27365,0,>90,42.0,0.0
-2024-09-21,Non-Hispanic White,879128,21717,0,77.1,1.9,0.0
-2024-09-28,Hispanic/Latino,359303,5823,0,68.7,1.1,0.0
-2024-09-28,Non-Hispanic Asian,167519,3427,0,88.9,1.8,0.0
-2024-09-28,Non-Hispanic Black,250067,5671,0,67.7,1.5,0.0
-2024-09-28,Non-Hispanic Other,261186,38536,0,>90,59.1,0.0
-2024-09-28,Non-Hispanic White,879556,31480,0,77.1,2.8,0.0
-2024-10-05,Hispanic/Latino,359538,8001,0,68.7,1.5,0.0
-2024-10-05,Non-Hispanic Asian,167633,4656,0,89.0,2.5,0.0
-2024-10-05,Non-Hispanic Black,250232,7679,0,67.7,2.1,0.0
-2024-10-05,Non-Hispanic Other,261680,50223,0,>90,77.0,0.0
-2024-10-05,Non-Hispanic White,880134,42137,0,77.1,3.7,0.0
-2024-10-12,Hispanic/Latino,359766,10264,0,68.8,2.0,0.0
-2024-10-12,Non-Hispanic Asian,167760,5826,0,89.1,3.1,0.0
-2024-10-12,Non-Hispanic Black,250414,9685,0,67.8,2.6,0.0
-2024-10-12,Non-Hispanic Other,262132,61175,0,>90,>90,0.0
-2024-10-12,Non-Hispanic White,880724,52480,0,77.2,4.6,0.0
-2024-10-19,Hispanic/Latino,359971,11845,0,68.8,2.3,0.0
-2024-10-19,Non-Hispanic Asian,167863,7003,0,89.1,3.7,0.0
-2024-10-19,Non-Hispanic Black,250579,11590,0,67.8,3.1,0.0
-2024-10-19,Non-Hispanic Other,262577,70293,0,>90,>90,0.0
-2024-10-19,Non-Hispanic White,881270,63171,0,77.2,5.5,0.0
-2024-10-26,Hispanic/Latino,360168,13079,0,68.8,2.5,0.0
-2024-10-26,Non-Hispanic Asian,167962,8112,0,89.2,4.3,0.0
-2024-10-26,Non-Hispanic Black,250708,13525,0,67.9,3.7,0.0
-2024-10-26,Non-Hispanic Other,262839,75617,0,>90,>90,0.0
-2024-10-26,Non-Hispanic White,881732,73336,0,77.3,6.4,0.0
-2024-11-02,Hispanic/Latino,360384,14346,0,68.9,2.7,0.0
-2024-11-02,Non-Hispanic Asian,168047,9185,0,89.2,4.9,0.0
-2024-11-02,Non-Hispanic Black,250842,15359,0,67.9,4.2,0.0
-2024-11-02,Non-Hispanic Other,262963,78329,0,>90,>90,0.0
-2024-11-02,Non-Hispanic White,882119,83467,0,77.3,7.3,0.0
-2024-11-09,Hispanic/Latino,360574,15479,0,68.9,3.0,0.0
-2024-11-09,Non-Hispanic Asian,168142,10320,0,89.3,5.5,0.0
-2024-11-09,Non-Hispanic Black,250984,17102,0,67.9,4.6,0.0
-2024-11-09,Non-Hispanic Other,263098,80675,0,>90,>90,0.0
-2024-11-09,Non-Hispanic White,882523,92914,0,77.4,8.1,0.0
-2024-11-16,Hispanic/Latino,360762,16556,0,69.0,3.2,0.0
-2024-11-16,Non-Hispanic Asian,168198,11190,0,89.3,5.9,0.0
-2024-11-16,Non-Hispanic Black,251108,18647,0,68.0,5.0,0.0
-2024-11-16,Non-Hispanic Other,263225,82995,0,>90,>90,0.0
-2024-11-16,Non-Hispanic White,882865,100584,0,77.4,8.8,0.0
-2024-11-23,Hispanic/Latino,360954,17703,0,69.0,3.4,0.0
-2024-11-23,Non-Hispanic Asian,168282,11882,0,89.3,6.3,0.0
-2024-11-23,Non-Hispanic Black,251246,20095,0,68.0,5.4,0.0
-2024-11-23,Non-Hispanic Other,263330,84720,0,>90,>90,0.0
-2024-11-23,Non-Hispanic White,883161,106662,0,77.4,9.3,0.0
-2024-11-30,Hispanic/Latino,361085,18563,0,69.0,3.5,0.0
-2024-11-30,Non-Hispanic Asian,168336,12453,0,89.4,6.6,0.0
-2024-11-30,Non-Hispanic Black,251334,20907,0,68.0,5.7,0.0
-2024-11-30,Non-Hispanic Other,263408,85766,0,>90,>90,0.0
-2024-11-30,Non-Hispanic White,883400,110457,0,77.4,9.7,0.0
-2024-12-07,Hispanic/Latino,361276,19515,0,69.1,3.7,0.0
-2024-12-07,Non-Hispanic Asian,168380,12880,0,89.4,6.8,0.0
-2024-12-07,Non-Hispanic Black,251438,21770,0,68.0,5.9,0.0
-2024-12-07,Non-Hispanic Other,263488,86995,0,>90,>90,0.0
-2024-12-07,Non-Hispanic White,883635,113969,0,77.5,10.0,0.0
-2024-12-14,Hispanic/Latino,361430,20332,0,69.1,3.9,0.0
-2024-12-14,Non-Hispanic Asian,168417,13238,0,89.4,7.0,0.0
-2024-12-14,Non-Hispanic Black,251535,22596,0,68.1,6.1,0.0
-2024-12-14,Non-Hispanic Other,263602,88226,0,>90,>90,0.0
-2024-12-14,Non-Hispanic White,883865,116820,0,77.5,10.2,0.0
-2024-12-21,Hispanic/Latino,361580,21092,0,69.1,4.0,0.0
-2024-12-21,Non-Hispanic Asian,168461,13557,0,89.4,7.2,0.0
-2024-12-21,Non-Hispanic Black,251638,23444,0,68.1,6.3,0.0
-2024-12-21,Non-Hispanic Other,263698,89180,0,>90,>90,0.0
-2024-12-21,Non-Hispanic White,884071,119402,0,77.5,10.5,0.0
-2024-12-28,Hispanic/Latino,361677,21507,0,69.1,4.1,0.0
-2024-12-28,Non-Hispanic Asian,168483,13783,0,89.4,7.3,0.0
-2024-12-28,Non-Hispanic Black,251695,23789,0,68.1,6.4,0.0
-2024-12-28,Non-Hispanic Other,263731,89608,0,>90,>90,0.0
-2024-12-28,Non-Hispanic White,884181,120732,0,77.5,10.6,0.0
-2025-01-04,Hispanic/Latino,361784,21970,0,69.2,4.2,0.0
-2025-01-04,Non-Hispanic Asian,168511,14043,0,89.5,7.5,0.0
-2025-01-04,Non-Hispanic Black,251739,24284,0,68.1,6.6,0.0
-2025-01-04,Non-Hispanic Other,263763,90107,0,>90,>90,0.0
-2025-01-04,Non-Hispanic White,884295,122486,0,77.5,10.7,0.0
-2025-01-11,Hispanic/Latino,361927,22569,0,69.2,4.3,0.0
-2025-01-11,Non-Hispanic Asian,168544,14309,0,89.5,7.6,0.0
-2025-01-11,Non-Hispanic Black,251819,24873,0,68.2,6.7,0.0
-2025-01-11,Non-Hispanic Other,263823,90685,0,>90,>90,0.0
-2025-01-11,Non-Hispanic White,884460,124482,0,77.5,10.9,0.0
-2025-01-18,Hispanic/Latino,362064,23111,0,69.2,4.4,0.0
-2025-01-18,Non-Hispanic Asian,168573,14522,0,89.5,7.7,0.0
-2025-01-18,Non-Hispanic Black,251909,25397,0,68.2,6.9,0.0
-2025-01-18,Non-Hispanic Other,263874,91124,0,>90,>90,0.0
-2025-01-18,Non-Hispanic White,884596,126093,0,77.5,11.1,0.0
-2025-01-25,Hispanic/Latino,362172,23538,0,69.2,4.5,0.0
-2025-01-25,Non-Hispanic Asian,168595,14639,0,89.5,7.8,0.0
-2025-01-25,Non-Hispanic Black,251962,25747,0,68.2,7.0,0.0
-2025-01-25,Non-Hispanic Other,263918,91421,0,>90,>90,0.0
-2025-01-25,Non-Hispanic White,884692,127112,0,77.5,11.1,0.0
-2025-02-01,Hispanic/Latino,362271,23932,0,69.2,4.6,0.0
-2025-02-01,Non-Hispanic Asian,168622,14756,0,89.5,7.8,0.0
-2025-02-01,Non-Hispanic Black,252015,26150,0,68.2,7.1,0.0
-2025-02-01,Non-Hispanic Other,263943,91683,0,>90,>90,0.0
-2025-02-01,Non-Hispanic White,884817,128126,0,77.6,11.2,0.0
-2025-02-08,Hispanic/Latino,362344,24252,0,69.3,4.6,0.0
-2025-02-08,Non-Hispanic Asian,168650,14878,0,89.5,7.9,0.0
-2025-02-08,Non-Hispanic Black,252070,26485,0,68.2,7.2,0.0
-2025-02-08,Non-Hispanic Other,263971,91927,0,>90,>90,0.0
-2025-02-08,Non-Hispanic White,884897,128878,0,77.6,11.3,0.0
-2025-02-15,Hispanic/Latino,362416,24522,0,69.3,4.7,0.0
-2025-02-15,Non-Hispanic Asian,168667,14992,0,89.5,8.0,0.0
-2025-02-15,Non-Hispanic Black,252109,26734,0,68.2,7.2,0.0
-2025-02-15,Non-Hispanic Other,264001,92145,0,>90,>90,0.0
-2025-02-15,Non-Hispanic White,884980,129535,0,77.6,11.4,0.0
-2025-02-22,Hispanic/Latino,362477,24780,0,69.3,4.7,0.0
-2025-02-22,Non-Hispanic Asian,168682,15070,0,89.5,8.0,0.0
-2025-02-22,Non-Hispanic Black,252146,27007,0,68.2,7.3,0.0
-2025-02-22,Non-Hispanic Other,264035,92334,0,>90,>90,0.0
-2025-02-22,Non-Hispanic White,885044,130104,0,77.6,11.4,0.0
-2025-03-01,Hispanic/Latino,362538,25050,0,69.3,4.8,0.0
-2025-03-01,Non-Hispanic Asian,168697,15135,0,89.6,8.0,0.0
-2025-03-01,Non-Hispanic Black,252188,27253,0,68.3,7.4,0.0
-2025-03-01,Non-Hispanic Other,264056,92469,0,>90,>90,0.0
-2025-03-01,Non-Hispanic White,885102,130628,0,77.6,11.4,0.0
-2025-03-08,Hispanic/Latino,362611,25291,0,69.3,4.8,0.0
-2025-03-08,Non-Hispanic Asian,168707,15195,0,89.6,8.1,0.0
-2025-03-08,Non-Hispanic Black,252227,27491,0,68.3,7.4,0.0
-2025-03-08,Non-Hispanic Other,264078,92599,0,>90,>90,0.0
-2025-03-08,Non-Hispanic White,885156,131084,0,77.6,11.5,0.0
-2025-03-15,Hispanic/Latino,362656,25509,0,69.3,4.9,0.0
-2025-03-15,Non-Hispanic Asian,168715,15265,0,89.6,8.1,0.0
-2025-03-15,Non-Hispanic Black,252258,27703,0,68.3,7.5,0.0
-2025-03-15,Non-Hispanic Other,264104,92771,0,>90,>90,0.0
-2025-03-15,Non-Hispanic White,885218,131505,0,77.6,11.5,0.0
-2025-03-22,Hispanic/Latino,362721,25689,0,69.3,4.9,0.0
-2025-03-22,Non-Hispanic Asian,168729,15335,0,89.6,8.1,0.0
-2025-03-22,Non-Hispanic Black,252282,27868,0,68.3,7.5,0.0
-2025-03-22,Non-Hispanic Other,264120,92906,0,>90,>90,0.0
-2025-03-22,Non-Hispanic White,885274,131875,0,77.6,11.6,0.0
-2025-03-29,Hispanic/Latino,362791,25883,0,69.3,4.9,0.0
-2025-03-29,Non-Hispanic Asian,168737,15393,0,89.6,8.2,0.0
-2025-03-29,Non-Hispanic Black,252305,28029,0,68.3,7.6,0.0
-2025-03-29,Non-Hispanic Other,264138,93042,0,>90,>90,0.0
-2025-03-29,Non-Hispanic White,885342,132260,0,77.6,11.6,0.0
-2025-04-05,Hispanic/Latino,362838,26047,0,69.4,5.0,0.0
-2025-04-05,Non-Hispanic Asian,168747,15443,0,89.6,8.2,0.0
-2025-04-05,Non-Hispanic Black,252333,28161,0,68.3,7.6,0.0
-2025-04-05,Non-Hispanic Other,264158,93176,0,>90,>90,0.0
-2025-04-05,Non-Hispanic White,885381,132550,0,77.6,11.6,0.0
-2025-04-12,Hispanic/Latino,362862,26169,0,69.4,5.0,0.0
-2025-04-12,Non-Hispanic Asian,168754,15500,0,89.6,8.2,0.0
-2025-04-12,Non-Hispanic Black,252356,28311,0,68.3,7.7,0.0
-2025-04-12,Non-Hispanic Other,264185,93332,0,>90,>90,0.0
-2025-04-12,Non-Hispanic White,885430,132872,0,77.6,11.6,0.0
-2025-04-19,Hispanic/Latino,362903,26279,0,69.4,5.0,0.0
-2025-04-19,Non-Hispanic Asian,168764,15543,0,89.6,8.3,0.0
-2025-04-19,Non-Hispanic Black,252374,28435,0,68.3,7.7,0.0
-2025-04-19,Non-Hispanic Other,264212,93441,0,>90,>90,0.0
-2025-04-19,Non-Hispanic White,885460,133145,0,77.6,11.7,0.0
-2025-04-26,Hispanic/Latino,362935,26391,0,69.4,5.0,0.0
-2025-04-26,Non-Hispanic Asian,168778,15605,0,89.6,8.3,0.0
-2025-04-26,Non-Hispanic Black,252401,28582,0,68.3,7.7,0.0
-2025-04-26,Non-Hispanic Other,264239,93561,0,>90,>90,0.0
-2025-04-26,Non-Hispanic White,885496,133419,0,77.6,11.7,0.0
-2025-05-03,Hispanic/Latino,362960,26494,0,69.4,5.1,0.0
-2025-05-03,Non-Hispanic Asian,168782,15637,0,89.6,8.3,0.0
-2025-05-03,Non-Hispanic Black,252419,28674,0,68.3,7.8,0.0
-2025-05-03,Non-Hispanic Other,264269,93694,0,>90,>90,0.0
-2025-05-03,Non-Hispanic White,885537,133688,0,77.6,11.7,0.0
-2025-05-10,Hispanic/Latino,362979,26562,0,69.4,5.1,0.0
-2025-05-10,Non-Hispanic Asian,168788,15671,0,89.6,8.3,0.0
-2025-05-10,Non-Hispanic Black,252444,28782,0,68.3,7.8,0.0
-2025-05-10,Non-Hispanic Other,264278,93776,0,>90,>90,0.0
-2025-05-10,Non-Hispanic White,885575,133887,0,77.6,11.7,0.0
-2025-05-17,Hispanic/Latino,362992,26619,0,69.4,5.1,0.0
-2025-05-17,Non-Hispanic Asian,168797,15706,0,89.6,8.3,0.0
-2025-05-17,Non-Hispanic Black,252460,28855,0,68.3,7.8,0.0
-2025-05-17,Non-Hispanic Other,264290,93856,0,>90,>90,0.0
-2025-05-17,Non-Hispanic White,885601,134077,0,77.6,11.8,0.0
-2025-05-24,Hispanic/Latino,363007,26686,0,69.4,5.1,0.0
-2025-05-24,Non-Hispanic Asian,168800,15732,0,89.6,8.4,0.0
-2025-05-24,Non-Hispanic Black,252472,28958,0,68.3,7.8,0.0
-2025-05-24,Non-Hispanic Other,264302,93931,0,>90,>90,0.0
-2025-05-24,Non-Hispanic White,885631,134341,0,77.6,11.8,0.0
-2025-05-31,Hispanic/Latino,363019,26733,0,69.4,5.1,0.0
-2025-05-31,Non-Hispanic Asian,168808,15780,0,89.6,8.4,0.0
-2025-05-31,Non-Hispanic Black,252484,29026,0,68.3,7.9,0.0
-2025-05-31,Non-Hispanic Other,264315,93998,0,>90,>90,0.0
-2025-05-31,Non-Hispanic White,885660,134496,0,77.6,11.8,0.0
-2025-06-07,Hispanic/Latino,363033,26806,0,69.4,5.1,0.0
-2025-06-07,Non-Hispanic Asian,168812,15820,0,89.6,8.4,0.0
-2025-06-07,Non-Hispanic Black,252497,29102,0,68.3,7.9,0.0
-2025-06-07,Non-Hispanic Other,264324,94070,0,>90,>90,0.0
-2025-06-07,Non-Hispanic White,885683,134668,0,77.6,11.8,0.0
-2025-06-14,Hispanic/Latino,363044,26867,0,69.4,5.1,0.0
-2025-06-14,Non-Hispanic Asian,168819,15863,0,89.6,8.4,0.0
-2025-06-14,Non-Hispanic Black,252509,29184,0,68.3,7.9,0.0
-2025-06-14,Non-Hispanic Other,264331,94126,0,>90,>90,0.0
-2025-06-14,Non-Hispanic White,885717,134834,0,77.6,11.8,0.0
-2025-06-21,Hispanic/Latino,363052,26908,0,69.4,5.1,0.0
-2025-06-21,Non-Hispanic Asian,168824,15896,0,89.6,8.4,0.0
-2025-06-21,Non-Hispanic Black,252522,29247,0,68.3,7.9,0.0
-2025-06-21,Non-Hispanic Other,264341,94190,0,>90,>90,0.0
-2025-06-21,Non-Hispanic White,885749,134965,0,77.6,11.8,0.0
-2025-06-28,Hispanic/Latino,363060,26957,0,69.4,5.2,0.0
-2025-06-28,Non-Hispanic Asian,168831,15930,0,89.6,8.5,0.0
-2025-06-28,Non-Hispanic Black,252534,29309,0,68.3,7.9,0.0
-2025-06-28,Non-Hispanic Other,264355,94255,0,>90,>90,0.0
-2025-06-28,Non-Hispanic White,885767,135091,0,77.6,11.8,0.0
-2025-07-05,Hispanic/Latino,363068,26993,0,69.4,5.2,0.0
-2025-07-05,Non-Hispanic Asian,168834,15953,0,89.6,8.5,0.0
-2025-07-05,Non-Hispanic Black,252546,29376,0,68.3,8.0,0.0
-2025-07-05,Non-Hispanic Other,264364,94288,0,>90,>90,0.0
-2025-07-05,Non-Hispanic White,885784,135200,0,77.6,11.9,0.0
-2025-07-12,Hispanic/Latino,363080,27043,0,69.4,5.2,0.0
-2025-07-12,Non-Hispanic Asian,168836,15972,0,89.6,8.5,0.0
-2025-07-12,Non-Hispanic Black,252561,29432,0,68.4,8.0,0.0
-2025-07-12,Non-Hispanic Other,264381,94346,0,>90,>90,0.0
-2025-07-12,Non-Hispanic White,885803,135302,0,77.6,11.9,0.0
-2025-07-19,Hispanic/Latino,363094,27091,0,69.4,5.2,0.0
-2025-07-19,Non-Hispanic Asian,168837,15990,0,89.6,8.5,0.0
-2025-07-19,Non-Hispanic Black,252574,29495,0,68.4,8.0,0.0
-2025-07-19,Non-Hispanic Other,264387,94384,0,>90,>90,0.0
-2025-07-19,Non-Hispanic White,885819,135395,0,77.6,11.9,0.0
-2025-07-26,Hispanic/Latino,363109,27128,0,69.4,5.2,0.0
-2025-07-26,Non-Hispanic Asian,168841,16006,0,89.6,8.5,0.0
-2025-07-26,Non-Hispanic Black,252595,29554,0,68.4,8.0,0.0
-2025-07-26,Non-Hispanic Other,264394,94418,0,>90,>90,0.0
-2025-07-26,Non-Hispanic White,885842,135498,0,77.6,11.9,0.0
-2025-08-02,Hispanic/Latino,363135,27180,0,69.4,5.2,0.0
-2025-08-02,Non-Hispanic Asian,168846,16028,0,89.6,8.5,0.0
-2025-08-02,Non-Hispanic Black,252610,29602,0,68.4,8.0,0.0
-2025-08-02,Non-Hispanic Other,264400,94460,0,>90,>90,0.0
-2025-08-02,Non-Hispanic White,885865,135619,0,77.6,11.9,0.0
-2025-08-09,Hispanic/Latino,363146,27216,0,69.4,5.2,0.0
-2025-08-09,Non-Hispanic Asian,168849,16046,0,89.6,8.5,0.0
-2025-08-09,Non-Hispanic Black,252627,29663,0,68.4,8.0,0.0
-2025-08-09,Non-Hispanic Other,264406,94500,0,>90,>90,0.0
-2025-08-09,Non-Hispanic White,885881,135734,0,77.6,11.9,0.0
-2025-08-16,Hispanic/Latino,363167,27264,0,69.4,5.2,0.0
-2025-08-16,Non-Hispanic Asian,168853,16070,0,89.6,8.5,0.0
-2025-08-16,Non-Hispanic Black,252643,29708,0,68.4,8.0,0.0
-2025-08-16,Non-Hispanic Other,264439,94597,0,>90,>90,0.0
-2025-08-16,Non-Hispanic White,885927,135922,0,77.7,11.9,0.0
-2025-08-23,Hispanic/Latino,363182,27300,0,69.4,5.2,0.0
-2025-08-23,Non-Hispanic Asian,168856,16085,0,89.6,8.5,0.0
-2025-08-23,Non-Hispanic Black,252654,29751,0,68.4,8.1,0.0
-2025-08-23,Non-Hispanic Other,264448,94640,0,>90,>90,0.0
-2025-08-23,Non-Hispanic White,885954,136029,0,77.7,11.9,0.0
-2025-08-30,Hispanic/Latino,363190,27314,6,69.4,5.2,0.0
-2025-08-30,Non-Hispanic Asian,168859,16087,0,89.6,8.5,0.0
-2025-08-30,Non-Hispanic Black,252665,29772,10,68.4,8.1,0.0
-2025-08-30,Non-Hispanic Other,264458,94659,23,>90,>90,0.0
-2025-08-30,Non-Hispanic White,885964,136063,15,77.7,11.9,0.0
-2025-09-06,Hispanic/Latino,363228,27315,428,69.4,5.2,0.1
-2025-09-06,Non-Hispanic Asian,168882,16087,244,89.7,8.5,0.1
-2025-09-06,Non-Hispanic Black,252706,29777,485,68.4,8.1,0.1
-2025-09-06,Non-Hispanic Other,264510,94663,2869,>90,>90,4.4
-2025-09-06,Non-Hispanic White,886172,136064,3288,77.7,11.9,0.3
-2025-09-13,Hispanic/Latino,363291,27316,1282,69.4,5.2,0.2
-2025-09-13,Non-Hispanic Asian,168928,16087,763,89.7,8.5,0.4
-2025-09-13,Non-Hispanic Black,252752,29779,1281,68.4,8.1,0.3
-2025-09-13,Non-Hispanic Other,264590,94664,8201,>90,>90,12.6
-2025-09-13,Non-Hispanic White,886528,136065,9782,77.7,11.9,0.9
-2025-09-20,Hispanic/Latino,363379,27316,2175,69.5,5.2,0.4
-2025-09-20,Non-Hispanic Asian,169014,16088,1432,89.7,8.5,0.8
-2025-09-20,Non-Hispanic Black,252839,29781,2193,68.4,8.1,0.6
-2025-09-20,Non-Hispanic Other,264710,94664,13814,>90,>90,21.2
-2025-09-20,Non-Hispanic White,886929,136065,16767,77.7,11.9,1.5
-2025-09-27,Hispanic/Latino,363497,27316,3300,69.5,5.2,0.6
-2025-09-27,Non-Hispanic Asian,169097,16089,2235,89.8,8.5,1.2
-2025-09-27,Non-Hispanic Black,252928,29781,3366,68.5,8.1,0.9
-2025-09-27,Non-Hispanic Other,264864,94665,20156,>90,>90,30.9
-2025-09-27,Non-Hispanic White,887395,136065,24819,77.8,11.9,2.2
-2025-10-04,Hispanic/Latino,363637,27317,4568,69.5,5.2,0.9
-2025-10-04,Non-Hispanic Asian,169180,16089,3158,89.8,8.5,1.7
-2025-10-04,Non-Hispanic Black,253051,29782,4723,68.5,8.1,1.3
-2025-10-04,Non-Hispanic Other,265004,94665,26652,>90,>90,40.9
-2025-10-04,Non-Hispanic White,887941,136068,33640,77.8,11.9,2.9
-2025-10-11,Hispanic/Latino,363796,27319,5972,69.5,5.2,1.1
-2025-10-11,Non-Hispanic Asian,169307,16090,4201,89.9,8.5,2.2
-2025-10-11,Non-Hispanic Black,253191,29783,6119,68.5,8.1,1.7
-2025-10-11,Non-Hispanic Other,265190,94665,33096,>90,>90,50.8
-2025-10-11,Non-Hispanic White,888587,136069,43307,77.9,11.9,3.8
-2025-10-18,Hispanic/Latino,363957,27323,7397,69.6,5.2,1.4
-2025-10-18,Non-Hispanic Asian,169442,16090,5265,89.9,8.5,2.8
-2025-10-18,Non-Hispanic Black,253355,29786,7559,68.6,8.1,2.0
-2025-10-18,Non-Hispanic Other,265343,94667,39394,>90,>90,60.4
-2025-10-18,Non-Hispanic White,889234,136073,53044,77.9,11.9,4.6
-2025-10-25,Hispanic/Latino,364144,27324,8751,69.6,5.2,1.7
-2025-10-25,Non-Hispanic Asian,169565,16091,6213,90.0,8.5,3.3
-2025-10-25,Non-Hispanic Black,253501,29788,9039,68.6,8.1,2.4
-2025-10-25,Non-Hispanic Other,265559,94670,44956,>90,>90,69.0
-2025-10-25,Non-Hispanic White,889871,136078,61989,78.0,11.9,5.4
-2025-11-01,Hispanic/Latino,364756,27324,10088,69.7,5.2,1.9
-2025-11-01,Non-Hispanic Asian,169991,16093,7130,>90,8.5,3.8
-2025-11-01,Non-Hispanic Black,254070,29790,10486,68.8,8.1,2.8
-2025-11-01,Non-Hispanic Other,266308,94670,48537,>90,>90,74.4
-2025-11-01,Non-Hispanic White,893130,136079,70031,78.3,11.9,6.1
-2025-11-08,Hispanic/Latino,365053,27326,11123,69.8,5.2,2.1
-2025-11-08,Non-Hispanic Asian,170223,16093,7873,>90,8.5,4.2
-2025-11-08,Non-Hispanic Black,254365,29792,11639,68.8,8.1,3.1
-2025-11-08,Non-Hispanic Other,266707,94670,51904,>90,>90,79.6
-2025-11-08,Non-Hispanic White,894736,136082,76719,78.4,11.9,6.7
-2025-11-15,Hispanic/Latino,365201,27328,12014,69.8,5.2,2.3
-2025-11-15,Non-Hispanic Asian,170292,16093,8484,>90,8.5,4.5
-2025-11-15,Non-Hispanic Black,254503,29792,12695,68.9,8.1,3.4
-2025-11-15,Non-Hispanic Other,266830,94670,54629,>90,>90,83.8
-2025-11-15,Non-Hispanic White,895111,136083,81888,78.5,11.9,7.2
-2025-11-22,Hispanic/Latino,365347,27330,12895,69.8,5.2,2.5
-2025-11-22,Non-Hispanic Asian,170356,16093,8967,>90,8.5,4.8
-2025-11-22,Non-Hispanic Black,254598,29792,13613,68.9,8.1,3.7
-2025-11-22,Non-Hispanic Other,266945,94670,56957,>90,>90,87.4
-2025-11-22,Non-Hispanic White,895486,136083,86701,78.5,11.9,7.6
-2025-11-29,Hispanic/Latino,365437,27330,13463,69.9,5.2,2.6
-2025-11-29,Non-Hispanic Asian,170401,16093,9345,>90,8.5,5.0
-2025-11-29,Non-Hispanic Black,254669,29793,14185,68.9,8.1,3.8
-2025-11-29,Non-Hispanic Other,267014,94670,58282,>90,>90,89.4
-2025-11-29,Non-Hispanic White,895727,136083,89495,78.5,11.9,7.8
-2025-12-06,Hispanic/Latino,365567,27330,14104,69.9,5.2,2.7
-2025-12-06,Non-Hispanic Asian,170451,16093,9654,>90,8.5,5.1
-2025-12-06,Non-Hispanic Black,254758,29793,14850,68.9,8.1,4.0
-2025-12-06,Non-Hispanic Other,267082,94670,59564,>90,>90,>90
-2025-12-06,Non-Hispanic White,895949,136084,92116,78.5,11.9,8.1
-2025-12-13,Hispanic/Latino,365657,27331,14659,69.9,5.2,2.8
-2025-12-13,Non-Hispanic Asian,170494,16093,9931,>90,8.5,5.3
-2025-12-13,Non-Hispanic Black,254843,29793,15441,69.0,8.1,4.2
-2025-12-13,Non-Hispanic Other,267131,94670,60718,>90,>90,>90
-2025-12-13,Non-Hispanic White,896143,136085,94363,78.5,11.9,8.3
-2025-12-20,Hispanic/Latino,365762,27332,15156,69.9,5.2,2.9
-2025-12-20,Non-Hispanic Asian,170547,16093,10236,>90,8.5,5.4
-2025-12-20,Non-Hispanic Black,254922,29793,16078,69.0,8.1,4.4
-2025-12-20,Non-Hispanic Other,267190,94670,61769,>90,>90,>90
-2025-12-20,Non-Hispanic White,896325,136088,96616,78.6,11.9,8.5
-2025-12-27,Hispanic/Latino,365813,27333,15474,69.9,5.2,3.0
-2025-12-27,Non-Hispanic Asian,170575,16093,10392,>90,8.5,5.5
-2025-12-27,Non-Hispanic Black,254967,29793,16442,69.0,8.1,4.4
-2025-12-27,Non-Hispanic Other,267231,94670,62406,>90,>90,>90
-2025-12-27,Non-Hispanic White,896426,136088,97795,78.6,11.9,8.6
-2026-01-03,Hispanic/Latino,365872,27333,15828,69.9,5.2,3.0
-2026-01-03,Non-Hispanic Asian,170597,16093,10570,>90,8.5,5.6
-2026-01-03,Non-Hispanic Black,255044,29793,16838,69.0,8.1,4.6
-2026-01-03,Non-Hispanic Other,267280,94670,63177,>90,>90,>90
-2026-01-03,Non-Hispanic White,896557,136089,99349,78.6,11.9,8.7
-2026-01-10,Hispanic/Latino,365979,27334,16367,70.0,5.2,3.1
-2026-01-10,Non-Hispanic Asian,170630,16093,10761,>90,8.5,5.7
-2026-01-10,Non-Hispanic Black,255119,29794,17361,69.0,8.1,4.7
-2026-01-10,Non-Hispanic Other,267326,94670,64028,>90,>90,>90
-2026-01-10,Non-Hispanic White,896740,136089,101153,78.6,11.9,8.9
-2026-01-17,Hispanic/Latino,366058,27335,16723,70.0,5.2,3.2
-2026-01-17,Non-Hispanic Asian,170653,16093,10922,>90,8.5,5.8
-2026-01-17,Non-Hispanic Black,255186,29796,17754,69.1,8.1,4.8
-2026-01-17,Non-Hispanic Other,267364,94670,64535,>90,>90,>90
-2026-01-17,Non-Hispanic White,896857,136089,102205,78.6,11.9,9.0
-2026-01-24,Hispanic/Latino,366125,27335,16998,70.0,5.2,3.2
-2026-01-24,Non-Hispanic Asian,170667,16093,11010,>90,8.5,5.8
-2026-01-24,Non-Hispanic Black,255243,29796,18068,69.1,8.1,4.9
-2026-01-24,Non-Hispanic Other,267391,94670,64842,>90,>90,>90
-2026-01-24,Non-Hispanic White,896969,136089,102939,78.6,11.9,9.0
-2026-01-31,Hispanic/Latino,366197,27336,17277,70.0,5.2,3.3
-2026-01-31,Non-Hispanic Asian,170684,16093,11103,>90,8.5,5.9
-2026-01-31,Non-Hispanic Black,255304,29797,18397,69.1,8.1,5.0
-2026-01-31,Non-Hispanic Other,267413,94670,65136,>90,>90,>90
-2026-01-31,Non-Hispanic White,897055,136091,103560,78.6,11.9,9.1
-2026-02-07,Hispanic/Latino,366257,27337,17522,70.0,5.2,3.3
-2026-02-07,Non-Hispanic Asian,170705,16093,11180,>90,8.5,5.9
-2026-02-07,Non-Hispanic Black,255347,29797,18677,69.1,8.1,5.1
-2026-02-07,Non-Hispanic Other,267439,94670,65421,>90,>90,>90
-2026-02-07,Non-Hispanic White,897145,136092,104129,78.6,11.9,9.1
-2026-02-14,Hispanic/Latino,366304,27337,17732,70.0,5.2,3.4
-2026-02-14,Non-Hispanic Asian,170714,16093,11238,>90,8.5,6.0
-2026-02-14,Non-Hispanic Black,255392,29799,18911,69.1,8.1,5.1
-2026-02-14,Non-Hispanic Other,267454,94670,65654,>90,>90,>90
-2026-02-14,Non-Hispanic White,897222,136092,104594,78.6,11.9,9.2
-2026-02-21,Hispanic/Latino,366345,27338,17920,70.0,5.2,3.4
-2026-02-21,Non-Hispanic Asian,170732,16093,11298,>90,8.5,6.0
-2026-02-21,Non-Hispanic Black,255428,29800,19124,69.1,8.1,5.2
-2026-02-21,Non-Hispanic Other,267474,94670,65871,>90,>90,>90
-2026-02-21,Non-Hispanic White,897287,136092,104995,78.6,11.9,9.2
-2026-02-28,Hispanic/Latino,366400,27339,18091,70.0,5.2,3.5
-2026-02-28,Non-Hispanic Asian,170742,16093,11351,>90,8.5,6.0
-2026-02-28,Non-Hispanic Black,255463,29800,19327,69.1,8.1,5.2
-2026-02-28,Non-Hispanic Other,267490,94670,66036,>90,>90,>90
-2026-02-28,Non-Hispanic White,897342,136092,105306,78.7,11.9,9.2
-2026-03-07,Hispanic/Latino,366437,27340,18236,70.0,5.2,3.5
-2026-03-07,Non-Hispanic Asian,170757,16093,11399,>90,8.5,6.1
-2026-03-07,Non-Hispanic Black,255493,29800,19524,69.1,8.1,5.3
-2026-03-07,Non-Hispanic Other,267509,94670,66224,>90,>90,>90
-2026-03-07,Non-Hispanic White,897386,136093,105627,78.7,11.9,9.3
-2026-03-14,Hispanic/Latino,366485,27341,18385,70.1,5.2,3.5
-2026-03-14,Non-Hispanic Asian,170763,16093,11451,>90,8.5,6.1
-2026-03-14,Non-Hispanic Black,255525,29800,19675,69.2,8.1,5.3
-2026-03-14,Non-Hispanic Other,267524,94670,66371,>90,>90,>90
-2026-03-14,Non-Hispanic White,897433,136093,105902,78.7,11.9,9.3
-2026-03-21,Hispanic/Latino,366524,27341,18532,70.1,5.2,3.5
-2026-03-21,Non-Hispanic Asian,170771,16093,11485,>90,8.5,6.1
-2026-03-21,Non-Hispanic Black,255547,29800,19798,69.2,8.1,5.4
-2026-03-21,Non-Hispanic Other,267540,94670,66496,>90,>90,>90
-2026-03-21,Non-Hispanic White,897478,136093,106179,78.7,11.9,9.3
-2026-03-28,Hispanic/Latino,366566,27341,18689,70.1,5.2,3.6
-2026-03-28,Non-Hispanic Asian,170782,16093,11529,>90,8.5,6.1
-2026-03-28,Non-Hispanic Black,255572,29800,19951,69.2,8.1,5.4
-2026-03-28,Non-Hispanic Other,267555,94670,66643,>90,>90,>90
-2026-03-28,Non-Hispanic White,897531,136093,106454,78.7,11.9,9.3
-2026-04-04,Hispanic/Latino,366596,27341,18795,70.1,5.2,3.6
-2026-04-04,Non-Hispanic Asian,170791,16093,11573,>90,8.5,6.1
-2026-04-04,Non-Hispanic Black,255597,29800,20074,69.2,8.1,5.4
-2026-04-04,Non-Hispanic Other,267568,94670,66784,>90,>90,>90
-2026-04-04,Non-Hispanic White,897580,136093,106738,78.7,11.9,9.4
-2026-04-11,Hispanic/Latino,366625,27341,18890,70.1,5.2,3.6
-2026-04-11,Non-Hispanic Asian,170795,16093,11605,>90,8.5,6.2
-2026-04-11,Non-Hispanic Black,255622,29800,20198,69.2,8.1,5.5
-2026-04-11,Non-Hispanic Other,267608,94670,66972,>90,>90,>90
-2026-04-11,Non-Hispanic White,897615,136093,107020,78.7,11.9,9.4
-2026-04-18,Hispanic/Latino,366640,27341,18990,70.1,5.2,3.6
-2026-04-18,Non-Hispanic Asian,170802,16093,11642,>90,8.5,6.2
-2026-04-18,Non-Hispanic Black,255642,29800,20299,69.2,8.1,5.5
-2026-04-18,Non-Hispanic Other,267633,94670,67144,>90,>90,>90
-2026-04-18,Non-Hispanic White,897652,136093,107245,78.7,11.9,9.4
-2026-04-25,Hispanic/Latino,366668,27341,19106,70.1,5.2,3.7
-2026-04-25,Non-Hispanic Asian,170810,16093,11672,>90,8.5,6.2
-2026-04-25,Non-Hispanic Black,255662,29800,20393,69.2,8.1,5.5
-2026-04-25,Non-Hispanic Other,267655,94670,67286,>90,>90,>90
-2026-04-25,Non-Hispanic White,897689,136093,107470,78.7,11.9,9.4
-2026-05-02,Hispanic/Latino,366692,27341,19188,70.1,5.2,3.7
-2026-05-02,Non-Hispanic Asian,170824,16093,11712,>90,8.5,6.2
-2026-05-02,Non-Hispanic Black,255681,29800,20486,69.2,8.1,5.5
-2026-05-02,Non-Hispanic Other,267674,94670,67418,>90,>90,>90
-2026-05-02,Non-Hispanic White,897725,136093,107682,78.7,11.9,9.4
-2026-05-09,Hispanic/Latino,366718,27341,19268,70.1,5.2,3.7
-2026-05-09,Non-Hispanic Asian,170826,16093,11731,>90,8.5,6.2
-2026-05-09,Non-Hispanic Black,255698,29800,20618,69.2,8.1,5.6
-2026-05-09,Non-Hispanic Other,267693,94670,67592,>90,>90,>90
-2026-05-09,Non-Hispanic White,897764,136093,107920,78.7,11.9,9.5
-2026-05-16,Hispanic/Latino,366743,27341,19338,70.1,5.2,3.7
-2026-05-16,Non-Hispanic Asian,170830,16093,11760,>90,8.5,6.2
-2026-05-16,Non-Hispanic Black,255719,29800,20709,69.2,8.1,5.6
-2026-05-16,Non-Hispanic Other,267707,94670,67719,>90,>90,>90
-2026-05-16,Non-Hispanic White,897799,136093,108135,78.7,11.9,9.5
-2026-05-23,Hispanic/Latino,366768,27341,19415,70.1,5.2,3.7
-2026-05-23,Non-Hispanic Asian,170836,16093,11789,>90,8.5,6.3
-2026-05-23,Non-Hispanic Black,255736,29800,20791,69.2,8.1,5.6
-2026-05-23,Non-Hispanic Other,267718,94670,67813,>90,>90,>90
-2026-05-23,Non-Hispanic White,897829,136093,108312,78.7,11.9,9.5
-2026-05-30,Hispanic/Latino,366780,27341,19460,70.1,5.2,3.7
-2026-05-30,Non-Hispanic Asian,170841,16093,11812,>90,8.5,6.3
-2026-05-30,Non-Hispanic Black,255754,29800,20861,69.2,8.1,5.6
-2026-05-30,Non-Hispanic Other,267725,94670,67896,>90,>90,>90
-2026-05-30,Non-Hispanic White,897854,136093,108475,78.7,11.9,9.5
-2026-06-06,Hispanic/Latino,366798,27341,19518,70.1,5.2,3.7
-2026-06-06,Non-Hispanic Asian,170847,16093,11835,>90,8.5,6.3
-2026-06-06,Non-Hispanic Black,255765,29800,20925,69.2,8.1,5.7
-2026-06-06,Non-Hispanic Other,267736,94670,67973,>90,>90,>90
-2026-06-06,Non-Hispanic White,897872,136093,108618,78.7,11.9,9.5
-2026-06-13,Hispanic/Latino,366809,27342,19562,70.1,5.2,3.7
-2026-06-13,Non-Hispanic Asian,170854,16093,11861,>90,8.5,6.3
-2026-06-13,Non-Hispanic Black,255776,29800,20981,69.2,8.1,5.7
-2026-06-13,Non-Hispanic Other,267745,94670,68064,>90,>90,>90
-2026-06-13,Non-Hispanic White,897899,136093,108738,78.7,11.9,9.5
-2026-06-20,Hispanic/Latino,366823,27342,19601,70.1,5.2,3.7
-2026-06-20,Non-Hispanic Asian,170859,16093,11879,>90,8.5,6.3
-2026-06-20,Non-Hispanic Black,255784,29800,21026,69.2,8.1,5.7
-2026-06-20,Non-Hispanic Other,267751,94670,68118,>90,>90,>90
-2026-06-20,Non-Hispanic White,897914,136093,108851,78.7,11.9,9.5
-2026-06-27,Hispanic/Latino,366834,27342,19629,70.1,5.2,3.8
-2026-06-27,Non-Hispanic Asian,170863,16093,11895,>90,8.5,6.3
-2026-06-27,Non-Hispanic Black,255800,29801,21086,69.2,8.1,5.7
-2026-06-27,Non-Hispanic Other,267759,94670,68187,>90,>90,>90
-2026-06-27,Non-Hispanic White,897933,136093,108971,78.7,11.9,9.6
-2026-07-04,Hispanic/Latino,366840,27342,19656,70.1,5.2,3.8
-2026-07-04,Non-Hispanic Asian,170866,16093,11911,>90,8.5,6.3
-2026-07-04,Non-Hispanic Black,255808,29801,21117,69.2,8.1,5.7
-2026-07-04,Non-Hispanic Other,267764,94670,68243,>90,>90,>90
-2026-07-04,Non-Hispanic White,897942,136093,109031,78.7,11.9,9.6
-2026-07-11,Hispanic/Latino,366849,27342,19688,70.1,5.2,3.8
-2026-07-11,Non-Hispanic Asian,170869,16093,11920,>90,8.5,6.3
-2026-07-11,Non-Hispanic Black,255819,29801,21158,69.2,8.1,5.7
-2026-07-11,Non-Hispanic Other,267779,94670,68301,>90,>90,>90
-2026-07-11,Non-Hispanic White,897959,136094,109123,78.7,11.9,9.6
-2026-07-18,Hispanic/Latino,366865,27342,19730,70.1,5.2,3.8
-2026-07-18,Non-Hispanic Asian,170871,16093,11934,>90,8.5,6.3
-2026-07-18,Non-Hispanic Black,255837,29801,21220,69.2,8.1,5.7
-2026-07-18,Non-Hispanic Other,267787,94670,68355,>90,>90,>90
-2026-07-18,Non-Hispanic White,897980,136094,109210,78.7,11.9,9.6
-2026-07-25,Hispanic/Latino,366874,27342,19756,70.1,5.2,3.8
-2026-07-25,Non-Hispanic Asian,170875,16093,11948,>90,8.5,6.3
-2026-07-25,Non-Hispanic Black,255849,29801,21258,69.2,8.1,5.8
-2026-07-25,Non-Hispanic Other,267795,94670,68409,>90,>90,>90
-2026-07-25,Non-Hispanic White,898000,136094,109294,78.7,11.9,9.6
+2020-12-19,Non-Hispanic Black,507,0,0,0.1,0.0,0.0
+2020-12-19,Non-Hispanic Other,1897,0,0,2.9,0.0,0.0
+2020-12-19,Non-Hispanic White,6582,0,0,0.6,0.0,0.0
+2020-12-26,Hispanic/Latino,1299,0,0,0.2,0.0,0.0
+2020-12-26,Non-Hispanic Asian,2744,0,0,1.5,0.0,0.0
+2020-12-26,Non-Hispanic Black,1246,0,0,0.3,0.0,0.0
+2020-12-26,Non-Hispanic Other,3411,0,0,5.2,0.0,0.0
+2020-12-26,Non-Hispanic White,11184,0,0,1.0,0.0,0.0
+2021-01-02,Hispanic/Latino,2821,0,0,0.5,0.0,0.0
+2021-01-02,Non-Hispanic Asian,4218,0,0,2.2,0.0,0.0
+2021-01-02,Non-Hispanic Black,2529,0,0,0.7,0.0,0.0
+2021-01-02,Non-Hispanic Other,5851,0,0,9.0,0.0,0.0
+2021-01-02,Non-Hispanic White,17571,0,0,1.5,0.0,0.0
+2021-01-09,Hispanic/Latino,4783,0,0,0.9,0.0,0.0
+2021-01-09,Non-Hispanic Asian,5999,0,0,3.2,0.0,0.0
+2021-01-09,Non-Hispanic Black,4037,0,0,1.1,0.0,0.0
+2021-01-09,Non-Hispanic Other,8638,0,0,13.2,0.0,0.0
+2021-01-09,Non-Hispanic White,24213,0,0,2.1,0.0,0.0
+2021-01-16,Hispanic/Latino,6523,0,0,1.2,0.0,0.0
+2021-01-16,Non-Hispanic Asian,7887,0,0,4.2,0.0,0.0
+2021-01-16,Non-Hispanic Black,5947,0,0,1.6,0.0,0.0
+2021-01-16,Non-Hispanic Other,12431,0,0,19.1,0.0,0.0
+2021-01-16,Non-Hispanic White,34320,0,0,3.0,0.0,0.0
+2021-01-23,Hispanic/Latino,9072,0,0,1.7,0.0,0.0
+2021-01-23,Non-Hispanic Asian,9971,0,0,5.3,0.0,0.0
+2021-01-23,Non-Hispanic Black,8509,0,0,2.3,0.0,0.0
+2021-01-23,Non-Hispanic Other,17891,0,0,27.4,0.0,0.0
+2021-01-23,Non-Hispanic White,48999,0,0,4.3,0.0,0.0
+2021-01-30,Hispanic/Latino,12605,0,0,2.4,0.0,0.0
+2021-01-30,Non-Hispanic Asian,12680,0,0,6.7,0.0,0.0
+2021-01-30,Non-Hispanic Black,12438,0,0,3.4,0.0,0.0
+2021-01-30,Non-Hispanic Other,27406,0,0,42.0,0.0,0.0
+2021-01-30,Non-Hispanic White,74855,0,0,6.6,0.0,0.0
+2021-02-06,Hispanic/Latino,17951,0,0,3.4,0.0,0.0
+2021-02-06,Non-Hispanic Asian,16466,0,0,8.7,0.0,0.0
+2021-02-06,Non-Hispanic Black,18181,0,0,4.9,0.0,0.0
+2021-02-06,Non-Hispanic Other,40186,0,0,61.6,0.0,0.0
+2021-02-06,Non-Hispanic White,109970,0,0,9.6,0.0,0.0
+2021-02-13,Hispanic/Latino,23798,0,0,4.5,0.0,0.0
+2021-02-13,Non-Hispanic Asian,20758,0,0,11.0,0.0,0.0
+2021-02-13,Non-Hispanic Black,23945,0,0,6.5,0.0,0.0
+2021-02-13,Non-Hispanic Other,52896,0,0,81.1,0.0,0.0
+2021-02-13,Non-Hispanic White,147321,0,0,12.9,0.0,0.0
+2021-02-20,Hispanic/Latino,28308,0,0,5.4,0.0,0.0
+2021-02-20,Non-Hispanic Asian,24338,0,0,12.9,0.0,0.0
+2021-02-20,Non-Hispanic Black,28123,0,0,7.6,0.0,0.0
+2021-02-20,Non-Hispanic Other,61000,0,0,>90,0.0,0.0
+2021-02-20,Non-Hispanic White,172372,0,0,15.1,0.0,0.0
+2021-02-27,Hispanic/Latino,33465,0,0,6.4,0.0,0.0
+2021-02-27,Non-Hispanic Asian,28038,0,0,14.9,0.0,0.0
+2021-02-27,Non-Hispanic Black,33496,0,0,9.1,0.0,0.0
+2021-02-27,Non-Hispanic Other,69485,0,0,>90,0.0,0.0
+2021-02-27,Non-Hispanic White,196211,0,0,17.2,0.0,0.0
+2021-03-06,Hispanic/Latino,39282,0,0,7.5,0.0,0.0
+2021-03-06,Non-Hispanic Asian,32221,0,0,17.1,0.0,0.0
+2021-03-06,Non-Hispanic Black,39532,0,0,10.7,0.0,0.0
+2021-03-06,Non-Hispanic Other,78496,0,0,>90,0.0,0.0
+2021-03-06,Non-Hispanic White,224498,0,0,19.7,0.0,0.0
+2021-03-13,Hispanic/Latino,48114,0,0,9.2,0.0,0.0
+2021-03-13,Non-Hispanic Asian,37391,0,0,19.8,0.0,0.0
+2021-03-13,Non-Hispanic Black,49706,0,0,13.5,0.0,0.0
+2021-03-13,Non-Hispanic Other,90084,0,0,>90,0.0,0.0
+2021-03-13,Non-Hispanic White,261565,0,0,22.9,0.0,0.0
+2021-03-20,Hispanic/Latino,60828,0,0,11.6,0.0,0.0
+2021-03-20,Non-Hispanic Asian,45211,0,0,24.0,0.0,0.0
+2021-03-20,Non-Hispanic Black,59706,0,0,16.2,0.0,0.0
+2021-03-20,Non-Hispanic Other,103049,0,0,>90,0.0,0.0
+2021-03-20,Non-Hispanic White,306908,0,0,26.9,0.0,0.0
+2021-03-27,Hispanic/Latino,74737,0,0,14.3,0.0,0.0
+2021-03-27,Non-Hispanic Asian,52130,0,0,27.7,0.0,0.0
+2021-03-27,Non-Hispanic Black,69251,0,0,18.7,0.0,0.0
+2021-03-27,Non-Hispanic Other,115570,0,0,>90,0.0,0.0
+2021-03-27,Non-Hispanic White,352183,0,0,30.9,0.0,0.0
+2021-04-03,Hispanic/Latino,92098,0,0,17.6,0.0,0.0
+2021-04-03,Non-Hispanic Asian,62411,0,0,33.1,0.0,0.0
+2021-04-03,Non-Hispanic Black,80142,0,0,21.7,0.0,0.0
+2021-04-03,Non-Hispanic Other,129005,0,0,>90,0.0,0.0
+2021-04-03,Non-Hispanic White,404904,0,0,35.5,0.0,0.0
+2021-04-10,Hispanic/Latino,108682,0,0,20.8,0.0,0.0
+2021-04-10,Non-Hispanic Asian,71681,0,0,38.1,0.0,0.0
+2021-04-10,Non-Hispanic Black,90984,0,0,24.6,0.0,0.0
+2021-04-10,Non-Hispanic Other,140240,0,0,>90,0.0,0.0
+2021-04-10,Non-Hispanic White,452609,0,0,39.7,0.0,0.0
+2021-04-17,Hispanic/Latino,125606,0,0,24.0,0.0,0.0
+2021-04-17,Non-Hispanic Asian,81145,0,0,43.1,0.0,0.0
+2021-04-17,Non-Hispanic Black,100624,0,0,27.2,0.0,0.0
+2021-04-17,Non-Hispanic Other,150197,0,0,>90,0.0,0.0
+2021-04-17,Non-Hispanic White,495521,0,0,43.4,0.0,0.0
+2021-04-24,Hispanic/Latino,140954,0,0,26.9,0.0,0.0
+2021-04-24,Non-Hispanic Asian,88580,0,0,47.0,0.0,0.0
+2021-04-24,Non-Hispanic Black,108838,0,0,29.5,0.0,0.0
+2021-04-24,Non-Hispanic Other,157252,0,0,>90,0.0,0.0
+2021-04-24,Non-Hispanic White,524589,0,0,46.0,0.0,0.0
+2021-05-01,Hispanic/Latino,153969,0,0,29.4,0.0,0.0
+2021-05-01,Non-Hispanic Asian,94195,0,0,50.0,0.0,0.0
+2021-05-01,Non-Hispanic Black,114504,0,0,31.0,0.0,0.0
+2021-05-01,Non-Hispanic Other,162489,0,0,>90,0.0,0.0
+2021-05-01,Non-Hispanic White,546927,0,0,47.9,0.0,0.0
+2021-05-08,Hispanic/Latino,163917,0,0,31.3,0.0,0.0
+2021-05-08,Non-Hispanic Asian,97554,0,0,51.8,0.0,0.0
+2021-05-08,Non-Hispanic Black,118985,0,0,32.2,0.0,0.0
+2021-05-08,Non-Hispanic Other,166030,0,0,>90,0.0,0.0
+2021-05-08,Non-Hispanic White,561496,0,0,49.2,0.0,0.0
+2021-05-15,Hispanic/Latino,173799,0,0,33.2,0.0,0.0
+2021-05-15,Non-Hispanic Asian,101331,0,0,53.8,0.0,0.0
+2021-05-15,Non-Hispanic Black,124534,0,0,33.7,0.0,0.0
+2021-05-15,Non-Hispanic Other,170405,0,0,>90,0.0,0.0
+2021-05-15,Non-Hispanic White,579550,0,0,50.8,0.0,0.0
+2021-05-22,Hispanic/Latino,186032,0,0,35.6,0.0,0.0
+2021-05-22,Non-Hispanic Asian,106175,0,0,56.4,0.0,0.0
+2021-05-22,Non-Hispanic Black,130527,0,0,35.3,0.0,0.0
+2021-05-22,Non-Hispanic Other,175507,0,0,>90,0.0,0.0
+2021-05-22,Non-Hispanic White,601604,0,0,52.7,0.0,0.0
+2021-05-29,Hispanic/Latino,193820,0,0,37.0,0.0,0.0
+2021-05-29,Non-Hispanic Asian,108820,0,0,57.8,0.0,0.0
+2021-05-29,Non-Hispanic Black,134735,0,0,36.5,0.0,0.0
+2021-05-29,Non-Hispanic Other,178402,0,0,>90,0.0,0.0
+2021-05-29,Non-Hispanic White,613696,0,0,53.8,0.0,0.0
+2021-06-05,Hispanic/Latino,199522,0,0,38.1,0.0,0.0
+2021-06-05,Non-Hispanic Asian,111017,0,0,58.9,0.0,0.0
+2021-06-05,Non-Hispanic Black,138245,0,0,37.4,0.0,0.0
+2021-06-05,Non-Hispanic Other,180695,0,0,>90,0.0,0.0
+2021-06-05,Non-Hispanic White,622120,0,0,54.5,0.0,0.0
+2021-06-12,Hispanic/Latino,204925,0,0,39.2,0.0,0.0
+2021-06-12,Non-Hispanic Asian,112505,0,0,59.7,0.0,0.0
+2021-06-12,Non-Hispanic Black,141499,0,0,38.3,0.0,0.0
+2021-06-12,Non-Hispanic Other,182410,0,0,>90,0.0,0.0
+2021-06-12,Non-Hispanic White,628780,0,0,55.1,0.0,0.0
+2021-06-19,Hispanic/Latino,209294,0,0,40.0,0.0,0.0
+2021-06-19,Non-Hispanic Asian,113640,0,0,60.3,0.0,0.0
+2021-06-19,Non-Hispanic Black,143963,0,0,39.0,0.0,0.0
+2021-06-19,Non-Hispanic Other,183901,0,0,>90,0.0,0.0
+2021-06-19,Non-Hispanic White,634165,0,0,55.6,0.0,0.0
+2021-06-26,Hispanic/Latino,212531,0,0,40.6,0.0,0.0
+2021-06-26,Non-Hispanic Asian,114464,0,0,60.8,0.0,0.0
+2021-06-26,Non-Hispanic Black,146048,0,0,39.5,0.0,0.0
+2021-06-26,Non-Hispanic Other,185096,0,0,>90,0.0,0.0
+2021-06-26,Non-Hispanic White,638207,0,0,55.9,0.0,0.0
+2021-07-03,Hispanic/Latino,216072,0,0,41.3,0.0,0.0
+2021-07-03,Non-Hispanic Asian,115431,0,0,61.3,0.0,0.0
+2021-07-03,Non-Hispanic Black,148430,0,0,40.2,0.0,0.0
+2021-07-03,Non-Hispanic Other,186518,0,0,>90,0.0,0.0
+2021-07-03,Non-Hispanic White,643062,0,0,56.4,0.0,0.0
+2021-07-10,Hispanic/Latino,218773,0,0,41.8,0.0,0.0
+2021-07-10,Non-Hispanic Asian,116118,0,0,61.6,0.0,0.0
+2021-07-10,Non-Hispanic Black,150256,0,0,40.7,0.0,0.0
+2021-07-10,Non-Hispanic Other,187708,0,0,>90,0.0,0.0
+2021-07-10,Non-Hispanic White,646441,0,0,56.7,0.0,0.0
+2021-07-17,Hispanic/Latino,222225,0,0,42.5,0.0,0.0
+2021-07-17,Non-Hispanic Asian,116900,0,0,62.1,0.0,0.0
+2021-07-17,Non-Hispanic Black,152619,0,0,41.3,0.0,0.0
+2021-07-17,Non-Hispanic Other,189476,0,0,>90,0.0,0.0
+2021-07-17,Non-Hispanic White,651121,0,0,57.1,0.0,0.0
+2021-07-24,Hispanic/Latino,225983,0,0,43.2,0.0,0.0
+2021-07-24,Non-Hispanic Asian,117624,0,0,62.4,0.0,0.0
+2021-07-24,Non-Hispanic Black,155312,0,0,42.0,0.0,0.0
+2021-07-24,Non-Hispanic Other,191586,0,0,>90,0.0,0.0
+2021-07-24,Non-Hispanic White,656212,0,0,57.5,0.0,0.0
+2021-07-31,Hispanic/Latino,229926,0,0,43.9,0.0,0.0
+2021-07-31,Non-Hispanic Asian,118376,0,0,62.8,0.0,0.0
+2021-07-31,Non-Hispanic Black,158100,0,0,42.8,0.0,0.0
+2021-07-31,Non-Hispanic Other,193712,0,0,>90,0.0,0.0
+2021-07-31,Non-Hispanic White,661123,0,0,57.9,0.0,0.0
+2021-08-07,Hispanic/Latino,234391,0,0,44.8,0.0,0.0
+2021-08-07,Non-Hispanic Asian,119082,0,0,63.2,0.0,0.0
+2021-08-07,Non-Hispanic Black,161229,0,0,43.6,0.0,0.0
+2021-08-07,Non-Hispanic Other,196237,0,0,>90,0.0,0.0
+2021-08-07,Non-Hispanic White,666772,0,0,58.4,0.0,0.0
+2021-08-14,Hispanic/Latino,238416,0,0,45.6,0.0,0.0
+2021-08-14,Non-Hispanic Asian,119746,0,0,63.6,0.0,0.0
+2021-08-14,Non-Hispanic Black,164023,0,0,44.4,0.0,0.0
+2021-08-14,Non-Hispanic Other,198706,0,0,>90,0.0,0.0
+2021-08-14,Non-Hispanic White,671613,0,0,58.9,0.0,0.0
+2021-08-21,Hispanic/Latino,241973,0,0,46.3,0.0,0.0
+2021-08-21,Non-Hispanic Asian,120333,0,0,63.9,0.0,0.0
+2021-08-21,Non-Hispanic Black,166592,0,0,45.1,0.0,0.0
+2021-08-21,Non-Hispanic Other,201076,0,0,>90,0.0,0.0
+2021-08-21,Non-Hispanic White,676315,0,0,59.3,0.0,0.0
+2021-08-28,Hispanic/Latino,245328,0,0,46.9,0.0,0.0
+2021-08-28,Non-Hispanic Asian,120874,0,0,64.2,0.0,0.0
+2021-08-28,Non-Hispanic Black,169084,0,0,45.8,0.0,0.0
+2021-08-28,Non-Hispanic Other,203289,0,0,>90,0.0,0.0
+2021-08-28,Non-Hispanic White,681320,0,0,59.7,0.0,0.0
+2021-09-04,Hispanic/Latino,248689,0,0,47.5,0.0,0.0
+2021-09-04,Non-Hispanic Asian,121413,0,0,64.5,0.0,0.0
+2021-09-04,Non-Hispanic Black,171785,0,0,46.5,0.0,0.0
+2021-09-04,Non-Hispanic Other,205690,0,0,>90,0.0,0.0
+2021-09-04,Non-Hispanic White,686507,0,0,60.2,0.0,0.0
+2021-09-11,Hispanic/Latino,250936,0,0,48.0,0.0,0.0
+2021-09-11,Non-Hispanic Asian,121787,0,0,64.6,0.0,0.0
+2021-09-11,Non-Hispanic Black,173831,0,0,47.0,0.0,0.0
+2021-09-11,Non-Hispanic Other,207432,0,0,>90,0.0,0.0
+2021-09-11,Non-Hispanic White,689943,0,0,60.5,0.0,0.0
+2021-09-18,Hispanic/Latino,253112,0,0,48.4,0.0,0.0
+2021-09-18,Non-Hispanic Asian,122154,0,0,64.8,0.0,0.0
+2021-09-18,Non-Hispanic Black,176049,0,0,47.6,0.0,0.0
+2021-09-18,Non-Hispanic Other,209138,0,0,>90,0.0,0.0
+2021-09-18,Non-Hispanic White,693216,0,0,60.8,0.0,0.0
+2021-09-25,Hispanic/Latino,254998,0,0,48.7,0.0,0.0
+2021-09-25,Non-Hispanic Asian,122530,0,0,65.0,0.0,0.0
+2021-09-25,Non-Hispanic Black,177894,0,0,48.1,0.0,0.0
+2021-09-25,Non-Hispanic Other,210680,0,0,>90,0.0,0.0
+2021-09-25,Non-Hispanic White,696285,0,0,61.0,0.0,0.0
+2021-10-02,Hispanic/Latino,256888,0,0,49.1,0.0,0.0
+2021-10-02,Non-Hispanic Asian,123156,0,0,65.4,0.0,0.0
+2021-10-02,Non-Hispanic Black,179869,0,0,48.7,0.0,0.0
+2021-10-02,Non-Hispanic Other,212534,0,0,>90,0.0,0.0
+2021-10-02,Non-Hispanic White,699955,0,0,61.4,0.0,0.0
+2021-10-09,Hispanic/Latino,258653,0,0,49.4,0.0,0.0
+2021-10-09,Non-Hispanic Asian,123780,0,0,65.7,0.0,0.0
+2021-10-09,Non-Hispanic Black,181844,0,0,49.2,0.0,0.0
+2021-10-09,Non-Hispanic Other,214010,0,0,>90,0.0,0.0
+2021-10-09,Non-Hispanic White,703478,0,0,61.7,0.0,0.0
+2021-10-16,Hispanic/Latino,260207,0,0,49.7,0.0,0.0
+2021-10-16,Non-Hispanic Asian,124403,0,0,66.0,0.0,0.0
+2021-10-16,Non-Hispanic Black,183633,0,0,49.7,0.0,0.0
+2021-10-16,Non-Hispanic Other,215389,0,0,>90,0.0,0.0
+2021-10-16,Non-Hispanic White,706619,0,0,61.9,0.0,0.0
+2021-10-23,Hispanic/Latino,261882,0,0,50.1,0.0,0.0
+2021-10-23,Non-Hispanic Asian,124985,0,0,66.3,0.0,0.0
+2021-10-23,Non-Hispanic Black,185168,0,0,50.1,0.0,0.0
+2021-10-23,Non-Hispanic Other,217090,0,0,>90,0.0,0.0
+2021-10-23,Non-Hispanic White,710176,0,0,62.2,0.0,0.0
+2021-10-30,Hispanic/Latino,263626,0,0,50.4,0.0,0.0
+2021-10-30,Non-Hispanic Asian,125840,0,0,66.8,0.0,0.0
+2021-10-30,Non-Hispanic Black,186951,0,0,50.6,0.0,0.0
+2021-10-30,Non-Hispanic Other,218676,0,0,>90,0.0,0.0
+2021-10-30,Non-Hispanic White,715674,0,0,62.7,0.0,0.0
+2021-11-06,Hispanic/Latino,265795,0,0,50.8,0.0,0.0
+2021-11-06,Non-Hispanic Asian,127094,0,0,67.5,0.0,0.0
+2021-11-06,Non-Hispanic Black,188728,0,0,51.1,0.0,0.0
+2021-11-06,Non-Hispanic Other,220241,0,0,>90,0.0,0.0
+2021-11-06,Non-Hispanic White,722175,0,0,63.3,0.0,0.0
+2021-11-13,Hispanic/Latino,270024,0,0,51.6,0.0,0.0
+2021-11-13,Non-Hispanic Asian,129837,0,0,68.9,0.0,0.0
+2021-11-13,Non-Hispanic Black,191334,0,0,51.8,0.0,0.0
+2021-11-13,Non-Hispanic Other,222694,0,0,>90,0.0,0.0
+2021-11-13,Non-Hispanic White,736172,0,0,64.5,0.0,0.0
+2021-11-20,Hispanic/Latino,274100,0,0,52.4,0.0,0.0
+2021-11-20,Non-Hispanic Asian,132719,0,0,70.5,0.0,0.0
+2021-11-20,Non-Hispanic Black,194135,0,0,52.5,0.0,0.0
+2021-11-20,Non-Hispanic Other,225003,0,0,>90,0.0,0.0
+2021-11-20,Non-Hispanic White,747146,0,0,65.5,0.0,0.0
+2021-11-27,Hispanic/Latino,277239,0,0,53.0,0.0,0.0
+2021-11-27,Non-Hispanic Asian,134860,0,0,71.6,0.0,0.0
+2021-11-27,Non-Hispanic Black,196125,0,0,53.1,0.0,0.0
+2021-11-27,Non-Hispanic Other,226659,0,0,>90,0.0,0.0
+2021-11-27,Non-Hispanic White,754999,0,0,66.2,0.0,0.0
+2021-12-04,Hispanic/Latino,281105,0,0,53.7,0.0,0.0
+2021-12-04,Non-Hispanic Asian,137084,0,0,72.8,0.0,0.0
+2021-12-04,Non-Hispanic Black,198920,0,0,53.8,0.0,0.0
+2021-12-04,Non-Hispanic Other,229360,0,0,>90,0.0,0.0
+2021-12-04,Non-Hispanic White,765300,0,0,67.1,0.0,0.0
+2021-12-11,Hispanic/Latino,285352,0,0,54.5,0.0,0.0
+2021-12-11,Non-Hispanic Asian,139520,0,0,74.1,0.0,0.0
+2021-12-11,Non-Hispanic Black,201708,0,0,54.6,0.0,0.0
+2021-12-11,Non-Hispanic Other,231555,0,0,>90,0.0,0.0
+2021-12-11,Non-Hispanic White,774189,0,0,67.9,0.0,0.0
+2021-12-18,Hispanic/Latino,289562,0,0,55.3,0.0,0.0
+2021-12-18,Non-Hispanic Asian,141847,0,0,75.3,0.0,0.0
+2021-12-18,Non-Hispanic Black,204472,0,0,55.3,0.0,0.0
+2021-12-18,Non-Hispanic Other,233409,0,0,>90,0.0,0.0
+2021-12-18,Non-Hispanic White,782427,0,0,68.6,0.0,0.0
+2021-12-25,Hispanic/Latino,292779,0,0,56.0,0.0,0.0
+2021-12-25,Non-Hispanic Asian,143734,0,0,76.3,0.0,0.0
+2021-12-25,Non-Hispanic Black,207012,0,0,56.0,0.0,0.0
+2021-12-25,Non-Hispanic Other,235173,0,0,>90,0.0,0.0
+2021-12-25,Non-Hispanic White,789512,0,0,69.2,0.0,0.0
+2022-01-01,Hispanic/Latino,296974,0,0,56.8,0.0,0.0
+2022-01-01,Non-Hispanic Asian,145506,0,0,77.2,0.0,0.0
+2022-01-01,Non-Hispanic Black,209702,0,0,56.8,0.0,0.0
+2022-01-01,Non-Hispanic Other,236764,0,0,>90,0.0,0.0
+2022-01-01,Non-Hispanic White,796019,0,0,69.8,0.0,0.0
+2022-01-08,Hispanic/Latino,304068,0,0,58.1,0.0,0.0
+2022-01-08,Non-Hispanic Asian,147570,0,0,78.3,0.0,0.0
+2022-01-08,Non-Hispanic Black,213593,0,0,57.8,0.0,0.0
+2022-01-08,Non-Hispanic Other,238832,0,0,>90,0.0,0.0
+2022-01-08,Non-Hispanic White,803865,0,0,70.5,0.0,0.0
+2022-01-15,Hispanic/Latino,311142,0,0,59.5,0.0,0.0
+2022-01-15,Non-Hispanic Asian,149349,0,0,79.3,0.0,0.0
+2022-01-15,Non-Hispanic Black,217251,0,0,58.8,0.0,0.0
+2022-01-15,Non-Hispanic Other,240656,0,0,>90,0.0,0.0
+2022-01-15,Non-Hispanic White,810793,0,0,71.1,0.0,0.0
+2022-01-22,Hispanic/Latino,317240,0,0,60.6,0.0,0.0
+2022-01-22,Non-Hispanic Asian,150764,0,0,80.0,0.0,0.0
+2022-01-22,Non-Hispanic Black,220157,0,0,59.6,0.0,0.0
+2022-01-22,Non-Hispanic Other,242084,0,0,>90,0.0,0.0
+2022-01-22,Non-Hispanic White,815827,0,0,71.5,0.0,0.0
+2022-01-29,Hispanic/Latino,321597,0,0,61.5,0.0,0.0
+2022-01-29,Non-Hispanic Asian,151740,0,0,80.6,0.0,0.0
+2022-01-29,Non-Hispanic Black,222530,0,0,60.2,0.0,0.0
+2022-01-29,Non-Hispanic Other,243059,0,0,>90,0.0,0.0
+2022-01-29,Non-Hispanic White,819269,0,0,71.8,0.0,0.0
+2022-02-05,Hispanic/Latino,324651,0,0,62.1,0.0,0.0
+2022-02-05,Non-Hispanic Asian,152392,0,0,80.9,0.0,0.0
+2022-02-05,Non-Hispanic Black,224289,0,0,60.7,0.0,0.0
+2022-02-05,Non-Hispanic Other,243714,0,0,>90,0.0,0.0
+2022-02-05,Non-Hispanic White,821671,0,0,72.0,0.0,0.0
+2022-02-12,Hispanic/Latino,327459,0,0,62.6,0.0,0.0
+2022-02-12,Non-Hispanic Asian,152913,0,0,81.2,0.0,0.0
+2022-02-12,Non-Hispanic Black,226010,0,0,61.2,0.0,0.0
+2022-02-12,Non-Hispanic Other,244268,0,0,>90,0.0,0.0
+2022-02-12,Non-Hispanic White,823709,0,0,72.2,0.0,0.0
+2022-02-19,Hispanic/Latino,329143,0,0,62.9,0.0,0.0
+2022-02-19,Non-Hispanic Asian,153306,0,0,81.4,0.0,0.0
+2022-02-19,Non-Hispanic Black,227050,0,0,61.4,0.0,0.0
+2022-02-19,Non-Hispanic Other,244645,0,0,>90,0.0,0.0
+2022-02-19,Non-Hispanic White,824814,0,0,72.3,0.0,0.0
+2022-02-26,Hispanic/Latino,330736,0,0,63.2,0.0,0.0
+2022-02-26,Non-Hispanic Asian,153635,0,0,81.6,0.0,0.0
+2022-02-26,Non-Hispanic Black,228024,0,0,61.7,0.0,0.0
+2022-02-26,Non-Hispanic Other,245037,0,0,>90,0.0,0.0
+2022-02-26,Non-Hispanic White,825880,0,0,72.4,0.0,0.0
+2022-03-05,Hispanic/Latino,331874,0,0,63.4,0.0,0.0
+2022-03-05,Non-Hispanic Asian,153906,0,0,81.7,0.0,0.0
+2022-03-05,Non-Hispanic Black,228749,0,0,61.9,0.0,0.0
+2022-03-05,Non-Hispanic Other,245298,0,0,>90,0.0,0.0
+2022-03-05,Non-Hispanic White,826649,0,0,72.5,0.0,0.0
+2022-03-12,Hispanic/Latino,332571,0,0,63.6,0.0,0.0
+2022-03-12,Non-Hispanic Asian,154092,0,0,81.8,0.0,0.0
+2022-03-12,Non-Hispanic Black,229289,0,0,62.1,0.0,0.0
+2022-03-12,Non-Hispanic Other,245466,0,0,>90,0.0,0.0
+2022-03-12,Non-Hispanic White,827250,0,0,72.5,0.0,0.0
+2022-03-19,Hispanic/Latino,333284,0,0,63.7,0.0,0.0
+2022-03-19,Non-Hispanic Asian,154285,0,0,81.9,0.0,0.0
+2022-03-19,Non-Hispanic Black,229778,0,0,62.2,0.0,0.0
+2022-03-19,Non-Hispanic Other,245644,0,0,>90,0.0,0.0
+2022-03-19,Non-Hispanic White,827809,0,0,72.6,0.0,0.0
+2022-03-26,Hispanic/Latino,333792,0,0,63.8,0.0,0.0
+2022-03-26,Non-Hispanic Asian,154478,0,0,82.0,0.0,0.0
+2022-03-26,Non-Hispanic Black,230197,0,0,62.3,0.0,0.0
+2022-03-26,Non-Hispanic Other,245803,0,0,>90,0.0,0.0
+2022-03-26,Non-Hispanic White,828295,0,0,72.6,0.0,0.0
+2022-04-02,Hispanic/Latino,334250,0,0,63.9,0.0,0.0
+2022-04-02,Non-Hispanic Asian,154655,0,0,82.1,0.0,0.0
+2022-04-02,Non-Hispanic Black,230606,0,0,62.4,0.0,0.0
+2022-04-02,Non-Hispanic Other,245995,0,0,>90,0.0,0.0
+2022-04-02,Non-Hispanic White,828959,0,0,72.7,0.0,0.0
+2022-04-09,Hispanic/Latino,334691,0,0,64.0,0.0,0.0
+2022-04-09,Non-Hispanic Asian,154835,0,0,82.2,0.0,0.0
+2022-04-09,Non-Hispanic Black,230965,0,0,62.5,0.0,0.0
+2022-04-09,Non-Hispanic Other,246244,0,0,>90,0.0,0.0
+2022-04-09,Non-Hispanic White,829764,0,0,72.7,0.0,0.0
+2022-04-16,Hispanic/Latino,335123,0,0,64.1,0.0,0.0
+2022-04-16,Non-Hispanic Asian,155067,0,0,82.3,0.0,0.0
+2022-04-16,Non-Hispanic Black,231316,0,0,62.6,0.0,0.0
+2022-04-16,Non-Hispanic Other,246497,0,0,>90,0.0,0.0
+2022-04-16,Non-Hispanic White,830559,0,0,72.8,0.0,0.0
+2022-04-23,Hispanic/Latino,335513,0,0,64.1,0.0,0.0
+2022-04-23,Non-Hispanic Asian,155240,0,0,82.4,0.0,0.0
+2022-04-23,Non-Hispanic Black,231676,0,0,62.7,0.0,0.0
+2022-04-23,Non-Hispanic Other,246728,0,0,>90,0.0,0.0
+2022-04-23,Non-Hispanic White,831309,0,0,72.9,0.0,0.0
+2022-04-30,Hispanic/Latino,335902,0,0,64.2,0.0,0.0
+2022-04-30,Non-Hispanic Asian,155426,0,0,82.5,0.0,0.0
+2022-04-30,Non-Hispanic Black,232009,0,0,62.8,0.0,0.0
+2022-04-30,Non-Hispanic Other,246940,0,0,>90,0.0,0.0
+2022-04-30,Non-Hispanic White,831939,0,0,72.9,0.0,0.0
+2022-05-07,Hispanic/Latino,336229,0,0,64.3,0.0,0.0
+2022-05-07,Non-Hispanic Asian,155562,0,0,82.6,0.0,0.0
+2022-05-07,Non-Hispanic Black,232309,0,0,62.9,0.0,0.0
+2022-05-07,Non-Hispanic Other,247099,0,0,>90,0.0,0.0
+2022-05-07,Non-Hispanic White,832514,0,0,73.0,0.0,0.0
+2022-05-14,Hispanic/Latino,336546,0,0,64.3,0.0,0.0
+2022-05-14,Non-Hispanic Asian,155755,0,0,82.7,0.0,0.0
+2022-05-14,Non-Hispanic Black,232642,0,0,63.0,0.0,0.0
+2022-05-14,Non-Hispanic Other,247315,0,0,>90,0.0,0.0
+2022-05-14,Non-Hispanic White,833194,0,0,73.0,0.0,0.0
+2022-05-21,Hispanic/Latino,336928,0,0,64.4,0.0,0.0
+2022-05-21,Non-Hispanic Asian,155938,0,0,82.8,0.0,0.0
+2022-05-21,Non-Hispanic Black,233033,0,0,63.1,0.0,0.0
+2022-05-21,Non-Hispanic Other,247560,0,0,>90,0.0,0.0
+2022-05-21,Non-Hispanic White,833959,0,0,73.1,0.0,0.0
+2022-05-28,Hispanic/Latino,337340,0,0,64.5,0.0,0.0
+2022-05-28,Non-Hispanic Asian,156102,0,0,82.9,0.0,0.0
+2022-05-28,Non-Hispanic Black,233387,0,0,63.2,0.0,0.0
+2022-05-28,Non-Hispanic Other,247814,0,0,>90,0.0,0.0
+2022-05-28,Non-Hispanic White,834880,0,0,73.2,0.0,0.0
+2022-06-04,Hispanic/Latino,337642,0,0,64.5,0.0,0.0
+2022-06-04,Non-Hispanic Asian,156298,0,0,83.0,0.0,0.0
+2022-06-04,Non-Hispanic Black,233706,0,0,63.3,0.0,0.0
+2022-06-04,Non-Hispanic Other,247985,0,0,>90,0.0,0.0
+2022-06-04,Non-Hispanic White,835524,0,0,73.2,0.0,0.0
+2022-06-11,Hispanic/Latino,337963,0,0,64.6,0.0,0.0
+2022-06-11,Non-Hispanic Asian,156463,0,0,83.1,0.0,0.0
+2022-06-11,Non-Hispanic Black,234018,0,0,63.3,0.0,0.0
+2022-06-11,Non-Hispanic Other,248170,0,0,>90,0.0,0.0
+2022-06-11,Non-Hispanic White,836141,0,0,73.3,0.0,0.0
+2022-06-18,Hispanic/Latino,338219,0,0,64.6,0.0,0.0
+2022-06-18,Non-Hispanic Asian,156626,0,0,83.1,0.0,0.0
+2022-06-18,Non-Hispanic Black,234330,0,0,63.4,0.0,0.0
+2022-06-18,Non-Hispanic Other,248339,0,0,>90,0.0,0.0
+2022-06-18,Non-Hispanic White,836677,0,0,73.3,0.0,0.0
+2022-06-25,Hispanic/Latino,338626,0,0,64.7,0.0,0.0
+2022-06-25,Non-Hispanic Asian,156866,0,0,83.3,0.0,0.0
+2022-06-25,Non-Hispanic Black,234629,0,0,63.5,0.0,0.0
+2022-06-25,Non-Hispanic Other,248579,0,0,>90,0.0,0.0
+2022-06-25,Non-Hispanic White,837837,0,0,73.4,0.0,0.0
+2022-07-02,Hispanic/Latino,339080,0,0,64.8,0.0,0.0
+2022-07-02,Non-Hispanic Asian,157185,0,0,83.4,0.0,0.0
+2022-07-02,Non-Hispanic Black,234968,0,0,63.6,0.0,0.0
+2022-07-02,Non-Hispanic Other,248843,0,0,>90,0.0,0.0
+2022-07-02,Non-Hispanic White,839472,0,0,73.6,0.0,0.0
+2022-07-09,Hispanic/Latino,339574,0,0,64.9,0.0,0.0
+2022-07-09,Non-Hispanic Asian,157482,0,0,83.6,0.0,0.0
+2022-07-09,Non-Hispanic Black,235348,0,0,63.7,0.0,0.0
+2022-07-09,Non-Hispanic Other,249076,0,0,>90,0.0,0.0
+2022-07-09,Non-Hispanic White,840616,0,0,73.7,0.0,0.0
+2022-07-16,Hispanic/Latino,340185,0,0,65.0,0.0,0.0
+2022-07-16,Non-Hispanic Asian,157771,0,0,83.8,0.0,0.0
+2022-07-16,Non-Hispanic Black,235808,0,0,63.8,0.0,0.0
+2022-07-16,Non-Hispanic Other,249339,0,0,>90,0.0,0.0
+2022-07-16,Non-Hispanic White,841821,0,0,73.8,0.0,0.0
+2022-07-23,Hispanic/Latino,340750,0,0,65.1,0.0,0.0
+2022-07-23,Non-Hispanic Asian,158080,0,0,83.9,0.0,0.0
+2022-07-23,Non-Hispanic Black,236188,0,0,63.9,0.0,0.0
+2022-07-23,Non-Hispanic Other,249612,0,0,>90,0.0,0.0
+2022-07-23,Non-Hispanic White,843184,0,0,73.9,0.0,0.0
+2022-07-30,Hispanic/Latino,341296,0,0,65.2,0.0,0.0
+2022-07-30,Non-Hispanic Asian,158373,0,0,84.1,0.0,0.0
+2022-07-30,Non-Hispanic Black,236551,0,0,64.0,0.0,0.0
+2022-07-30,Non-Hispanic Other,249895,0,0,>90,0.0,0.0
+2022-07-30,Non-Hispanic White,844435,0,0,74.0,0.0,0.0
+2022-08-06,Hispanic/Latino,341854,0,0,65.3,0.0,0.0
+2022-08-06,Non-Hispanic Asian,158654,0,0,84.2,0.0,0.0
+2022-08-06,Non-Hispanic Black,236909,0,0,64.1,0.0,0.0
+2022-08-06,Non-Hispanic Other,250171,0,0,>90,0.0,0.0
+2022-08-06,Non-Hispanic White,845552,0,0,74.1,0.0,0.0
+2022-08-13,Hispanic/Latino,342383,0,0,65.4,0.0,0.0
+2022-08-13,Non-Hispanic Asian,158906,0,0,84.4,0.0,0.0
+2022-08-13,Non-Hispanic Black,237287,0,0,64.2,0.0,0.0
+2022-08-13,Non-Hispanic Other,250393,0,0,>90,0.0,0.0
+2022-08-13,Non-Hispanic White,846559,0,0,74.2,0.0,0.0
+2022-08-20,Hispanic/Latino,342873,0,0,65.5,0.0,0.0
+2022-08-20,Non-Hispanic Asian,159116,0,0,84.5,0.0,0.0
+2022-08-20,Non-Hispanic Black,237620,0,0,64.3,0.0,0.0
+2022-08-20,Non-Hispanic Other,250574,0,0,>90,0.0,0.0
+2022-08-20,Non-Hispanic White,847441,0,0,74.3,0.0,0.0
+2022-08-27,Hispanic/Latino,343248,0,0,65.6,0.0,0.0
+2022-08-27,Non-Hispanic Asian,159308,0,0,84.6,0.0,0.0
+2022-08-27,Non-Hispanic Black,237897,0,0,64.4,0.0,0.0
+2022-08-27,Non-Hispanic Other,250727,0,0,>90,0.0,0.0
+2022-08-27,Non-Hispanic White,848145,0,0,74.3,0.0,0.0
+2022-09-03,Hispanic/Latino,343566,0,0,65.7,0.0,0.0
+2022-09-03,Non-Hispanic Asian,159456,0,0,84.6,0.0,0.0
+2022-09-03,Non-Hispanic Black,238122,0,0,64.4,0.0,0.0
+2022-09-03,Non-Hispanic Other,250855,0,0,>90,0.0,0.0
+2022-09-03,Non-Hispanic White,848676,0,0,74.4,0.0,0.0
+2022-09-10,Hispanic/Latino,343828,0,0,65.7,0.0,0.0
+2022-09-10,Non-Hispanic Asian,159657,0,0,84.8,0.0,0.0
+2022-09-10,Non-Hispanic Black,238355,0,0,64.5,0.0,0.0
+2022-09-10,Non-Hispanic Other,251097,0,0,>90,0.0,0.0
+2022-09-10,Non-Hispanic White,849614,0,0,74.5,0.0,0.0
+2022-09-17,Hispanic/Latino,344214,0,0,65.8,0.0,0.0
+2022-09-17,Non-Hispanic Asian,159896,0,0,84.9,0.0,0.0
+2022-09-17,Non-Hispanic Black,238654,0,0,64.6,0.0,0.0
+2022-09-17,Non-Hispanic Other,251469,0,0,>90,0.0,0.0
+2022-09-17,Non-Hispanic White,850765,0,0,74.6,0.0,0.0
+2022-09-24,Hispanic/Latino,344557,0,0,65.9,0.0,0.0
+2022-09-24,Non-Hispanic Asian,160191,0,0,85.0,0.0,0.0
+2022-09-24,Non-Hispanic Black,238982,0,0,64.7,0.0,0.0
+2022-09-24,Non-Hispanic Other,251839,0,0,>90,0.0,0.0
+2022-09-24,Non-Hispanic White,851964,0,0,74.7,0.0,0.0
+2022-10-01,Hispanic/Latino,345018,0,0,65.9,0.0,0.0
+2022-10-01,Non-Hispanic Asian,160493,0,0,85.2,0.0,0.0
+2022-10-01,Non-Hispanic Black,239362,0,0,64.8,0.0,0.0
+2022-10-01,Non-Hispanic Other,252217,0,0,>90,0.0,0.0
+2022-10-01,Non-Hispanic White,853206,0,0,74.8,0.0,0.0
+2022-10-08,Hispanic/Latino,345472,0,0,66.0,0.0,0.0
+2022-10-08,Non-Hispanic Asian,160790,0,0,85.4,0.0,0.0
+2022-10-08,Non-Hispanic Black,239748,0,0,64.9,0.0,0.0
+2022-10-08,Non-Hispanic Other,252618,0,0,>90,0.0,0.0
+2022-10-08,Non-Hispanic White,854478,0,0,74.9,0.0,0.0
+2022-10-15,Hispanic/Latino,345921,0,0,66.1,0.0,0.0
+2022-10-15,Non-Hispanic Asian,161057,0,0,85.5,0.0,0.0
+2022-10-15,Non-Hispanic Black,240156,0,0,65.0,0.0,0.0
+2022-10-15,Non-Hispanic Other,253006,0,0,>90,0.0,0.0
+2022-10-15,Non-Hispanic White,855686,0,0,75.0,0.0,0.0
+2022-10-22,Hispanic/Latino,346373,0,0,66.2,0.0,0.0
+2022-10-22,Non-Hispanic Asian,161348,0,0,85.7,0.0,0.0
+2022-10-22,Non-Hispanic Black,240543,0,0,65.1,0.0,0.0
+2022-10-22,Non-Hispanic Other,253368,0,0,>90,0.0,0.0
+2022-10-22,Non-Hispanic White,857010,0,0,75.1,0.0,0.0
+2022-10-29,Hispanic/Latino,346842,0,0,66.3,0.0,0.0
+2022-10-29,Non-Hispanic Asian,161654,0,0,85.8,0.0,0.0
+2022-10-29,Non-Hispanic Black,240957,0,0,65.2,0.0,0.0
+2022-10-29,Non-Hispanic Other,253689,0,0,>90,0.0,0.0
+2022-10-29,Non-Hispanic White,858286,0,0,75.2,0.0,0.0
+2022-11-05,Hispanic/Latino,347309,0,0,66.4,0.0,0.0
+2022-11-05,Non-Hispanic Asian,161931,0,0,86.0,0.0,0.0
+2022-11-05,Non-Hispanic Black,241335,0,0,65.3,0.0,0.0
+2022-11-05,Non-Hispanic Other,253997,0,0,>90,0.0,0.0
+2022-11-05,Non-Hispanic White,859342,0,0,75.3,0.0,0.0
+2022-11-12,Hispanic/Latino,347747,0,0,66.5,0.0,0.0
+2022-11-12,Non-Hispanic Asian,162209,0,0,86.1,0.0,0.0
+2022-11-12,Non-Hispanic Black,241693,0,0,65.4,0.0,0.0
+2022-11-12,Non-Hispanic Other,254258,0,0,>90,0.0,0.0
+2022-11-12,Non-Hispanic White,860442,0,0,75.4,0.0,0.0
+2022-11-19,Hispanic/Latino,348192,0,0,66.6,0.0,0.0
+2022-11-19,Non-Hispanic Asian,162453,0,0,86.2,0.0,0.0
+2022-11-19,Non-Hispanic Black,242000,0,0,65.5,0.0,0.0
+2022-11-19,Non-Hispanic Other,254488,0,0,>90,0.0,0.0
+2022-11-19,Non-Hispanic White,861379,0,0,75.5,0.0,0.0
+2022-11-26,Hispanic/Latino,348373,0,0,66.6,0.0,0.0
+2022-11-26,Non-Hispanic Asian,162564,0,0,86.3,0.0,0.0
+2022-11-26,Non-Hispanic Black,242110,0,0,65.5,0.0,0.0
+2022-11-26,Non-Hispanic Other,254584,0,0,>90,0.0,0.0
+2022-11-26,Non-Hispanic White,861774,0,0,75.5,0.0,0.0
+2022-12-03,Hispanic/Latino,348727,0,0,66.7,0.0,0.0
+2022-12-03,Non-Hispanic Asian,162753,0,0,86.4,0.0,0.0
+2022-12-03,Non-Hispanic Black,242370,0,0,65.6,0.0,0.0
+2022-12-03,Non-Hispanic Other,254771,0,0,>90,0.0,0.0
+2022-12-03,Non-Hispanic White,862413,0,0,75.6,0.0,0.0
+2022-12-10,Hispanic/Latino,349132,0,0,66.7,0.0,0.0
+2022-12-10,Non-Hispanic Asian,162932,0,0,86.5,0.0,0.0
+2022-12-10,Non-Hispanic Black,242636,0,0,65.7,0.0,0.0
+2022-12-10,Non-Hispanic Other,254973,0,0,>90,0.0,0.0
+2022-12-10,Non-Hispanic White,863014,0,0,75.6,0.0,0.0
+2022-12-17,Hispanic/Latino,349478,0,0,66.8,0.0,0.0
+2022-12-17,Non-Hispanic Asian,163125,0,0,86.6,0.0,0.0
+2022-12-17,Non-Hispanic Black,242905,0,0,65.7,0.0,0.0
+2022-12-17,Non-Hispanic Other,255130,0,0,>90,0.0,0.0
+2022-12-17,Non-Hispanic White,863656,0,0,75.7,0.0,0.0
+2022-12-24,Hispanic/Latino,349727,0,0,66.8,0.0,0.0
+2022-12-24,Non-Hispanic Asian,163338,0,0,86.7,0.0,0.0
+2022-12-24,Non-Hispanic Black,243070,0,0,65.8,0.0,0.0
+2022-12-24,Non-Hispanic Other,255246,0,0,>90,0.0,0.0
+2022-12-24,Non-Hispanic White,864119,0,0,75.7,0.0,0.0
+2022-12-31,Hispanic/Latino,350036,0,0,66.9,0.0,0.0
+2022-12-31,Non-Hispanic Asian,163616,0,0,86.9,0.0,0.0
+2022-12-31,Non-Hispanic Black,243213,0,0,65.8,0.0,0.0
+2022-12-31,Non-Hispanic Other,255359,0,0,>90,0.0,0.0
+2022-12-31,Non-Hispanic White,864436,0,0,75.8,0.0,0.0
+2023-01-07,Hispanic/Latino,350299,0,0,67.0,0.0,0.0
+2023-01-07,Non-Hispanic Asian,163811,0,0,87.0,0.0,0.0
+2023-01-07,Non-Hispanic Black,243388,0,0,65.9,0.0,0.0
+2023-01-07,Non-Hispanic Other,255497,0,0,>90,0.0,0.0
+2023-01-07,Non-Hispanic White,864780,0,0,75.8,0.0,0.0
+2023-01-14,Hispanic/Latino,350550,0,0,67.0,0.0,0.0
+2023-01-14,Non-Hispanic Asian,163965,0,0,87.0,0.0,0.0
+2023-01-14,Non-Hispanic Black,243590,0,0,65.9,0.0,0.0
+2023-01-14,Non-Hispanic Other,255604,0,0,>90,0.0,0.0
+2023-01-14,Non-Hispanic White,865115,0,0,75.8,0.0,0.0
+2023-01-21,Hispanic/Latino,350763,0,0,67.0,0.0,0.0
+2023-01-21,Non-Hispanic Asian,164062,0,0,87.1,0.0,0.0
+2023-01-21,Non-Hispanic Black,243758,0,0,66.0,0.0,0.0
+2023-01-21,Non-Hispanic Other,255663,0,0,>90,0.0,0.0
+2023-01-21,Non-Hispanic White,865348,0,0,75.8,0.0,0.0
+2023-01-28,Hispanic/Latino,350972,0,0,67.1,0.0,0.0
+2023-01-28,Non-Hispanic Asian,164144,0,0,87.1,0.0,0.0
+2023-01-28,Non-Hispanic Black,243893,0,0,66.0,0.0,0.0
+2023-01-28,Non-Hispanic Other,255731,0,0,>90,0.0,0.0
+2023-01-28,Non-Hispanic White,865557,0,0,75.9,0.0,0.0
+2023-02-04,Hispanic/Latino,351194,0,0,67.1,0.0,0.0
+2023-02-04,Non-Hispanic Asian,164211,0,0,87.2,0.0,0.0
+2023-02-04,Non-Hispanic Black,244021,0,0,66.0,0.0,0.0
+2023-02-04,Non-Hispanic Other,255803,0,0,>90,0.0,0.0
+2023-02-04,Non-Hispanic White,865755,0,0,75.9,0.0,0.0
+2023-02-11,Hispanic/Latino,351397,0,0,67.2,0.0,0.0
+2023-02-11,Non-Hispanic Asian,164277,0,0,87.2,0.0,0.0
+2023-02-11,Non-Hispanic Black,244165,0,0,66.1,0.0,0.0
+2023-02-11,Non-Hispanic Other,255873,0,0,>90,0.0,0.0
+2023-02-11,Non-Hispanic White,865948,0,0,75.9,0.0,0.0
+2023-02-18,Hispanic/Latino,351553,0,0,67.2,0.0,0.0
+2023-02-18,Non-Hispanic Asian,164331,0,0,87.2,0.0,0.0
+2023-02-18,Non-Hispanic Black,244274,0,0,66.1,0.0,0.0
+2023-02-18,Non-Hispanic Other,255917,0,0,>90,0.0,0.0
+2023-02-18,Non-Hispanic White,866082,0,0,75.9,0.0,0.0
+2023-02-25,Hispanic/Latino,351738,0,0,67.2,0.0,0.0
+2023-02-25,Non-Hispanic Asian,164382,0,0,87.3,0.0,0.0
+2023-02-25,Non-Hispanic Black,244359,0,0,66.1,0.0,0.0
+2023-02-25,Non-Hispanic Other,255965,0,0,>90,0.0,0.0
+2023-02-25,Non-Hispanic White,866230,0,0,75.9,0.0,0.0
+2023-03-04,Hispanic/Latino,351870,0,0,67.3,0.0,0.0
+2023-03-04,Non-Hispanic Asian,164428,0,0,87.3,0.0,0.0
+2023-03-04,Non-Hispanic Black,244452,0,0,66.2,0.0,0.0
+2023-03-04,Non-Hispanic Other,255996,0,0,>90,0.0,0.0
+2023-03-04,Non-Hispanic White,866358,0,0,75.9,0.0,0.0
+2023-03-11,Hispanic/Latino,352035,0,0,67.3,0.0,0.0
+2023-03-11,Non-Hispanic Asian,164479,0,0,87.3,0.0,0.0
+2023-03-11,Non-Hispanic Black,244569,0,0,66.2,0.0,0.0
+2023-03-11,Non-Hispanic Other,256048,0,0,>90,0.0,0.0
+2023-03-11,Non-Hispanic White,866511,0,0,76.0,0.0,0.0
+2023-03-18,Hispanic/Latino,352154,0,0,67.3,0.0,0.0
+2023-03-18,Non-Hispanic Asian,164527,0,0,87.3,0.0,0.0
+2023-03-18,Non-Hispanic Black,244681,0,0,66.2,0.0,0.0
+2023-03-18,Non-Hispanic Other,256095,0,0,>90,0.0,0.0
+2023-03-18,Non-Hispanic White,866645,0,0,76.0,0.0,0.0
+2023-03-25,Hispanic/Latino,352281,0,0,67.3,0.0,0.0
+2023-03-25,Non-Hispanic Asian,164565,0,0,87.4,0.0,0.0
+2023-03-25,Non-Hispanic Black,244770,0,0,66.2,0.0,0.0
+2023-03-25,Non-Hispanic Other,256148,0,0,>90,0.0,0.0
+2023-03-25,Non-Hispanic White,866754,0,0,76.0,0.0,0.0
+2023-04-01,Hispanic/Latino,352385,0,0,67.4,0.0,0.0
+2023-04-01,Non-Hispanic Asian,164607,0,0,87.4,0.0,0.0
+2023-04-01,Non-Hispanic Black,244877,0,0,66.3,0.0,0.0
+2023-04-01,Non-Hispanic Other,256183,0,0,>90,0.0,0.0
+2023-04-01,Non-Hispanic White,866855,0,0,76.0,0.0,0.0
+2023-04-08,Hispanic/Latino,352494,0,0,67.4,0.0,0.0
+2023-04-08,Non-Hispanic Asian,164646,0,0,87.4,0.0,0.0
+2023-04-08,Non-Hispanic Black,244963,0,0,66.3,0.0,0.0
+2023-04-08,Non-Hispanic Other,256214,0,0,>90,0.0,0.0
+2023-04-08,Non-Hispanic White,866953,0,0,76.0,0.0,0.0
+2023-04-15,Hispanic/Latino,352603,0,0,67.4,0.0,0.0
+2023-04-15,Non-Hispanic Asian,164679,0,0,87.4,0.0,0.0
+2023-04-15,Non-Hispanic Black,245029,0,0,66.3,0.0,0.0
+2023-04-15,Non-Hispanic Other,256261,0,0,>90,0.0,0.0
+2023-04-15,Non-Hispanic White,867047,0,0,76.0,0.0,0.0
+2023-04-22,Hispanic/Latino,352715,0,0,67.4,0.0,0.0
+2023-04-22,Non-Hispanic Asian,164712,0,0,87.4,0.0,0.0
+2023-04-22,Non-Hispanic Black,245123,0,0,66.3,0.0,0.0
+2023-04-22,Non-Hispanic Other,256291,0,0,>90,0.0,0.0
+2023-04-22,Non-Hispanic White,867133,0,0,76.0,0.0,0.0
+2023-04-29,Hispanic/Latino,352828,0,0,67.4,0.0,0.0
+2023-04-29,Non-Hispanic Asian,164744,0,0,87.5,0.0,0.0
+2023-04-29,Non-Hispanic Black,245196,0,0,66.4,0.0,0.0
+2023-04-29,Non-Hispanic Other,256321,0,0,>90,0.0,0.0
+2023-04-29,Non-Hispanic White,867200,0,0,76.0,0.0,0.0
+2023-05-06,Hispanic/Latino,352899,0,0,67.5,0.0,0.0
+2023-05-06,Non-Hispanic Asian,164777,0,0,87.5,0.0,0.0
+2023-05-06,Non-Hispanic Black,245287,0,0,66.4,0.0,0.0
+2023-05-06,Non-Hispanic Other,256363,0,0,>90,0.0,0.0
+2023-05-06,Non-Hispanic White,867292,0,0,76.0,0.0,0.0
+2023-05-13,Hispanic/Latino,352996,0,0,67.5,0.0,0.0
+2023-05-13,Non-Hispanic Asian,164803,0,0,87.5,0.0,0.0
+2023-05-13,Non-Hispanic Black,245344,0,0,66.4,0.0,0.0
+2023-05-13,Non-Hispanic Other,256400,0,0,>90,0.0,0.0
+2023-05-13,Non-Hispanic White,867381,0,0,76.0,0.0,0.0
+2023-05-20,Hispanic/Latino,353075,0,0,67.5,0.0,0.0
+2023-05-20,Non-Hispanic Asian,164832,0,0,87.5,0.0,0.0
+2023-05-20,Non-Hispanic Black,245443,0,0,66.4,0.0,0.0
+2023-05-20,Non-Hispanic Other,256424,0,0,>90,0.0,0.0
+2023-05-20,Non-Hispanic White,867480,0,0,76.0,0.0,0.0
+2023-05-27,Hispanic/Latino,353139,0,0,67.5,0.0,0.0
+2023-05-27,Non-Hispanic Asian,164858,0,0,87.5,0.0,0.0
+2023-05-27,Non-Hispanic Black,245513,0,0,66.4,0.0,0.0
+2023-05-27,Non-Hispanic Other,256459,0,0,>90,0.0,0.0
+2023-05-27,Non-Hispanic White,867579,0,0,76.0,0.0,0.0
+2023-06-03,Hispanic/Latino,353187,0,0,67.5,0.0,0.0
+2023-06-03,Non-Hispanic Asian,164876,0,0,87.5,0.0,0.0
+2023-06-03,Non-Hispanic Black,245567,0,0,66.5,0.0,0.0
+2023-06-03,Non-Hispanic Other,256493,0,0,>90,0.0,0.0
+2023-06-03,Non-Hispanic White,867645,0,0,76.0,0.0,0.0
+2023-06-10,Hispanic/Latino,353255,0,0,67.5,0.0,0.0
+2023-06-10,Non-Hispanic Asian,164894,0,0,87.5,0.0,0.0
+2023-06-10,Non-Hispanic Black,245616,0,0,66.5,0.0,0.0
+2023-06-10,Non-Hispanic Other,256513,0,0,>90,0.0,0.0
+2023-06-10,Non-Hispanic White,867732,0,0,76.1,0.0,0.0
+2023-06-17,Hispanic/Latino,353321,0,0,67.5,0.0,0.0
+2023-06-17,Non-Hispanic Asian,164915,0,0,87.5,0.0,0.0
+2023-06-17,Non-Hispanic Black,245677,0,0,66.5,0.0,0.0
+2023-06-17,Non-Hispanic Other,256536,0,0,>90,0.0,0.0
+2023-06-17,Non-Hispanic White,867811,0,0,76.1,0.0,0.0
+2023-06-24,Hispanic/Latino,353393,0,0,67.5,0.0,0.0
+2023-06-24,Non-Hispanic Asian,164939,0,0,87.6,0.0,0.0
+2023-06-24,Non-Hispanic Black,245729,0,0,66.5,0.0,0.0
+2023-06-24,Non-Hispanic Other,256571,0,0,>90,0.0,0.0
+2023-06-24,Non-Hispanic White,867880,0,0,76.1,0.0,0.0
+2023-07-01,Hispanic/Latino,353464,0,0,67.6,0.0,0.0
+2023-07-01,Non-Hispanic Asian,164954,0,0,87.6,0.0,0.0
+2023-07-01,Non-Hispanic Black,245801,0,0,66.5,0.0,0.0
+2023-07-01,Non-Hispanic Other,256597,0,0,>90,0.0,0.0
+2023-07-01,Non-Hispanic White,867954,0,0,76.1,0.0,0.0
+2023-07-08,Hispanic/Latino,353517,0,0,67.6,0.0,0.0
+2023-07-08,Non-Hispanic Asian,164976,0,0,87.6,0.0,0.0
+2023-07-08,Non-Hispanic Black,245847,0,0,66.5,0.0,0.0
+2023-07-08,Non-Hispanic Other,256618,0,0,>90,0.0,0.0
+2023-07-08,Non-Hispanic White,868013,0,0,76.1,0.0,0.0
+2023-07-15,Hispanic/Latino,353573,0,0,67.6,0.0,0.0
+2023-07-15,Non-Hispanic Asian,164995,0,0,87.6,0.0,0.0
+2023-07-15,Non-Hispanic Black,245893,0,0,66.5,0.0,0.0
+2023-07-15,Non-Hispanic Other,256649,0,0,>90,0.0,0.0
+2023-07-15,Non-Hispanic White,868067,0,0,76.1,0.0,0.0
+2023-07-22,Hispanic/Latino,353630,0,0,67.6,0.0,0.0
+2023-07-22,Non-Hispanic Asian,165017,0,0,87.6,0.0,0.0
+2023-07-22,Non-Hispanic Black,245955,0,0,66.6,0.0,0.0
+2023-07-22,Non-Hispanic Other,256683,0,0,>90,0.0,0.0
+2023-07-22,Non-Hispanic White,868120,0,0,76.1,0.0,0.0
+2023-07-29,Hispanic/Latino,353684,0,0,67.6,0.0,0.0
+2023-07-29,Non-Hispanic Asian,165038,0,0,87.6,0.0,0.0
+2023-07-29,Non-Hispanic Black,246003,0,0,66.6,0.0,0.0
+2023-07-29,Non-Hispanic Other,256711,0,0,>90,0.0,0.0
+2023-07-29,Non-Hispanic White,868201,0,0,76.1,0.0,0.0
+2023-08-05,Hispanic/Latino,353767,0,0,67.6,0.0,0.0
+2023-08-05,Non-Hispanic Asian,165049,0,0,87.6,0.0,0.0
+2023-08-05,Non-Hispanic Black,246072,0,0,66.6,0.0,0.0
+2023-08-05,Non-Hispanic Other,256738,0,0,>90,0.0,0.0
+2023-08-05,Non-Hispanic White,868260,0,0,76.1,0.0,0.0
+2023-08-12,Hispanic/Latino,353837,0,0,67.6,0.0,0.0
+2023-08-12,Non-Hispanic Asian,165064,0,0,87.6,0.0,0.0
+2023-08-12,Non-Hispanic Black,246120,0,0,66.6,0.0,0.0
+2023-08-12,Non-Hispanic Other,256770,0,0,>90,0.0,0.0
+2023-08-12,Non-Hispanic White,868327,0,0,76.1,0.0,0.0
+2023-08-19,Hispanic/Latino,353907,0,0,67.6,0.0,0.0
+2023-08-19,Non-Hispanic Asian,165084,0,0,87.6,0.0,0.0
+2023-08-19,Non-Hispanic Black,246182,0,0,66.6,0.0,0.0
+2023-08-19,Non-Hispanic Other,256802,0,0,>90,0.0,0.0
+2023-08-19,Non-Hispanic White,868391,0,0,76.1,0.0,0.0
+2023-08-26,Hispanic/Latino,353997,0,0,67.7,0.0,0.0
+2023-08-26,Non-Hispanic Asian,165099,0,0,87.6,0.0,0.0
+2023-08-26,Non-Hispanic Black,246223,0,0,66.6,0.0,0.0
+2023-08-26,Non-Hispanic Other,256820,0,0,>90,0.0,0.0
+2023-08-26,Non-Hispanic White,868469,0,0,76.1,0.0,0.0
+2023-09-02,Hispanic/Latino,354054,0,0,67.7,0.0,0.0
+2023-09-02,Non-Hispanic Asian,165123,0,0,87.7,0.0,0.0
+2023-09-02,Non-Hispanic Black,246270,0,0,66.7,0.0,0.0
+2023-09-02,Non-Hispanic Other,256848,0,0,>90,0.0,0.0
+2023-09-02,Non-Hispanic White,868526,0,0,76.1,0.0,0.0
+2023-09-09,Hispanic/Latino,354125,0,0,67.7,0.0,0.0
+2023-09-09,Non-Hispanic Asian,165140,0,0,87.7,0.0,0.0
+2023-09-09,Non-Hispanic Black,246319,0,0,66.7,0.0,0.0
+2023-09-09,Non-Hispanic Other,256874,0,0,>90,0.0,0.0
+2023-09-09,Non-Hispanic White,868567,0,0,76.1,0.0,0.0
+2023-09-16,Hispanic/Latino,354153,0,0,67.7,0.0,0.0
+2023-09-16,Non-Hispanic Asian,165152,0,0,87.7,0.0,0.0
+2023-09-16,Non-Hispanic Black,246340,0,0,66.7,0.0,0.0
+2023-09-16,Non-Hispanic Other,256896,0,0,>90,0.0,0.0
+2023-09-16,Non-Hispanic White,868616,0,0,76.1,0.0,0.0
+2023-09-23,Hispanic/Latino,354213,0,0,67.7,0.0,0.0
+2023-09-23,Non-Hispanic Asian,165221,0,0,87.7,0.0,0.0
+2023-09-23,Non-Hispanic Black,246405,0,0,66.7,0.0,0.0
+2023-09-23,Non-Hispanic Other,257137,0,0,>90,0.0,0.0
+2023-09-23,Non-Hispanic White,869011,0,0,76.2,0.0,0.0
+2023-09-30,Hispanic/Latino,354308,0,0,67.7,0.0,0.0
+2023-09-30,Non-Hispanic Asian,165320,0,0,87.8,0.0,0.0
+2023-09-30,Non-Hispanic Black,246510,0,0,66.7,0.0,0.0
+2023-09-30,Non-Hispanic Other,257393,0,0,>90,0.0,0.0
+2023-09-30,Non-Hispanic White,869542,0,0,76.2,0.0,0.0
+2023-10-07,Hispanic/Latino,354467,0,0,67.8,0.0,0.0
+2023-10-07,Non-Hispanic Asian,165428,0,0,87.8,0.0,0.0
+2023-10-07,Non-Hispanic Black,246643,0,0,66.8,0.0,0.0
+2023-10-07,Non-Hispanic Other,257719,0,0,>90,0.0,0.0
+2023-10-07,Non-Hispanic White,870246,0,0,76.3,0.0,0.0
+2023-10-14,Hispanic/Latino,354666,0,0,67.8,0.0,0.0
+2023-10-14,Non-Hispanic Asian,165558,0,0,87.9,0.0,0.0
+2023-10-14,Non-Hispanic Black,246800,0,0,66.8,0.0,0.0
+2023-10-14,Non-Hispanic Other,258059,0,0,>90,0.0,0.0
+2023-10-14,Non-Hispanic White,870924,0,0,76.3,0.0,0.0
+2023-10-21,Hispanic/Latino,354897,0,0,67.8,0.0,0.0
+2023-10-21,Non-Hispanic Asian,165710,0,0,88.0,0.0,0.0
+2023-10-21,Non-Hispanic Black,246971,0,0,66.8,0.0,0.0
+2023-10-21,Non-Hispanic Other,258326,0,0,>90,0.0,0.0
+2023-10-21,Non-Hispanic White,871602,0,0,76.4,0.0,0.0
+2023-10-28,Hispanic/Latino,355104,0,0,67.9,0.0,0.0
+2023-10-28,Non-Hispanic Asian,165827,0,0,88.0,0.0,0.0
+2023-10-28,Non-Hispanic Black,247103,0,0,66.9,0.0,0.0
+2023-10-28,Non-Hispanic Other,258566,0,0,>90,0.0,0.0
+2023-10-28,Non-Hispanic White,872240,0,0,76.5,0.0,0.0
+2023-11-04,Hispanic/Latino,355342,0,0,67.9,0.0,0.0
+2023-11-04,Non-Hispanic Asian,165973,0,0,88.1,0.0,0.0
+2023-11-04,Non-Hispanic Black,247275,0,0,66.9,0.0,0.0
+2023-11-04,Non-Hispanic Other,258805,0,0,>90,0.0,0.0
+2023-11-04,Non-Hispanic White,872870,0,0,76.5,0.0,0.0
+2023-11-11,Hispanic/Latino,355557,0,0,68.0,0.0,0.0
+2023-11-11,Non-Hispanic Asian,166093,0,0,88.2,0.0,0.0
+2023-11-11,Non-Hispanic Black,247436,0,0,67.0,0.0,0.0
+2023-11-11,Non-Hispanic Other,259007,0,0,>90,0.0,0.0
+2023-11-11,Non-Hispanic White,873398,0,0,76.6,0.0,0.0
+2023-11-18,Hispanic/Latino,355784,0,0,68.0,0.0,0.0
+2023-11-18,Non-Hispanic Asian,166193,0,0,88.2,0.0,0.0
+2023-11-18,Non-Hispanic Black,247598,0,0,67.0,0.0,0.0
+2023-11-18,Non-Hispanic Other,259256,0,0,>90,0.0,0.0
+2023-11-18,Non-Hispanic White,873885,0,0,76.6,0.0,0.0
+2023-11-25,Hispanic/Latino,355926,0,0,68.0,0.0,0.0
+2023-11-25,Non-Hispanic Asian,166259,0,0,88.3,0.0,0.0
+2023-11-25,Non-Hispanic Black,247682,0,0,67.0,0.0,0.0
+2023-11-25,Non-Hispanic Other,259365,0,0,>90,0.0,0.0
+2023-11-25,Non-Hispanic White,874202,0,0,76.6,0.0,0.0
+2023-12-02,Hispanic/Latino,356135,0,0,68.1,0.0,0.0
+2023-12-02,Non-Hispanic Asian,166335,0,0,88.3,0.0,0.0
+2023-12-02,Non-Hispanic Black,247812,0,0,67.1,0.0,0.0
+2023-12-02,Non-Hispanic Other,259539,0,0,>90,0.0,0.0
+2023-12-02,Non-Hispanic White,874583,0,0,76.7,0.0,0.0
+2023-12-09,Hispanic/Latino,356323,0,0,68.1,0.0,0.0
+2023-12-09,Non-Hispanic Asian,166420,0,0,88.3,0.0,0.0
+2023-12-09,Non-Hispanic Black,247984,0,0,67.1,0.0,0.0
+2023-12-09,Non-Hispanic Other,259663,0,0,>90,0.0,0.0
+2023-12-09,Non-Hispanic White,874963,0,0,76.7,0.0,0.0
+2023-12-16,Hispanic/Latino,356533,0,0,68.2,0.0,0.0
+2023-12-16,Non-Hispanic Asian,166480,0,0,88.4,0.0,0.0
+2023-12-16,Non-Hispanic Black,248128,0,0,67.2,0.0,0.0
+2023-12-16,Non-Hispanic Other,259790,0,0,>90,0.0,0.0
+2023-12-16,Non-Hispanic White,875302,0,0,76.7,0.0,0.0
+2023-12-23,Hispanic/Latino,356720,0,0,68.2,0.0,0.0
+2023-12-23,Non-Hispanic Asian,166572,0,0,88.4,0.0,0.0
+2023-12-23,Non-Hispanic Black,248273,0,0,67.2,0.0,0.0
+2023-12-23,Non-Hispanic Other,259902,0,0,>90,0.0,0.0
+2023-12-23,Non-Hispanic White,875675,0,0,76.8,0.0,0.0
+2023-12-30,Hispanic/Latino,356851,0,0,68.2,0.0,0.0
+2023-12-30,Non-Hispanic Asian,166633,0,0,88.5,0.0,0.0
+2023-12-30,Non-Hispanic Black,248356,0,0,67.2,0.0,0.0
+2023-12-30,Non-Hispanic Other,259984,0,0,>90,0.0,0.0
+2023-12-30,Non-Hispanic White,875889,0,0,76.8,0.0,0.0
+2024-01-06,Hispanic/Latino,356979,0,0,68.2,0.0,0.0
+2024-01-06,Non-Hispanic Asian,166709,0,0,88.5,0.0,0.0
+2024-01-06,Non-Hispanic Black,248468,0,0,67.2,0.0,0.0
+2024-01-06,Non-Hispanic Other,260051,0,0,>90,0.0,0.0
+2024-01-06,Non-Hispanic White,876107,0,0,76.8,0.0,0.0
+2024-01-13,Hispanic/Latino,357113,0,0,68.3,0.0,0.0
+2024-01-13,Non-Hispanic Asian,166764,0,0,88.5,0.0,0.0
+2024-01-13,Non-Hispanic Black,248571,0,0,67.3,0.0,0.0
+2024-01-13,Non-Hispanic Other,260130,0,0,>90,0.0,0.0
+2024-01-13,Non-Hispanic White,876296,0,0,76.8,0.0,0.0
+2024-01-20,Hispanic/Latino,357241,0,0,68.3,0.0,0.0
+2024-01-20,Non-Hispanic Asian,166803,0,0,88.5,0.0,0.0
+2024-01-20,Non-Hispanic Black,248655,0,0,67.3,0.0,0.0
+2024-01-20,Non-Hispanic Other,260209,0,0,>90,0.0,0.0
+2024-01-20,Non-Hispanic White,876503,0,0,76.8,0.0,0.0
+2024-01-27,Hispanic/Latino,357381,0,0,68.3,0.0,0.0
+2024-01-27,Non-Hispanic Asian,166837,0,0,88.6,0.0,0.0
+2024-01-27,Non-Hispanic Black,248762,0,0,67.3,0.0,0.0
+2024-01-27,Non-Hispanic Other,260275,0,0,>90,0.0,0.0
+2024-01-27,Non-Hispanic White,876661,0,0,76.8,0.0,0.0
+2024-02-03,Hispanic/Latino,357533,0,0,68.3,0.0,0.0
+2024-02-03,Non-Hispanic Asian,166874,0,0,88.6,0.0,0.0
+2024-02-03,Non-Hispanic Black,248854,0,0,67.4,0.0,0.0
+2024-02-03,Non-Hispanic Other,260335,0,0,>90,0.0,0.0
+2024-02-03,Non-Hispanic White,876839,0,0,76.9,0.0,0.0
+2024-02-10,Hispanic/Latino,357650,0,0,68.4,0.0,0.0
+2024-02-10,Non-Hispanic Asian,166906,0,0,88.6,0.0,0.0
+2024-02-10,Non-Hispanic Black,248926,0,0,67.4,0.0,0.0
+2024-02-10,Non-Hispanic Other,260380,0,0,>90,0.0,0.0
+2024-02-10,Non-Hispanic White,876942,0,0,76.9,0.0,0.0
+2024-02-17,Hispanic/Latino,357737,0,0,68.4,0.0,0.0
+2024-02-17,Non-Hispanic Asian,166928,0,0,88.6,0.0,0.0
+2024-02-17,Non-Hispanic Black,248987,0,0,67.4,0.0,0.0
+2024-02-17,Non-Hispanic Other,260417,0,0,>90,0.0,0.0
+2024-02-17,Non-Hispanic White,877050,0,0,76.9,0.0,0.0
+2024-02-24,Hispanic/Latino,357832,0,0,68.4,0.0,0.0
+2024-02-24,Non-Hispanic Asian,166967,0,0,88.6,0.0,0.0
+2024-02-24,Non-Hispanic Black,249051,0,0,67.4,0.0,0.0
+2024-02-24,Non-Hispanic Other,260434,0,0,>90,0.0,0.0
+2024-02-24,Non-Hispanic White,877141,0,0,76.9,0.0,0.0
+2024-03-02,Hispanic/Latino,357911,0,0,68.4,0.0,0.0
+2024-03-02,Non-Hispanic Asian,167002,0,0,88.7,0.0,0.0
+2024-03-02,Non-Hispanic Black,249105,0,0,67.4,0.0,0.0
+2024-03-02,Non-Hispanic Other,260466,0,0,>90,0.0,0.0
+2024-03-02,Non-Hispanic White,877239,0,0,76.9,0.0,0.0
+2024-03-09,Hispanic/Latino,358002,0,0,68.4,0.0,0.0
+2024-03-09,Non-Hispanic Asian,167021,0,0,88.7,0.0,0.0
+2024-03-09,Non-Hispanic Black,249161,0,0,67.4,0.0,0.0
+2024-03-09,Non-Hispanic Other,260502,0,0,>90,0.0,0.0
+2024-03-09,Non-Hispanic White,877349,0,0,76.9,0.0,0.0
+2024-03-16,Hispanic/Latino,358074,0,0,68.4,0.0,0.0
+2024-03-16,Non-Hispanic Asian,167044,0,0,88.7,0.0,0.0
+2024-03-16,Non-Hispanic Black,249226,0,0,67.5,0.0,0.0
+2024-03-16,Non-Hispanic Other,260524,0,0,>90,0.0,0.0
+2024-03-16,Non-Hispanic White,877423,0,0,76.9,0.0,0.0
+2024-03-23,Hispanic/Latino,358151,0,0,68.5,0.0,0.0
+2024-03-23,Non-Hispanic Asian,167063,0,0,88.7,0.0,0.0
+2024-03-23,Non-Hispanic Black,249286,0,0,67.5,0.0,0.0
+2024-03-23,Non-Hispanic Other,260563,0,0,>90,0.0,0.0
+2024-03-23,Non-Hispanic White,877512,0,0,76.9,0.0,0.0
+2024-03-30,Hispanic/Latino,358228,0,0,68.5,0.0,0.0
+2024-03-30,Non-Hispanic Asian,167079,0,0,88.7,0.0,0.0
+2024-03-30,Non-Hispanic Black,249335,0,0,67.5,0.0,0.0
+2024-03-30,Non-Hispanic Other,260590,0,0,>90,0.0,0.0
+2024-03-30,Non-Hispanic White,877581,0,0,76.9,0.0,0.0
+2024-04-06,Hispanic/Latino,358318,0,0,68.5,0.0,0.0
+2024-04-06,Non-Hispanic Asian,167096,0,0,88.7,0.0,0.0
+2024-04-06,Non-Hispanic Black,249378,0,0,67.5,0.0,0.0
+2024-04-06,Non-Hispanic Other,260622,0,0,>90,0.0,0.0
+2024-04-06,Non-Hispanic White,877658,0,0,76.9,0.0,0.0
+2024-04-13,Hispanic/Latino,358368,0,0,68.5,0.0,0.0
+2024-04-13,Non-Hispanic Asian,167114,0,0,88.7,0.0,0.0
+2024-04-13,Non-Hispanic Black,249419,0,0,67.5,0.0,0.0
+2024-04-13,Non-Hispanic Other,260655,0,0,>90,0.0,0.0
+2024-04-13,Non-Hispanic White,877719,0,0,76.9,0.0,0.0
+2024-04-20,Hispanic/Latino,358431,0,0,68.5,0.0,0.0
+2024-04-20,Non-Hispanic Asian,167139,0,0,88.7,0.0,0.0
+2024-04-20,Non-Hispanic Black,249466,0,0,67.5,0.0,0.0
+2024-04-20,Non-Hispanic Other,260693,0,0,>90,0.0,0.0
+2024-04-20,Non-Hispanic White,877805,0,0,76.9,0.0,0.0
+2024-04-27,Hispanic/Latino,358503,0,0,68.5,0.0,0.0
+2024-04-27,Non-Hispanic Asian,167158,0,0,88.7,0.0,0.0
+2024-04-27,Non-Hispanic Black,249503,0,0,67.5,0.0,0.0
+2024-04-27,Non-Hispanic Other,260733,0,0,>90,0.0,0.0
+2024-04-27,Non-Hispanic White,877867,0,0,76.9,0.0,0.0
+2024-05-04,Hispanic/Latino,358557,0,0,68.5,0.0,0.0
+2024-05-04,Non-Hispanic Asian,167169,0,0,88.7,0.0,0.0
+2024-05-04,Non-Hispanic Black,249541,0,0,67.5,0.0,0.0
+2024-05-04,Non-Hispanic Other,260760,0,0,>90,0.0,0.0
+2024-05-04,Non-Hispanic White,877953,0,0,77.0,0.0,0.0
+2024-05-11,Hispanic/Latino,358615,0,0,68.5,0.0,0.0
+2024-05-11,Non-Hispanic Asian,167187,0,0,88.8,0.0,0.0
+2024-05-11,Non-Hispanic Black,249566,0,0,67.5,0.0,0.0
+2024-05-11,Non-Hispanic Other,260779,0,0,>90,0.0,0.0
+2024-05-11,Non-Hispanic White,878010,0,0,77.0,0.0,0.0
+2024-05-18,Hispanic/Latino,358655,0,0,68.6,0.0,0.0
+2024-05-18,Non-Hispanic Asian,167195,0,0,88.8,0.0,0.0
+2024-05-18,Non-Hispanic Black,249595,0,0,67.6,0.0,0.0
+2024-05-18,Non-Hispanic Other,260798,0,0,>90,0.0,0.0
+2024-05-18,Non-Hispanic White,878087,0,0,77.0,0.0,0.0
+2024-05-25,Hispanic/Latino,358692,0,0,68.6,0.0,0.0
+2024-05-25,Non-Hispanic Asian,167210,0,0,88.8,0.0,0.0
+2024-05-25,Non-Hispanic Black,249625,0,0,67.6,0.0,0.0
+2024-05-25,Non-Hispanic Other,260830,0,0,>90,0.0,0.0
+2024-05-25,Non-Hispanic White,878145,0,0,77.0,0.0,0.0
+2024-06-01,Hispanic/Latino,358719,0,0,68.6,0.0,0.0
+2024-06-01,Non-Hispanic Asian,167228,0,0,88.8,0.0,0.0
+2024-06-01,Non-Hispanic Black,249647,0,0,67.6,0.0,0.0
+2024-06-01,Non-Hispanic Other,260844,0,0,>90,0.0,0.0
+2024-06-01,Non-Hispanic White,878176,0,0,77.0,0.0,0.0
+2024-06-08,Hispanic/Latino,358760,0,0,68.6,0.0,0.0
+2024-06-08,Non-Hispanic Asian,167233,0,0,88.8,0.0,0.0
+2024-06-08,Non-Hispanic Black,249691,0,0,67.6,0.0,0.0
+2024-06-08,Non-Hispanic Other,260866,0,0,>90,0.0,0.0
+2024-06-08,Non-Hispanic White,878227,0,0,77.0,0.0,0.0
+2024-06-15,Hispanic/Latino,358800,0,0,68.6,0.0,0.0
+2024-06-15,Non-Hispanic Asian,167247,0,0,88.8,0.0,0.0
+2024-06-15,Non-Hispanic Black,249730,0,0,67.6,0.0,0.0
+2024-06-15,Non-Hispanic Other,260884,0,0,>90,0.0,0.0
+2024-06-15,Non-Hispanic White,878296,0,0,77.0,0.0,0.0
+2024-06-22,Hispanic/Latino,358827,0,0,68.6,0.0,0.0
+2024-06-22,Non-Hispanic Asian,167258,0,0,88.8,0.0,0.0
+2024-06-22,Non-Hispanic Black,249762,0,0,67.6,0.0,0.0
+2024-06-22,Non-Hispanic Other,260895,0,0,>90,0.0,0.0
+2024-06-22,Non-Hispanic White,878347,0,0,77.0,0.0,0.0
+2024-06-29,Hispanic/Latino,358865,0,0,68.6,0.0,0.0
+2024-06-29,Non-Hispanic Asian,167275,0,0,88.8,0.0,0.0
+2024-06-29,Non-Hispanic Black,249779,0,0,67.6,0.0,0.0
+2024-06-29,Non-Hispanic Other,260909,0,0,>90,0.0,0.0
+2024-06-29,Non-Hispanic White,878383,0,0,77.0,0.0,0.0
+2024-07-06,Hispanic/Latino,358900,0,0,68.6,0.0,0.0
+2024-07-06,Non-Hispanic Asian,167284,0,0,88.8,0.0,0.0
+2024-07-06,Non-Hispanic Black,249801,0,0,67.6,0.0,0.0
+2024-07-06,Non-Hispanic Other,260926,0,0,>90,0.0,0.0
+2024-07-06,Non-Hispanic White,878413,0,0,77.0,0.0,0.0
+2024-07-13,Hispanic/Latino,358927,0,0,68.6,0.0,0.0
+2024-07-13,Non-Hispanic Asian,167289,0,0,88.8,0.0,0.0
+2024-07-13,Non-Hispanic Black,249823,0,0,67.6,0.0,0.0
+2024-07-13,Non-Hispanic Other,260944,0,0,>90,0.0,0.0
+2024-07-13,Non-Hispanic White,878452,0,0,77.0,0.0,0.0
+2024-07-20,Hispanic/Latino,358949,0,0,68.6,0.0,0.0
+2024-07-20,Non-Hispanic Asian,167300,0,0,88.8,0.0,0.0
+2024-07-20,Non-Hispanic Black,249843,0,0,67.6,0.0,0.0
+2024-07-20,Non-Hispanic Other,260953,0,0,>90,0.0,0.0
+2024-07-20,Non-Hispanic White,878479,0,0,77.0,0.0,0.0
+2024-07-27,Hispanic/Latino,358972,0,0,68.6,0.0,0.0
+2024-07-27,Non-Hispanic Asian,167305,0,0,88.8,0.0,0.0
+2024-07-27,Non-Hispanic Black,249860,0,0,67.6,0.0,0.0
+2024-07-27,Non-Hispanic Other,260972,0,0,>90,0.0,0.0
+2024-07-27,Non-Hispanic White,878501,0,0,77.0,0.0,0.0
+2024-08-03,Hispanic/Latino,358989,0,0,68.6,0.0,0.0
+2024-08-03,Non-Hispanic Asian,167312,0,0,88.8,0.0,0.0
+2024-08-03,Non-Hispanic Black,249867,0,0,67.6,0.0,0.0
+2024-08-03,Non-Hispanic Other,260991,0,0,>90,0.0,0.0
+2024-08-03,Non-Hispanic White,878518,0,0,77.0,0.0,0.0
+2024-08-10,Hispanic/Latino,359008,0,0,68.6,0.0,0.0
+2024-08-10,Non-Hispanic Asian,167321,0,0,88.8,0.0,0.0
+2024-08-10,Non-Hispanic Black,249883,0,0,67.6,0.0,0.0
+2024-08-10,Non-Hispanic Other,261013,0,0,>90,0.0,0.0
+2024-08-10,Non-Hispanic White,878536,0,0,77.0,0.0,0.0
+2024-08-17,Hispanic/Latino,359030,0,0,68.6,0.0,0.0
+2024-08-17,Non-Hispanic Asian,167328,0,0,88.8,0.0,0.0
+2024-08-17,Non-Hispanic Black,249901,0,0,67.6,0.0,0.0
+2024-08-17,Non-Hispanic Other,261028,0,0,>90,0.0,0.0
+2024-08-17,Non-Hispanic White,878558,0,0,77.0,0.0,0.0
+2024-08-24,Hispanic/Latino,359048,0,0,68.6,0.0,0.0
+2024-08-24,Non-Hispanic Asian,167329,0,0,88.8,0.0,0.0
+2024-08-24,Non-Hispanic Black,249908,0,0,67.6,0.0,0.0
+2024-08-24,Non-Hispanic Other,261058,0,0,>90,0.0,0.0
+2024-08-24,Non-Hispanic White,878584,0,0,77.0,0.0,0.0
+2024-08-31,Hispanic/Latino,359080,0,0,68.6,0.0,0.0
+2024-08-31,Non-Hispanic Asian,167344,0,0,88.8,0.0,0.0
+2024-08-31,Non-Hispanic Black,249937,0,0,67.6,0.0,0.0
+2024-08-31,Non-Hispanic Other,261143,0,0,>90,0.0,0.0
+2024-08-31,Non-Hispanic White,878701,0,0,77.0,0.0,0.0
+2024-09-07,Hispanic/Latino,359138,0,0,68.6,0.0,0.0
+2024-09-07,Non-Hispanic Asian,167382,0,0,88.9,0.0,0.0
+2024-09-07,Non-Hispanic Black,249993,0,0,67.7,0.0,0.0
+2024-09-07,Non-Hispanic Other,261426,0,0,>90,0.0,0.0
+2024-09-07,Non-Hispanic White,878933,0,0,77.0,0.0,0.0
+2024-09-14,Hispanic/Latino,359239,0,0,68.7,0.0,0.0
+2024-09-14,Non-Hispanic Asian,167435,0,0,88.9,0.0,0.0
+2024-09-14,Non-Hispanic Black,250059,0,0,67.7,0.0,0.0
+2024-09-14,Non-Hispanic Other,261768,0,0,>90,0.0,0.0
+2024-09-14,Non-Hispanic White,879180,0,0,77.1,0.0,0.0
+2024-09-21,Hispanic/Latino,359359,0,0,68.7,0.0,0.0
+2024-09-21,Non-Hispanic Asian,167521,0,0,88.9,0.0,0.0
+2024-09-21,Non-Hispanic Black,250142,0,0,67.7,0.0,0.0
+2024-09-21,Non-Hispanic Other,262158,0,0,>90,0.0,0.0
+2024-09-21,Non-Hispanic White,879522,0,0,77.1,0.0,0.0
+2024-09-28,Hispanic/Latino,359537,0,0,68.7,0.0,0.0
+2024-09-28,Non-Hispanic Asian,167597,0,0,89.0,0.0,0.0
+2024-09-28,Non-Hispanic Black,250277,0,0,67.7,0.0,0.0
+2024-09-28,Non-Hispanic Other,262627,0,0,>90,0.0,0.0
+2024-09-28,Non-Hispanic White,879965,0,0,77.1,0.0,0.0
+2024-10-05,Hispanic/Latino,359770,0,0,68.8,0.0,0.0
+2024-10-05,Non-Hispanic Asian,167713,0,0,89.0,0.0,0.0
+2024-10-05,Non-Hispanic Black,250442,0,0,67.8,0.0,0.0
+2024-10-05,Non-Hispanic Other,263113,0,0,>90,0.0,0.0
+2024-10-05,Non-Hispanic White,880561,0,0,77.2,0.0,0.0
+2024-10-12,Hispanic/Latino,359997,0,0,68.8,0.0,0.0
+2024-10-12,Non-Hispanic Asian,167841,0,0,89.1,0.0,0.0
+2024-10-12,Non-Hispanic Black,250627,0,0,67.8,0.0,0.0
+2024-10-12,Non-Hispanic Other,263559,0,0,>90,0.0,0.0
+2024-10-12,Non-Hispanic White,881165,0,0,77.2,0.0,0.0
+2024-10-19,Hispanic/Latino,360200,0,0,68.9,0.0,0.0
+2024-10-19,Non-Hispanic Asian,167945,0,0,89.2,0.0,0.0
+2024-10-19,Non-Hispanic Black,250795,0,0,67.9,0.0,0.0
+2024-10-19,Non-Hispanic Other,264001,0,0,>90,0.0,0.0
+2024-10-19,Non-Hispanic White,881724,0,0,77.3,0.0,0.0
+2024-10-26,Hispanic/Latino,360399,0,0,68.9,0.0,0.0
+2024-10-26,Non-Hispanic Asian,168047,0,0,89.2,0.0,0.0
+2024-10-26,Non-Hispanic Black,250926,0,0,67.9,0.0,0.0
+2024-10-26,Non-Hispanic Other,264257,0,0,>90,0.0,0.0
+2024-10-26,Non-Hispanic White,882199,0,0,77.3,0.0,0.0
+2024-11-02,Hispanic/Latino,360617,0,0,68.9,0.0,0.0
+2024-11-02,Non-Hispanic Asian,168132,0,0,89.3,0.0,0.0
+2024-11-02,Non-Hispanic Black,251060,0,0,67.9,0.0,0.0
+2024-11-02,Non-Hispanic Other,264383,0,0,>90,0.0,0.0
+2024-11-02,Non-Hispanic White,882588,0,0,77.4,0.0,0.0
+2024-11-09,Hispanic/Latino,360809,0,0,69.0,0.0,0.0
+2024-11-09,Non-Hispanic Asian,168228,0,0,89.3,0.0,0.0
+2024-11-09,Non-Hispanic Black,251207,0,0,68.0,0.0,0.0
+2024-11-09,Non-Hispanic Other,264520,0,0,>90,0.0,0.0
+2024-11-09,Non-Hispanic White,883005,0,0,77.4,0.0,0.0
+2024-11-16,Hispanic/Latino,360998,0,0,69.0,0.0,0.0
+2024-11-16,Non-Hispanic Asian,168283,0,0,89.3,0.0,0.0
+2024-11-16,Non-Hispanic Black,251332,0,0,68.0,0.0,0.0
+2024-11-16,Non-Hispanic Other,264649,0,0,>90,0.0,0.0
+2024-11-16,Non-Hispanic White,883347,0,0,77.4,0.0,0.0
+2024-11-23,Hispanic/Latino,361191,0,0,69.0,0.0,0.0
+2024-11-23,Non-Hispanic Asian,168368,0,0,89.4,0.0,0.0
+2024-11-23,Non-Hispanic Black,251471,0,0,68.1,0.0,0.0
+2024-11-23,Non-Hispanic Other,264753,0,0,>90,0.0,0.0
+2024-11-23,Non-Hispanic White,883646,0,0,77.5,0.0,0.0
+2024-11-30,Hispanic/Latino,361322,0,0,69.1,0.0,0.0
+2024-11-30,Non-Hispanic Asian,168422,0,0,89.4,0.0,0.0
+2024-11-30,Non-Hispanic Black,251559,0,0,68.1,0.0,0.0
+2024-11-30,Non-Hispanic Other,264832,0,0,>90,0.0,0.0
+2024-11-30,Non-Hispanic White,883885,0,0,77.5,0.0,0.0
+2024-12-07,Hispanic/Latino,361513,0,0,69.1,0.0,0.0
+2024-12-07,Non-Hispanic Asian,168465,0,0,89.4,0.0,0.0
+2024-12-07,Non-Hispanic Black,251663,0,0,68.1,0.0,0.0
+2024-12-07,Non-Hispanic Other,264913,0,0,>90,0.0,0.0
+2024-12-07,Non-Hispanic White,884121,0,0,77.5,0.0,0.0
+2024-12-14,Hispanic/Latino,361667,0,0,69.1,0.0,0.0
+2024-12-14,Non-Hispanic Asian,168503,0,0,89.4,0.0,0.0
+2024-12-14,Non-Hispanic Black,251761,0,0,68.1,0.0,0.0
+2024-12-14,Non-Hispanic Other,265026,0,0,>90,0.0,0.0
+2024-12-14,Non-Hispanic White,884352,0,0,77.5,0.0,0.0
+2024-12-21,Hispanic/Latino,361817,0,0,69.2,0.0,0.0
+2024-12-21,Non-Hispanic Asian,168547,0,0,89.5,0.0,0.0
+2024-12-21,Non-Hispanic Black,251864,0,0,68.2,0.0,0.0
+2024-12-21,Non-Hispanic Other,265119,0,0,>90,0.0,0.0
+2024-12-21,Non-Hispanic White,884563,0,0,77.5,0.0,0.0
+2024-12-28,Hispanic/Latino,361914,0,0,69.2,0.0,0.0
+2024-12-28,Non-Hispanic Asian,168569,0,0,89.5,0.0,0.0
+2024-12-28,Non-Hispanic Black,251921,0,0,68.2,0.0,0.0
+2024-12-28,Non-Hispanic Other,265152,0,0,>90,0.0,0.0
+2024-12-28,Non-Hispanic White,884673,0,0,77.5,0.0,0.0
+2025-01-04,Hispanic/Latino,362021,0,0,69.2,0.0,0.0
+2025-01-04,Non-Hispanic Asian,168598,0,0,89.5,0.0,0.0
+2025-01-04,Non-Hispanic Black,251965,0,0,68.2,0.0,0.0
+2025-01-04,Non-Hispanic Other,265184,0,0,>90,0.0,0.0
+2025-01-04,Non-Hispanic White,884787,0,0,77.6,0.0,0.0
+2025-01-11,Hispanic/Latino,362165,0,0,69.2,0.0,0.0
+2025-01-11,Non-Hispanic Asian,168632,0,0,89.5,0.0,0.0
+2025-01-11,Non-Hispanic Black,252047,0,0,68.2,0.0,0.0
+2025-01-11,Non-Hispanic Other,265244,0,0,>90,0.0,0.0
+2025-01-11,Non-Hispanic White,884952,0,0,77.6,0.0,0.0
+2025-01-18,Hispanic/Latino,362302,0,0,69.3,0.0,0.0
+2025-01-18,Non-Hispanic Asian,168661,0,0,89.5,0.0,0.0
+2025-01-18,Non-Hispanic Black,252137,0,0,68.2,0.0,0.0
+2025-01-18,Non-Hispanic Other,265295,0,0,>90,0.0,0.0
+2025-01-18,Non-Hispanic White,885088,0,0,77.6,0.0,0.0
+2025-01-25,Hispanic/Latino,362410,0,0,69.3,0.0,0.0
+2025-01-25,Non-Hispanic Asian,168683,0,0,89.5,0.0,0.0
+2025-01-25,Non-Hispanic Black,252190,0,0,68.3,0.0,0.0
+2025-01-25,Non-Hispanic Other,265339,0,0,>90,0.0,0.0
+2025-01-25,Non-Hispanic White,885185,0,0,77.6,0.0,0.0
+2025-02-01,Hispanic/Latino,362508,0,0,69.3,0.0,0.0
+2025-02-01,Non-Hispanic Asian,168711,0,0,89.6,0.0,0.0
+2025-02-01,Non-Hispanic Black,252244,0,0,68.3,0.0,0.0
+2025-02-01,Non-Hispanic Other,265367,0,0,>90,0.0,0.0
+2025-02-01,Non-Hispanic White,885307,0,0,77.6,0.0,0.0
+2025-02-08,Hispanic/Latino,362581,0,0,69.3,0.0,0.0
+2025-02-08,Non-Hispanic Asian,168739,0,0,89.6,0.0,0.0
+2025-02-08,Non-Hispanic Black,252301,0,0,68.3,0.0,0.0
+2025-02-08,Non-Hispanic Other,265393,0,0,>90,0.0,0.0
+2025-02-08,Non-Hispanic White,885389,0,0,77.6,0.0,0.0
+2025-02-15,Hispanic/Latino,362653,0,0,69.3,0.0,0.0
+2025-02-15,Non-Hispanic Asian,168756,0,0,89.6,0.0,0.0
+2025-02-15,Non-Hispanic Black,252339,0,0,68.3,0.0,0.0
+2025-02-15,Non-Hispanic Other,265424,0,0,>90,0.0,0.0
+2025-02-15,Non-Hispanic White,885472,0,0,77.6,0.0,0.0
+2025-02-22,Hispanic/Latino,362714,0,0,69.3,0.0,0.0
+2025-02-22,Non-Hispanic Asian,168771,0,0,89.6,0.0,0.0
+2025-02-22,Non-Hispanic Black,252377,0,0,68.3,0.0,0.0
+2025-02-22,Non-Hispanic Other,265458,0,0,>90,0.0,0.0
+2025-02-22,Non-Hispanic White,885536,0,0,77.6,0.0,0.0
+2025-03-01,Hispanic/Latino,362775,0,0,69.3,0.0,0.0
+2025-03-01,Non-Hispanic Asian,168786,0,0,89.6,0.0,0.0
+2025-03-01,Non-Hispanic Black,252419,0,0,68.3,0.0,0.0
+2025-03-01,Non-Hispanic Other,265480,0,0,>90,0.0,0.0
+2025-03-01,Non-Hispanic White,885593,0,0,77.6,0.0,0.0
+2025-03-08,Hispanic/Latino,362848,0,0,69.4,0.0,0.0
+2025-03-08,Non-Hispanic Asian,168796,0,0,89.6,0.0,0.0
+2025-03-08,Non-Hispanic Black,252459,0,0,68.3,0.0,0.0
+2025-03-08,Non-Hispanic Other,265503,0,0,>90,0.0,0.0
+2025-03-08,Non-Hispanic White,885647,0,0,77.6,0.0,0.0
+2025-03-15,Hispanic/Latino,362893,0,0,69.4,0.0,0.0
+2025-03-15,Non-Hispanic Asian,168804,0,0,89.6,0.0,0.0
+2025-03-15,Non-Hispanic Black,252490,0,0,68.3,0.0,0.0
+2025-03-15,Non-Hispanic Other,265529,0,0,>90,0.0,0.0
+2025-03-15,Non-Hispanic White,885708,0,0,77.6,0.0,0.0
+2025-03-22,Hispanic/Latino,362958,0,0,69.4,0.0,0.0
+2025-03-22,Non-Hispanic Asian,168817,0,0,89.6,0.0,0.0
+2025-03-22,Non-Hispanic Black,252514,0,0,68.3,0.0,0.0
+2025-03-22,Non-Hispanic Other,265545,0,0,>90,0.0,0.0
+2025-03-22,Non-Hispanic White,885764,0,0,77.6,0.0,0.0
+2025-03-29,Hispanic/Latino,363028,0,0,69.4,0.0,0.0
+2025-03-29,Non-Hispanic Asian,168825,0,0,89.6,0.0,0.0
+2025-03-29,Non-Hispanic Black,252537,0,0,68.3,0.0,0.0
+2025-03-29,Non-Hispanic Other,265561,0,0,>90,0.0,0.0
+2025-03-29,Non-Hispanic White,885832,0,0,77.6,0.0,0.0
+2025-04-05,Hispanic/Latino,363075,0,0,69.4,0.0,0.0
+2025-04-05,Non-Hispanic Asian,168835,0,0,89.6,0.0,0.0
+2025-04-05,Non-Hispanic Black,252565,0,0,68.4,0.0,0.0
+2025-04-05,Non-Hispanic Other,265581,0,0,>90,0.0,0.0
+2025-04-05,Non-Hispanic White,885872,0,0,77.6,0.0,0.0
+2025-04-12,Hispanic/Latino,363099,0,0,69.4,0.0,0.0
+2025-04-12,Non-Hispanic Asian,168842,0,0,89.6,0.0,0.0
+2025-04-12,Non-Hispanic Black,252588,0,0,68.4,0.0,0.0
+2025-04-12,Non-Hispanic Other,265607,0,0,>90,0.0,0.0
+2025-04-12,Non-Hispanic White,885922,0,0,77.7,0.0,0.0
+2025-04-19,Hispanic/Latino,363140,0,0,69.4,0.0,0.0
+2025-04-19,Non-Hispanic Asian,168852,0,0,89.6,0.0,0.0
+2025-04-19,Non-Hispanic Black,252607,0,0,68.4,0.0,0.0
+2025-04-19,Non-Hispanic Other,265633,0,0,>90,0.0,0.0
+2025-04-19,Non-Hispanic White,885952,0,0,77.7,0.0,0.0
+2025-04-26,Hispanic/Latino,363171,0,0,69.4,0.0,0.0
+2025-04-26,Non-Hispanic Asian,168866,0,0,89.6,0.0,0.0
+2025-04-26,Non-Hispanic Black,252634,0,0,68.4,0.0,0.0
+2025-04-26,Non-Hispanic Other,265660,0,0,>90,0.0,0.0
+2025-04-26,Non-Hispanic White,885993,0,0,77.7,0.0,0.0
+2025-05-03,Hispanic/Latino,363195,0,0,69.4,0.0,0.0
+2025-05-03,Non-Hispanic Asian,168870,0,0,89.6,0.0,0.0
+2025-05-03,Non-Hispanic Black,252652,0,0,68.4,0.0,0.0
+2025-05-03,Non-Hispanic Other,265690,0,0,>90,0.0,0.0
+2025-05-03,Non-Hispanic White,886035,0,0,77.7,0.0,0.0
+2025-05-10,Hispanic/Latino,363214,0,0,69.4,0.0,0.0
+2025-05-10,Non-Hispanic Asian,168876,0,0,89.6,0.0,0.0
+2025-05-10,Non-Hispanic Black,252677,0,0,68.4,0.0,0.0
+2025-05-10,Non-Hispanic Other,265700,0,0,>90,0.0,0.0
+2025-05-10,Non-Hispanic White,886073,0,0,77.7,0.0,0.0
+2025-05-17,Hispanic/Latino,363227,0,0,69.4,0.0,0.0
+2025-05-17,Non-Hispanic Asian,168885,0,0,89.7,0.0,0.0
+2025-05-17,Non-Hispanic Black,252693,0,0,68.4,0.0,0.0
+2025-05-17,Non-Hispanic Other,265712,0,0,>90,0.0,0.0
+2025-05-17,Non-Hispanic White,886098,0,0,77.7,0.0,0.0
+2025-05-24,Hispanic/Latino,363242,0,0,69.4,0.0,0.0
+2025-05-24,Non-Hispanic Asian,168888,0,0,89.7,0.0,0.0
+2025-05-24,Non-Hispanic Black,252705,0,0,68.4,0.0,0.0
+2025-05-24,Non-Hispanic Other,265724,0,0,>90,0.0,0.0
+2025-05-24,Non-Hispanic White,886128,0,0,77.7,0.0,0.0
+2025-05-31,Hispanic/Latino,363254,0,0,69.4,0.0,0.0
+2025-05-31,Non-Hispanic Asian,168896,0,0,89.7,0.0,0.0
+2025-05-31,Non-Hispanic Black,252717,0,0,68.4,0.0,0.0
+2025-05-31,Non-Hispanic Other,265737,0,0,>90,0.0,0.0
+2025-05-31,Non-Hispanic White,886157,0,0,77.7,0.0,0.0
+2025-06-07,Hispanic/Latino,363268,0,0,69.4,0.0,0.0
+2025-06-07,Non-Hispanic Asian,168900,0,0,89.7,0.0,0.0
+2025-06-07,Non-Hispanic Black,252730,0,0,68.4,0.0,0.0
+2025-06-07,Non-Hispanic Other,265746,0,0,>90,0.0,0.0
+2025-06-07,Non-Hispanic White,886181,0,0,77.7,0.0,0.0
+2025-06-14,Hispanic/Latino,363279,0,0,69.4,0.0,0.0
+2025-06-14,Non-Hispanic Asian,168908,0,0,89.7,0.0,0.0
+2025-06-14,Non-Hispanic Black,252742,0,0,68.4,0.0,0.0
+2025-06-14,Non-Hispanic Other,265753,0,0,>90,0.0,0.0
+2025-06-14,Non-Hispanic White,886216,0,0,77.7,0.0,0.0
+2025-06-21,Hispanic/Latino,363287,0,0,69.4,0.0,0.0
+2025-06-21,Non-Hispanic Asian,168913,0,0,89.7,0.0,0.0
+2025-06-21,Non-Hispanic Black,252755,0,0,68.4,0.0,0.0
+2025-06-21,Non-Hispanic Other,265763,0,0,>90,0.0,0.0
+2025-06-21,Non-Hispanic White,886248,0,0,77.7,0.0,0.0
+2025-06-28,Hispanic/Latino,363296,0,0,69.4,0.0,0.0
+2025-06-28,Non-Hispanic Asian,168920,0,0,89.7,0.0,0.0
+2025-06-28,Non-Hispanic Black,252767,0,0,68.4,0.0,0.0
+2025-06-28,Non-Hispanic Other,265777,0,0,>90,0.0,0.0
+2025-06-28,Non-Hispanic White,886266,0,0,77.7,0.0,0.0
+2025-07-05,Hispanic/Latino,363304,0,0,69.4,0.0,0.0
+2025-07-05,Non-Hispanic Asian,168923,0,0,89.7,0.0,0.0
+2025-07-05,Non-Hispanic Black,252779,0,0,68.4,0.0,0.0
+2025-07-05,Non-Hispanic Other,265786,0,0,>90,0.0,0.0
+2025-07-05,Non-Hispanic White,886284,0,0,77.7,0.0,0.0
+2025-07-12,Hispanic/Latino,363316,0,0,69.4,0.0,0.0
+2025-07-12,Non-Hispanic Asian,168925,0,0,89.7,0.0,0.0
+2025-07-12,Non-Hispanic Black,252794,0,0,68.4,0.0,0.0
+2025-07-12,Non-Hispanic Other,265802,0,0,>90,0.0,0.0
+2025-07-12,Non-Hispanic White,886305,0,0,77.7,0.0,0.0
+2025-07-19,Hispanic/Latino,363330,0,0,69.4,0.0,0.0
+2025-07-19,Non-Hispanic Asian,168926,0,0,89.7,0.0,0.0
+2025-07-19,Non-Hispanic Black,252809,0,0,68.4,0.0,0.0
+2025-07-19,Non-Hispanic Other,265807,0,0,>90,0.0,0.0
+2025-07-19,Non-Hispanic White,886321,0,0,77.7,0.0,0.0
+2025-07-26,Hispanic/Latino,363345,0,0,69.5,0.0,0.0
+2025-07-26,Non-Hispanic Asian,168930,0,0,89.7,0.0,0.0
+2025-07-26,Non-Hispanic Black,252828,0,0,68.4,0.0,0.0
+2025-07-26,Non-Hispanic Other,265814,0,0,>90,0.0,0.0
+2025-07-26,Non-Hispanic White,886343,0,0,77.7,0.0,0.0
+2025-08-02,Hispanic/Latino,363371,0,0,69.5,0.0,0.0
+2025-08-02,Non-Hispanic Asian,168936,0,0,89.7,0.0,0.0
+2025-08-02,Non-Hispanic Black,252843,0,0,68.4,0.0,0.0
+2025-08-02,Non-Hispanic Other,265819,0,0,>90,0.0,0.0
+2025-08-02,Non-Hispanic White,886367,0,0,77.7,0.0,0.0
+2025-08-09,Hispanic/Latino,363383,0,0,69.5,0.0,0.0
+2025-08-09,Non-Hispanic Asian,168939,0,0,89.7,0.0,0.0
+2025-08-09,Non-Hispanic Black,252860,0,0,68.4,0.0,0.0
+2025-08-09,Non-Hispanic Other,265826,0,0,>90,0.0,0.0
+2025-08-09,Non-Hispanic White,886382,0,0,77.7,0.0,0.0
+2025-08-16,Hispanic/Latino,363405,0,0,69.5,0.0,0.0
+2025-08-16,Non-Hispanic Asian,168944,0,0,89.7,0.0,0.0
+2025-08-16,Non-Hispanic Black,252875,0,0,68.4,0.0,0.0
+2025-08-16,Non-Hispanic Other,265860,0,0,>90,0.0,0.0
+2025-08-16,Non-Hispanic White,886429,0,0,77.7,0.0,0.0
+2025-08-23,Hispanic/Latino,363420,0,0,69.5,0.0,0.0
+2025-08-23,Non-Hispanic Asian,168947,0,0,89.7,0.0,0.0
+2025-08-23,Non-Hispanic Black,252886,0,0,68.4,0.0,0.0
+2025-08-23,Non-Hispanic Other,265869,0,0,>90,0.0,0.0
+2025-08-23,Non-Hispanic White,886457,0,0,77.7,0.0,0.0
+2025-08-30,Hispanic/Latino,363428,5,0,69.5,0.0,0.0
+2025-08-30,Non-Hispanic Asian,168951,0,0,89.7,0.0,0.0
+2025-08-30,Non-Hispanic Black,252898,10,0,68.4,0.0,0.0
+2025-08-30,Non-Hispanic Other,265878,22,0,>90,0.0,0.0
+2025-08-30,Non-Hispanic White,886468,18,0,77.7,0.0,0.0
+2025-09-06,Hispanic/Latino,363468,426,0,69.5,0.1,0.0
+2025-09-06,Non-Hispanic Asian,168974,253,0,89.7,0.1,0.0
+2025-09-06,Non-Hispanic Black,252939,483,0,68.5,0.1,0.0
+2025-09-06,Non-Hispanic Other,265929,2901,0,>90,4.4,0.0
+2025-09-06,Non-Hispanic White,886685,3299,0,77.7,0.3,0.0
+2025-09-13,Hispanic/Latino,363533,1276,0,69.5,0.2,0.0
+2025-09-13,Non-Hispanic Asian,169024,784,0,89.7,0.4,0.0
+2025-09-13,Non-Hispanic Black,252990,1282,0,68.5,0.3,0.0
+2025-09-13,Non-Hispanic Other,266002,8266,0,>90,12.7,0.0
+2025-09-13,Non-Hispanic White,887060,9840,0,77.8,0.9,0.0
+2025-09-20,Hispanic/Latino,363629,2176,0,69.5,0.4,0.0
+2025-09-20,Non-Hispanic Asian,169116,1468,0,89.8,0.8,0.0
+2025-09-20,Non-Hispanic Black,253079,2194,0,68.5,0.6,0.0
+2025-09-20,Non-Hispanic Other,266124,13952,0,>90,21.4,0.0
+2025-09-20,Non-Hispanic White,887480,16844,0,77.8,1.5,0.0
+2025-09-27,Hispanic/Latino,363752,3301,0,69.5,0.6,0.0
+2025-09-27,Non-Hispanic Asian,169205,2275,0,89.8,1.2,0.0
+2025-09-27,Non-Hispanic Black,253171,3374,0,68.5,0.9,0.0
+2025-09-27,Non-Hispanic Other,266283,20367,0,>90,31.2,0.0
+2025-09-27,Non-Hispanic White,887960,24937,0,77.8,2.2,0.0
+2025-10-04,Hispanic/Latino,363895,4578,0,69.6,0.9,0.0
+2025-10-04,Non-Hispanic Asian,169293,3206,0,89.9,1.7,0.0
+2025-10-04,Non-Hispanic Black,253296,4730,0,68.6,1.3,0.0
+2025-10-04,Non-Hispanic Other,266424,26951,0,>90,41.3,0.0
+2025-10-04,Non-Hispanic White,888528,33775,0,77.9,3.0,0.0
+2025-10-11,Hispanic/Latino,364061,5989,0,69.6,1.1,0.0
+2025-10-11,Non-Hispanic Asian,169420,4253,0,89.9,2.3,0.0
+2025-10-11,Non-Hispanic Black,253436,6124,0,68.6,1.7,0.0
+2025-10-11,Non-Hispanic Other,266616,33487,0,>90,51.4,0.0
+2025-10-11,Non-Hispanic White,889189,43462,0,77.9,3.8,0.0
+2025-10-18,Hispanic/Latino,364224,7422,0,69.6,1.4,0.0
+2025-10-18,Non-Hispanic Asian,169558,5313,0,90.0,2.8,0.0
+2025-10-18,Non-Hispanic Black,253603,7572,0,68.6,2.0,0.0
+2025-10-18,Non-Hispanic Other,266771,39836,0,>90,61.1,0.0
+2025-10-18,Non-Hispanic White,889850,53212,0,78.0,4.7,0.0
+2025-10-25,Hispanic/Latino,364414,8771,0,69.7,1.7,0.0
+2025-10-25,Non-Hispanic Asian,169685,6259,0,>90,3.3,0.0
+2025-10-25,Non-Hispanic Black,253754,9066,0,68.7,2.5,0.0
+2025-10-25,Non-Hispanic Other,266981,45436,0,>90,69.7,0.0
+2025-10-25,Non-Hispanic White,890500,62193,0,78.1,5.5,0.0
+2025-11-01,Hispanic/Latino,365027,10101,0,69.8,1.9,0.0
+2025-11-01,Non-Hispanic Asian,170119,7186,0,>90,3.8,0.0
+2025-11-01,Non-Hispanic Black,254326,10511,0,68.8,2.8,0.0
+2025-11-01,Non-Hispanic Other,267700,49018,0,>90,75.2,0.0
+2025-11-01,Non-Hispanic White,893791,70268,0,78.3,6.2,0.0
+2025-11-08,Hispanic/Latino,365317,11124,0,69.8,2.1,0.0
+2025-11-08,Non-Hispanic Asian,170355,7933,0,>90,4.2,0.0
+2025-11-08,Non-Hispanic Black,254620,11662,0,68.9,3.2,0.0
+2025-11-08,Non-Hispanic Other,268100,52401,0,>90,80.4,0.0
+2025-11-08,Non-Hispanic White,895418,76995,0,78.5,6.7,0.0
+2025-11-15,Hispanic/Latino,365465,12012,0,69.9,2.3,0.0
+2025-11-15,Non-Hispanic Asian,170423,8546,0,>90,4.5,0.0
+2025-11-15,Non-Hispanic Black,254760,12718,0,68.9,3.4,0.0
+2025-11-15,Non-Hispanic Other,268223,55158,0,>90,84.6,0.0
+2025-11-15,Non-Hispanic White,895797,82172,0,78.5,7.2,0.0
+2025-11-22,Hispanic/Latino,365612,12898,0,69.9,2.5,0.0
+2025-11-22,Non-Hispanic Asian,170489,9029,0,>90,4.8,0.0
+2025-11-22,Non-Hispanic Black,254857,13635,0,69.0,3.7,0.0
+2025-11-22,Non-Hispanic Other,268337,57503,0,>90,88.2,0.0
+2025-11-22,Non-Hispanic White,896171,86989,0,78.6,7.6,0.0
+2025-11-29,Hispanic/Latino,365707,13474,0,69.9,2.6,0.0
+2025-11-29,Non-Hispanic Asian,170533,9407,0,>90,5.0,0.0
+2025-11-29,Non-Hispanic Black,254929,14207,0,69.0,3.8,0.0
+2025-11-29,Non-Hispanic Other,268409,58844,0,>90,>90,0.0
+2025-11-29,Non-Hispanic White,896411,89776,0,78.6,7.9,0.0
+2025-12-06,Hispanic/Latino,365838,14118,0,69.9,2.7,0.0
+2025-12-06,Non-Hispanic Asian,170585,9716,0,>90,5.2,0.0
+2025-12-06,Non-Hispanic Black,255019,14872,0,69.0,4.0,0.0
+2025-12-06,Non-Hispanic Other,268474,60130,0,>90,>90,0.0
+2025-12-06,Non-Hispanic White,896637,92400,0,78.6,8.1,0.0
+2025-12-13,Hispanic/Latino,365928,14672,0,69.9,2.8,0.0
+2025-12-13,Non-Hispanic Asian,170629,9991,0,>90,5.3,0.0
+2025-12-13,Non-Hispanic Black,255104,15464,0,69.0,4.2,0.0
+2025-12-13,Non-Hispanic Other,268524,61299,0,>90,>90,0.0
+2025-12-13,Non-Hispanic White,896832,94644,0,78.6,8.3,0.0
+2025-12-20,Hispanic/Latino,366035,15174,0,70.0,2.9,0.0
+2025-12-20,Non-Hispanic Asian,170682,10296,0,>90,5.5,0.0
+2025-12-20,Non-Hispanic Black,255183,16098,0,69.1,4.4,0.0
+2025-12-20,Non-Hispanic Other,268583,62356,0,>90,>90,0.0
+2025-12-20,Non-Hispanic White,897016,96902,0,78.6,8.5,0.0
+2025-12-27,Hispanic/Latino,366087,15493,0,70.0,3.0,0.0
+2025-12-27,Non-Hispanic Asian,170710,10452,0,>90,5.5,0.0
+2025-12-27,Non-Hispanic Black,255228,16462,0,69.1,4.5,0.0
+2025-12-27,Non-Hispanic Other,268623,63000,0,>90,>90,0.0
+2025-12-27,Non-Hispanic White,897119,98080,0,78.6,8.6,0.0
+2026-01-03,Hispanic/Latino,366148,15848,0,70.0,3.0,0.0
+2026-01-03,Non-Hispanic Asian,170733,10630,0,>90,5.6,0.0
+2026-01-03,Non-Hispanic Black,255305,16858,0,69.1,4.6,0.0
+2026-01-03,Non-Hispanic Other,268670,63773,0,>90,>90,0.0
+2026-01-03,Non-Hispanic White,897252,99637,0,78.6,8.7,0.0
+2026-01-10,Hispanic/Latino,366255,16388,0,70.0,3.1,0.0
+2026-01-10,Non-Hispanic Asian,170768,10823,0,>90,5.7,0.0
+2026-01-10,Non-Hispanic Black,255380,17383,0,69.1,4.7,0.0
+2026-01-10,Non-Hispanic Other,268715,64627,0,>90,>90,0.0
+2026-01-10,Non-Hispanic White,897435,101443,0,78.7,8.9,0.0
+2026-01-17,Hispanic/Latino,366334,16746,0,70.0,3.2,0.0
+2026-01-17,Non-Hispanic Asian,170791,10983,0,>90,5.8,0.0
+2026-01-17,Non-Hispanic Black,255448,17775,0,69.1,4.8,0.0
+2026-01-17,Non-Hispanic Other,268752,65133,0,>90,>90,0.0
+2026-01-17,Non-Hispanic White,897552,102500,0,78.7,9.0,0.0
+2026-01-24,Hispanic/Latino,366402,17023,0,70.0,3.3,0.0
+2026-01-24,Non-Hispanic Asian,170805,11072,0,>90,5.9,0.0
+2026-01-24,Non-Hispanic Black,255508,18092,0,69.2,4.9,0.0
+2026-01-24,Non-Hispanic Other,268779,65443,0,>90,>90,0.0
+2026-01-24,Non-Hispanic White,897665,103236,0,78.7,9.0,0.0
+2026-01-31,Hispanic/Latino,366474,17302,0,70.1,3.3,0.0
+2026-01-31,Non-Hispanic Asian,170822,11164,0,>90,5.9,0.0
+2026-01-31,Non-Hispanic Black,255569,18423,0,69.2,5.0,0.0
+2026-01-31,Non-Hispanic Other,268801,65744,0,>90,>90,0.0
+2026-01-31,Non-Hispanic White,897754,103857,0,78.7,9.1,0.0
+2026-02-07,Hispanic/Latino,366536,17549,0,70.1,3.4,0.0
+2026-02-07,Non-Hispanic Asian,170842,11241,0,>90,6.0,0.0
+2026-02-07,Non-Hispanic Black,255611,18701,0,69.2,5.1,0.0
+2026-02-07,Non-Hispanic Other,268827,66032,0,>90,>90,0.0
+2026-02-07,Non-Hispanic White,897846,104429,0,78.7,9.2,0.0
+2026-02-14,Hispanic/Latino,366585,17758,0,70.1,3.4,0.0
+2026-02-14,Non-Hispanic Asian,170850,11298,0,>90,6.0,0.0
+2026-02-14,Non-Hispanic Black,255657,18937,0,69.2,5.1,0.0
+2026-02-14,Non-Hispanic Other,268842,66268,0,>90,>90,0.0
+2026-02-14,Non-Hispanic White,897924,104895,0,78.7,9.2,0.0
+2026-02-21,Hispanic/Latino,366626,17942,0,70.1,3.4,0.0
+2026-02-21,Non-Hispanic Asian,170869,11359,0,>90,6.0,0.0
+2026-02-21,Non-Hispanic Black,255693,19151,0,69.2,5.2,0.0
+2026-02-21,Non-Hispanic Other,268860,66489,0,>90,>90,0.0
+2026-02-21,Non-Hispanic White,897992,105298,0,78.7,9.2,0.0
+2026-02-28,Hispanic/Latino,366681,18113,0,70.1,3.5,0.0
+2026-02-28,Non-Hispanic Asian,170879,11413,0,>90,6.1,0.0
+2026-02-28,Non-Hispanic Black,255729,19356,0,69.2,5.2,0.0
+2026-02-28,Non-Hispanic Other,268877,66656,0,>90,>90,0.0
+2026-02-28,Non-Hispanic White,898048,105612,0,78.7,9.3,0.0
+2026-03-07,Hispanic/Latino,366718,18258,0,70.1,3.5,0.0
+2026-03-07,Non-Hispanic Asian,170895,11461,0,>90,6.1,0.0
+2026-03-07,Non-Hispanic Black,255759,19553,0,69.2,5.3,0.0
+2026-03-07,Non-Hispanic Other,268895,66845,0,>90,>90,0.0
+2026-03-07,Non-Hispanic White,898093,105937,0,78.7,9.3,0.0
+2026-03-14,Hispanic/Latino,366768,18408,0,70.1,3.5,0.0
+2026-03-14,Non-Hispanic Asian,170902,11513,0,>90,6.1,0.0
+2026-03-14,Non-Hispanic Black,255792,19706,0,69.2,5.3,0.0
+2026-03-14,Non-Hispanic Other,268910,66992,0,>90,>90,0.0
+2026-03-14,Non-Hispanic White,898140,106215,0,78.7,9.3,0.0
+2026-03-21,Hispanic/Latino,366807,18555,0,70.1,3.5,0.0
+2026-03-21,Non-Hispanic Asian,170910,11547,0,>90,6.1,0.0
+2026-03-21,Non-Hispanic Black,255815,19829,0,69.2,5.4,0.0
+2026-03-21,Non-Hispanic Other,268926,67119,0,>90,>90,0.0
+2026-03-21,Non-Hispanic White,898186,106494,0,78.7,9.3,0.0
+2026-03-28,Hispanic/Latino,366850,18713,0,70.1,3.6,0.0
+2026-03-28,Non-Hispanic Asian,170921,11592,0,>90,6.2,0.0
+2026-03-28,Non-Hispanic Black,255840,19983,0,69.2,5.4,0.0
+2026-03-28,Non-Hispanic Other,268941,67268,0,>90,>90,0.0
+2026-03-28,Non-Hispanic White,898241,106771,0,78.7,9.4,0.0
+2026-04-04,Hispanic/Latino,366880,18819,0,70.1,3.6,0.0
+2026-04-04,Non-Hispanic Asian,170930,11637,0,>90,6.2,0.0
+2026-04-04,Non-Hispanic Black,255865,20106,0,69.2,5.4,0.0
+2026-04-04,Non-Hispanic Other,268954,67410,0,>90,>90,0.0
+2026-04-04,Non-Hispanic White,898293,107061,0,78.7,9.4,0.0
+2026-04-11,Hispanic/Latino,366909,18913,0,70.1,3.6,0.0
+2026-04-11,Non-Hispanic Asian,170934,11670,0,>90,6.2,0.0
+2026-04-11,Non-Hispanic Black,255890,20232,0,69.3,5.5,0.0
+2026-04-11,Non-Hispanic Other,268995,67598,0,>90,>90,0.0
+2026-04-11,Non-Hispanic White,898331,107349,0,78.7,9.4,0.0
+2026-04-18,Hispanic/Latino,366924,19013,0,70.1,3.6,0.0
+2026-04-18,Non-Hispanic Asian,170941,11707,0,>90,6.2,0.0
+2026-04-18,Non-Hispanic Black,255910,20334,0,69.3,5.5,0.0
+2026-04-18,Non-Hispanic Other,269018,67771,0,>90,>90,0.0
+2026-04-18,Non-Hispanic White,898370,107576,0,78.7,9.4,0.0
+2026-04-25,Hispanic/Latino,366952,19131,0,70.1,3.7,0.0
+2026-04-25,Non-Hispanic Asian,170950,11737,0,>90,6.2,0.0
+2026-04-25,Non-Hispanic Black,255930,20428,0,69.3,5.5,0.0
+2026-04-25,Non-Hispanic Other,269039,67914,0,>90,>90,0.0
+2026-04-25,Non-Hispanic White,898408,107802,0,78.7,9.4,0.0
+2026-05-02,Hispanic/Latino,366976,19213,0,70.1,3.7,0.0
+2026-05-02,Non-Hispanic Asian,170964,11777,0,>90,6.3,0.0
+2026-05-02,Non-Hispanic Black,255949,20522,0,69.3,5.6,0.0
+2026-05-02,Non-Hispanic Other,269058,68046,0,>90,>90,0.0
+2026-05-02,Non-Hispanic White,898444,108014,0,78.7,9.5,0.0
+2026-05-09,Hispanic/Latino,367003,19291,0,70.2,3.7,0.0
+2026-05-09,Non-Hispanic Asian,170966,11796,0,>90,6.3,0.0
+2026-05-09,Non-Hispanic Black,255966,20654,0,69.3,5.6,0.0
+2026-05-09,Non-Hispanic Other,269078,68222,0,>90,>90,0.0
+2026-05-09,Non-Hispanic White,898485,108253,0,78.8,9.5,0.0
+2026-05-16,Hispanic/Latino,367028,19363,0,70.2,3.7,0.0
+2026-05-16,Non-Hispanic Asian,170970,11825,0,>90,6.3,0.0
+2026-05-16,Non-Hispanic Black,255988,20747,0,69.3,5.6,0.0
+2026-05-16,Non-Hispanic Other,269091,68346,0,>90,>90,0.0
+2026-05-16,Non-Hispanic White,898522,108474,0,78.8,9.5,0.0
+2026-05-23,Hispanic/Latino,367055,19441,0,70.2,3.7,0.0
+2026-05-23,Non-Hispanic Asian,170976,11854,0,>90,6.3,0.0
+2026-05-23,Non-Hispanic Black,256006,20832,0,69.3,5.6,0.0
+2026-05-23,Non-Hispanic Other,269103,68439,0,>90,>90,0.0
+2026-05-23,Non-Hispanic White,898552,108652,0,78.8,9.5,0.0
+2026-05-30,Hispanic/Latino,367067,19486,0,70.2,3.7,0.0
+2026-05-30,Non-Hispanic Asian,170981,11877,0,>90,6.3,0.0
+2026-05-30,Non-Hispanic Black,256024,20902,0,69.3,5.7,0.0
+2026-05-30,Non-Hispanic Other,269110,68521,0,>90,>90,0.0
+2026-05-30,Non-Hispanic White,898578,108816,0,78.8,9.5,0.0
+2026-06-06,Hispanic/Latino,367084,19546,0,70.2,3.7,0.0
+2026-06-06,Non-Hispanic Asian,170987,11900,0,>90,6.3,0.0
+2026-06-06,Non-Hispanic Black,256035,20965,0,69.3,5.7,0.0
+2026-06-06,Non-Hispanic Other,269122,68600,0,>90,>90,0.0
+2026-06-06,Non-Hispanic White,898597,108960,0,78.8,9.6,0.0
+2026-06-13,Hispanic/Latino,367095,19590,0,70.2,3.7,0.0
+2026-06-13,Non-Hispanic Asian,170994,11926,0,>90,6.3,0.0
+2026-06-13,Non-Hispanic Black,256046,21021,0,69.3,5.7,0.0
+2026-06-13,Non-Hispanic Other,269130,68689,0,>90,>90,0.0
+2026-06-13,Non-Hispanic White,898625,109082,0,78.8,9.6,0.0
+2026-06-20,Hispanic/Latino,367109,19628,0,70.2,3.8,0.0
+2026-06-20,Non-Hispanic Asian,170999,11944,0,>90,6.3,0.0
+2026-06-20,Non-Hispanic Black,256054,21066,0,69.3,5.7,0.0
+2026-06-20,Non-Hispanic Other,269135,68743,0,>90,>90,0.0
+2026-06-20,Non-Hispanic White,898640,109195,0,78.8,9.6,0.0
+2026-06-27,Hispanic/Latino,367120,19656,0,70.2,3.8,0.0
+2026-06-27,Non-Hispanic Asian,171003,11960,0,>90,6.3,0.0
+2026-06-27,Non-Hispanic Black,256070,21126,0,69.3,5.7,0.0
+2026-06-27,Non-Hispanic Other,269144,68812,0,>90,>90,0.0
+2026-06-27,Non-Hispanic White,898659,109314,0,78.8,9.6,0.0
+2026-07-04,Hispanic/Latino,367127,19684,0,70.2,3.8,0.0
+2026-07-04,Non-Hispanic Asian,171006,11976,0,>90,6.4,0.0
+2026-07-04,Non-Hispanic Black,256078,21157,0,69.3,5.7,0.0
+2026-07-04,Non-Hispanic Other,269148,68867,0,>90,>90,0.0
+2026-07-04,Non-Hispanic White,898668,109374,0,78.8,9.6,0.0
+2026-07-11,Hispanic/Latino,367136,19716,0,70.2,3.8,0.0
+2026-07-11,Non-Hispanic Asian,171009,11985,0,>90,6.4,0.0
+2026-07-11,Non-Hispanic Black,256090,21198,0,69.3,5.7,0.0
+2026-07-11,Non-Hispanic Other,269163,68926,0,>90,>90,0.0
+2026-07-11,Non-Hispanic White,898685,109466,0,78.8,9.6,0.0
+2026-07-18,Hispanic/Latino,367152,19758,0,70.2,3.8,0.0
+2026-07-18,Non-Hispanic Asian,171011,11999,0,>90,6.4,0.0
+2026-07-18,Non-Hispanic Black,256108,21260,0,69.3,5.8,0.0
+2026-07-18,Non-Hispanic Other,269171,68981,0,>90,>90,0.0
+2026-07-18,Non-Hispanic White,898707,109553,0,78.8,9.6,0.0
+2026-07-25,Hispanic/Latino,367162,19785,0,70.2,3.8,0.0
+2026-07-25,Non-Hispanic Asian,171015,12013,0,>90,6.4,0.0
+2026-07-25,Non-Hispanic Black,256120,21298,0,69.3,5.8,0.0
+2026-07-25,Non-Hispanic Other,269180,69037,0,>90,>90,0.0
+2026-07-25,Non-Hispanic White,898727,109637,0,78.8,9.6,0.0
+2026-08-01,Hispanic/Latino,367176,19844,0,70.2,3.8,0.0
+2026-08-01,Non-Hispanic Asian,171022,12035,0,>90,6.4,0.0
+2026-08-01,Non-Hispanic Black,256132,21353,0,69.3,5.8,0.0
+2026-08-01,Non-Hispanic Other,269189,69084,0,>90,>90,0.0
+2026-08-01,Non-Hispanic White,898739,109719,0,78.8,9.6,0.0
+2026-08-08,Hispanic/Latino,367197,19902,0,70.2,3.8,0.0
+2026-08-08,Non-Hispanic Asian,171030,12064,0,>90,6.4,0.0
+2026-08-08,Non-Hispanic Black,256150,21419,0,69.3,5.8,0.0
+2026-08-08,Non-Hispanic Other,269196,69174,0,>90,>90,0.0
+2026-08-08,Non-Hispanic White,898772,109858,0,78.8,9.6,0.0
+2026-08-15,Hispanic/Latino,367212,19962,0,70.2,3.8,0.0
+2026-08-15,Non-Hispanic Asian,171031,12076,0,>90,6.4,0.0
+2026-08-15,Non-Hispanic Black,256157,21466,0,69.3,5.8,0.0
+2026-08-15,Non-Hispanic Other,269203,69228,0,>90,>90,0.0
+2026-08-15,Non-Hispanic White,898787,109951,0,78.8,9.6,0.0
+2026-08-22,Hispanic/Latino,367222,20003,0,70.2,3.8,0.0
+2026-08-22,Non-Hispanic Asian,171033,12095,0,>90,6.4,0.0
+2026-08-22,Non-Hispanic Black,256167,21500,0,69.3,5.8,0.0
+2026-08-22,Non-Hispanic Other,269208,69303,0,>90,>90,0.0
+2026-08-22,Non-Hispanic White,898803,110053,0,78.8,9.6,0.0
+2026-08-29,Hispanic/Latino,367229,20033,4,70.2,3.8,0.0
+2026-08-29,Non-Hispanic Asian,171037,12100,2,>90,6.4,0.0
+2026-08-29,Non-Hispanic Black,256175,21528,7,69.3,5.8,0.0
+2026-08-29,Non-Hispanic Other,269210,69330,2,>90,>90,0.0
+2026-08-29,Non-Hispanic White,898819,110110,9,78.8,9.7,0.0
+2026-09-05,Hispanic/Latino,367246,20048,135,70.2,3.8,0.0
+2026-09-05,Non-Hispanic Asian,171054,12102,81,>90,6.4,0.0
+2026-09-05,Non-Hispanic Black,256206,21540,149,69.3,5.8,0.0
+2026-09-05,Non-Hispanic Other,269237,69339,797,>90,>90,1.2
+2026-09-05,Non-Hispanic White,898882,110124,885,78.8,9.7,0.1
+2026-09-12,Hispanic/Latino,367317,20063,512,70.2,3.8,0.1
+2026-09-12,Non-Hispanic Asian,171110,12111,352,>90,6.4,0.2
+2026-09-12,Non-Hispanic Black,256263,21550,521,69.4,5.8,0.1
+2026-09-12,Non-Hispanic Other,269304,69344,3509,>90,>90,5.4
+2026-09-12,Non-Hispanic White,899066,110149,3601,78.8,9.7,0.3
+2026-09-19,Hispanic/Latino,367413,20071,1057,70.2,3.8,0.2
+2026-09-19,Non-Hispanic Asian,171195,12114,740,>90,6.4,0.4
+2026-09-19,Non-Hispanic Black,256320,21554,1083,69.4,5.8,0.3
+2026-09-19,Non-Hispanic Other,269395,69357,7175,>90,>90,11.0
+2026-09-19,Non-Hispanic White,899367,110179,7567,78.8,9.7,0.7
+2026-09-26,Hispanic/Latino,367526,20081,1709,70.3,3.8,0.3
+2026-09-26,Non-Hispanic Asian,171279,12114,1246,>90,6.4,0.7
+2026-09-26,Non-Hispanic Black,256403,21569,1833,69.4,5.8,0.5
+2026-09-26,Non-Hispanic Other,269537,69368,11409,>90,>90,17.5
+2026-09-26,Non-Hispanic White,899768,110193,12751,78.9,9.7,1.1
+2026-10-03,Hispanic/Latino,367656,20093,2423,70.3,3.8,0.5
+2026-10-03,Non-Hispanic Asian,171387,12115,1735,>90,6.4,0.9
+2026-10-03,Non-Hispanic Black,256509,21601,2656,69.4,5.8,0.7
+2026-10-03,Non-Hispanic Other,269677,69381,16281,>90,>90,25.0
+2026-10-03,Non-Hispanic White,900262,110279,18739,78.9,9.7,1.6
